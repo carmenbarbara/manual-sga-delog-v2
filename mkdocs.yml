@@ -29,3 +29,9 @@ nav:
 
 extra_css:
   - custom.css
+extra_css:
+  - custom.css
+
+extra_javascript:
+  - js/customs.js
+  - js/fontsize.js
