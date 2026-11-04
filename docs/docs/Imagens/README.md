@@ -1,1 +1,0 @@
-docs/Imagens/README.md
