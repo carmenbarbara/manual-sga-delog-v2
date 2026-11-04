@@ -6,3 +6,24 @@ theme:
 nav:
   - Início: index.md
   - Apresentação: apresentacao.md
+  - Introdução: introducao.md
+  - Lista de Siglas: lista-siglas.md
+  - Glossário: glossario.md
+  - Objetivo: objetivo.md
+  - Enquadramento Institucional e Base Legal: enquadramento-legal.md
+  - Sistema de Gestão de Acesso (SGA): sga.md
+  - Visão Geral do Processo de Adesão: processo-adesao.md
+  - Preenchimento do Formulário: formulario.md
+  - Perfis de Acesso: perfis-acesso.md
+  - Cadastramento de Usuários e Perfis: usuarios.md
+  - Geração e Encaminhamento do Termo de Acesso: termo-acesso.md
+  - Acompanhamento da Solicitação: acompanhamento.md
+  - Solicitação de Novos Acessos: novos-acessos.md
+  - Gestão dos Usuários: gestao-usuarios.md
+  - Acesso ao SGA com Gov.br: login-govbr.md
+  - Disposições Finais: disposicoes-finais.md
+  - Perguntas Frequentes (FAQ): faq.md
+  - Ficha Institucional: ficha-institucional.md
+  - Ficha Técnica: ficha-tecnica.md
+  - Histórico de Versões: historico-versoes.md
+
