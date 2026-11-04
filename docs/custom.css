@@ -135,6 +135,16 @@
 .rst-content t*ble tr:nth-child(even) {
     backg*ound-color: #f8fafc;
 }
+/* Destaques */
+
+.admonition {
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.admonition-title {
+    font-weight: bold;
+}
 .wy-menu-vertical p.caption {
  margin-bottom: 8px !important;
 }
