@@ -4,13 +4,13 @@ Para acessar a funcionalidade de gerenciamento dos usuários, clique no ícone d
 
 Em seguida, clique em **"Usuários SIASG"** e selecione a opção **"Gerenciar usuários SIASG"**.
 
-Imagens/Figura-43.png
+![Figura 43](Imagens/Figura-43.png)
 
 *Figura 43 – Acesso ao gerenciamento de usuários SIASG.*
 
 ---
 
-Imagens/Figura-44.png
+![Figura 44](Imagens/Figura-44.png)
 
 *Figura 44 – Tela de gerenciamento de usuários SIASG.*
 
@@ -24,7 +24,7 @@ O responsável pelo cadastro poderá alterar apenas o **nome, o telefone, o e-ma
 
 Logo após realizar as alterações, clique em **"Salvar"**.
 
-Imagens/Figura-45.png
+![Figura 45](Imagens/Figura-45.png)
 
 *Figura 45 – Edição dos dados do usuário.*
 
@@ -36,7 +36,7 @@ Para alterar um registro, clique no ícone correspondente.
 
 O sistema permitirá **selecionar ou modificar o perfil existente**, a partir da lista de perfis disponíveis.
 
-Imagens/Figura-46.png
+![Figura 46](Imagens/Figura-46.png)
 
 *Figura 46 – Alteração do perfil de acesso do usuário.*
 
@@ -50,7 +50,7 @@ O sistema exibirá uma mensagem de confirmação.
 
 Clique em **"Não"** para cancelar o procedimento ou em **"Sim"** para confirmar a exclusão.
 
-Imagens/Figura-47.png
+![Figura 47](Imagens/Figura-47.png)
 
 *Figura 47 – Confirmação da exclusão de usuário.*
 
