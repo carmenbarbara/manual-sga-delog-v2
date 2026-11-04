@@ -1,1 +1,8 @@
+site_name: Manual do Sistema de Gestão de Acesso (SGA)
 
+theme:
+  name: readthedocs
+
+nav:
+  - Início: index.md
+  - Apresentação: apresentacao.md
