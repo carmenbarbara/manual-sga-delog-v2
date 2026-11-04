@@ -26,5 +26,6 @@ nav:
   - Ficha Institucional: ficha-institucional.md
   - Ficha Técnica: ficha-tecnica.md
   - Histórico de Versões: historico-versoes.md
-  extra_css:
+
+extra_css:
   - custom.css
