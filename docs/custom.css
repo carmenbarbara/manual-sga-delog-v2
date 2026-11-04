@@ -101,6 +101,17 @@
 }
 
 /* Dá um pequeno respiro (margem) abaixo dos títulos em azul para não ficar colado nos links */
+
+/* Legendas das figuras */
+
+.rst-content p em {
+    display: block;
+    text-align: center;
+    color: #555;
+    font-size: 0.9em;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
 .wy-menu-vertical p.caption {
  margin-bottom: 8px !important;
 }
