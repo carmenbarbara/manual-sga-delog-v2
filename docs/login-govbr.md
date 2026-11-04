@@ -7,13 +7,13 @@ Para acessar o Sistema de Gestão de Acesso (SGA), o responsável pelo cadastro 
 
 [Acessar a página do SGA no Portal Compras](https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/sistema-de-gestao-de-acesso-ao-siasg-sga/sistema-de-gestao-de-acesso-ao-siasg-sga-1/a-de-gestao-de-acesso-ao-siasg-sga)
 
-Imagens/Figura-55.png
+![Figura 55](Imagens/Figura-55.png)
 
 *Figura 55 – Acesso ao Sistema de Gestão de Acesso no Portal Compras.*
 
 ---
 
-Imagens/Figura-56.png
+![Figura 56](Imagens/Figura-56.png)
 
 *Figura 56 – Autenticação na plataforma Gov.br.*
 
