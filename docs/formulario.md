@@ -65,7 +65,7 @@ Antes de iniciar a solicitação, reúna as informações e os documentos que po
 
 Para iniciar o processo de adesão, o interessado deverá acessar a página do Sistema de Gestão de Acesso (SGA) no portal Compras.gov.br.
 
-Imagens/Figura-2.png
+![Figura 2](Imagens/Figura-2.png)
 
 *Figura 2 – Página inicial do Sistema de Gestão de Acesso (SGA).*
 
@@ -80,6 +80,6 @@ IV. Dados do dirigente da entidade privada sem fins lucrativos
 V. Dados do responsável  
 VI. De acordo
 
-Imagens/Figura-3.png
+![Figura 3](Imagens/Figura-3.png)
 
 *Figura 3 – Seções do formulário de adesão.*
