@@ -38,7 +38,7 @@ O responsável deverá:
 3. anexar o Termo de Acesso devidamente assinado no SGA;
 4. prosseguir com o encaminhamento da solicitação.
 
-![](Imagens/Figura-19.png)
+![Figura 19](Imagens/Figura-1.png)
 
 *Figura 19 – Tratamento de pendência relacionada ao Termo de Acesso.*
 
@@ -48,7 +48,7 @@ O responsável deverá:
 
 Caso a solicitação seja devolvida em razão de pendências no cadastro de usuários, o sistema direcionará o responsável para a tela correspondente.
 
-![](Imagens/Figura-20.png)
+![Figura 20](Imagens/Figura-1.png)
 
 *Figura 20 – Inconsistências identificadas no cadastro de usuários.*
 
