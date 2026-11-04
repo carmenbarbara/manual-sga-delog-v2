@@ -112,6 +112,29 @@
     margin-top: 8px;
     margin-bottom: 24px;
 }
+/* Tabelas */
+
+.rst-content table {
+ *  width: 100%;
+    border-collapse* collapse;
+    margin: 25px 0;
+}
+
+*rst-content table th {
+    backgro*nd-color: #005a9c;
+    color: #fff*ff;
+    text-align: left;
+    padd*ng: 10px;
+}
+
+.rst-content table td*{
+    padding: 10px;
+    border: 1*x solid #d1d5db;
+}
+
+.rst-content t*ble tr:nth-child(even) {
+    backg*ound-color: #f8fafc;
+}
 .wy-menu-vertical p.caption {
  margin-bottom: 8px !important;
 }
