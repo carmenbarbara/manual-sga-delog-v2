@@ -27,3 +27,4 @@ O fluxo contempla as etapas de **verificação da necessidade de acesso, solicit
 ![Figura 1](Imagens/Figura-1.png)
 
 *Figura 1 – Fluxo de Gestão de Acesso ao SIASG (SGA).*
+
