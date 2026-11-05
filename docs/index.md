@@ -64,4 +64,4 @@ Você pode acessar as seções específicas utilizando o menu lateral ou navegar
 * [Manual Completo](manual-completo.md)
   
 
-  * [🖨️ Manual completo: todo o manual em uma tela](manual-completo.md)
+ 
