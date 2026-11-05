@@ -61,3 +61,7 @@ Você pode acessar as seções específicas utilizando o menu lateral ou navegar
   * [Acesso ao SGA com Gov.br](login-govbr.md)
   * [Disposições Finais](disposicoes-finais.md)
   * [Perguntas Frequentes (FAQ)](faq.md)
+
+* **Página única:**
+
+  * [🖨️ Manual completo: todo o manual em uma tela](manual-completo.md)
