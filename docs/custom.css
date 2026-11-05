@@ -145,6 +145,18 @@
 .admonition-title {
     font-weight: bold;
 }
+/* Links institucionais */
+
+.rst-content a,
+.rst-content a:visited {
+    color: #005a9c !important;
+    text-decoration: none;
+}
+
+.rst-content a:hover {
+    color: #004080 !important;
+    text-decoration: underline;
+}
 .wy-menu-vertical p.caption {
  margin-bottom: 8px !important;
 }
