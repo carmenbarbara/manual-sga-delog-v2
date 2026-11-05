@@ -1,5 +1,17 @@
 <div style="display: flex; justify-content: flex-end; align-items: center; gap: 8px; margin: 10px 0;">
 
+<span style="font-size: 14px; color: #555; font-weight: bold;">
+Tamanho do texto:
+</span>
+
+<button onclick="diminuirFonte()">A-</button>
+
+<button onclick="resetarFonte()">A</button>
+
+<button onclick="aumentarFonte()">A+</button>
+
+
+</div>
 
 <button onclick="diminuirFonte()" title="Diminuir texto"
 style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">
