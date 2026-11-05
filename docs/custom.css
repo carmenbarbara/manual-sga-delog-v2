@@ -1,9 +1,13 @@
-/* 1. Destrava a largura máxima do contêiner principal do Read the Docs */
+/* Mantém a largura padrão dos tutoriais */
+
 .wy-nav-content {
- max-width: none !important; /* Remove a trava de 800px da página */
- width: 100% !important;
+    max-width: 900px !important;
+    margin: 0 auto !important;
 }
 
+.rst-content {
+    max-width: 900px !important;
+}
 /* 2. Remove o limite de largura do bloco de texto interno */
 .rst-content {
  max-width: none !important;
