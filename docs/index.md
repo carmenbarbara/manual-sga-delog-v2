@@ -1,12 +1,5 @@
 
 
-<button onclick="diminuirFonte()">A-</button>
-
-<button onclick="resetarFonte()">A</button>
-
-<button onclick="aumentarFonte()">A+</button>
-
-
 </div>
 
 <button onclick="diminuirFonte()" title="Diminuir texto"
