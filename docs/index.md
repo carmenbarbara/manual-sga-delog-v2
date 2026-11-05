@@ -38,11 +38,11 @@ O documento reúne orientações operacionais sobre a solicitação de adesão, 
 
 ---
 
-**Formatos de Visualização**
+## Formatos de Visualização
 
 Você pode acessar as seções específicas utilizando o menu lateral ou navegar diretamente pelas páginas principais do manual.
 
-* **Padrão - escolha a seção específica que quer acessar:**
+**Padrão - escolha a seção específica que quer acessar:**
 
   * [Apresentação](apresentacao.md)
   * [Introdução](introducao.md)
