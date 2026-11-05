@@ -23,6 +23,20 @@ A+
 </div>
 
 <p style="font-weight: bold; color: #d9534f; margin-top: 10px; margin-bottom: 20px;">
+
+---
+
+<div style="display: flex; justify-content: flex-end; margin: 20px 0;">
+
+<button onclick="window.print()"
+style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+
+🖨️ Imprimir ou baixar esta página
+
+</button>
+
+</div>
+  
 PÚBLICO-ALVO: ENTIDADES PRIVADAS SEM FINS LUCRATIVOS
 </p>
 
