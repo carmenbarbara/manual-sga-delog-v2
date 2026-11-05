@@ -161,3 +161,14 @@
  margin-bottom: 8px !important;
 }
 
+/* Padronização dos links */
+
+.rst-content a,
+.rst-content a:*isited {
+    color: #005a9c !impor*ant;
+    text-decoration: none;
+}
+*.rst-content a:hover {
+    color: *004080 !important;
+    text-decora*ion: underline;
+}
