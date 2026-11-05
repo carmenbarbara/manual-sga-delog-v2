@@ -20,7 +20,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 | Coordenação Técnica | Camilla Pais Faccin Bottecchia – Coordenadora |
 | Coordenação-Geral | Alexandre Augusto Villain da Silva – Coordenador-Geral |
 | Aprovação | Everton Batista dos Santos – Diretor de Normas e Sistemas de Logística |
-| Histórico de Revisões | V 1.0 – XX/XX/2026 – Criação do Manual |
+| Histórico de Revisões | V 1.0 – 05/11/2026 – Criação do Manual |
 | Contato | seges@gestao.gov.br<br>(61) 2020-6025 |
 
 ---
