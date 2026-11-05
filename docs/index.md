@@ -42,26 +42,26 @@ O documento reúne orientações operacionais sobre a solicitação de adesão, 
 
 Você pode acessar as seções específicas utilizando o menu lateral ou navegar diretamente pelas páginas principais do manual.
 
-**Padrão - escolha a seção específica que quer acessar:**
+Você pode acessar as seções específicas utilizando o menu lateral ou navegar diretamente pelas páginas principais do manual.
 
-  * [Apresentação](apresentacao.md)
-  * [Introdução](introducao.md)
-  * [Lista de Siglas](lista-siglas.md)
-  * [Glossário](glossario.md)
-  * [Objetivo](objetivo.md)
-  * [Sistema de Gestão de Acesso (SGA)](sga.md)
-  * [Visão Geral do Processo de Adesão](processo-adesao.md)
-  * [Preenchimento do Formulário](formulario.md)
-  * [Perfis de Acesso](perfis-acesso.md)
-  * [Cadastramento de Usuários e Perfis](usuarios.md)
-  * [Geração e Encaminhamento do Termo de Acesso](termo-acesso.md)
-  * [Acompanhamento da Solicitação](acompanhamento.md)
-  * [Solicitação de Novos Acessos](novos-acessos.md)
-  * [Gestão dos Usuários](gestao-usuarios.md)
-  * [Acesso ao SGA com Gov.br](login-govbr.md)
-  * [Disposições Finais](disposicoes-finais.md)
-  * [Perguntas Frequentes (FAQ)](faq.md)
-
-* **Página única:**
+* [Apresentação](apresentacao.md)
+* [Introdução](introducao.md)
+* [Lista de Siglas](lista-siglas.md)
+* [Glossário](glossario.md)
+* [Objetivo](objetivo.md)
+* [Sistema de Gestão de Acesso (SGA)](sga.md)
+* [Visão Geral do Processo de Adesão](processo-adesao.md)
+* [Preenchimento do Formulário](formulario.md)
+* [Perfis de Acesso](perfis-acesso.md)
+* [Cadastramento de Usuários e Perfis](usuarios.md)
+* [Geração e Encaminhamento do Termo de Acesso](termo-acesso.md)
+* [Acompanhamento da Solicitação](acompanhamento.md)
+* [Solicitação de Novos Acessos](novos-acessos.md)
+* [Gestão dos Usuários](gestao-usuarios.md)
+* [Acesso ao SGA com Gov.br](login-govbr.md)
+* [Disposições Finais](disposicoes-finais.md)
+* [Perguntas Frequentes (FAQ)](faq.md)
+* [Manual Completo](manual-completo.md)
+  
 
   * [🖨️ Manual completo: todo o manual em uma tela](manual-completo.md)
