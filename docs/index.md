@@ -10,12 +10,6 @@ Tamanho do texto:
 
 <button onclick="aumentarFonte()">A+</button>
 
-<button onclick="window.print()">
-🖨️ Imprimir ou baixar esta página
-</button>
-
-</div>
-
 <p style="font-weight: bold; color: #d9534f; margin-top: -5px; margin-bottom: 20px;">
 PÚBLICO-ALVO: ENTIDADES PRIVADAS SEM FINS LUCRATIVOS
 </p>
