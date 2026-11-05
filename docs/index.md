@@ -1,8 +1,4 @@
-<div style="display: flex; justify-content: flex-end; align-items: center; gap: 8px; margin: 10px 0;">
 
-<span style="font-size: 14px; color: #555; font-weight: bold;">
-Tamanho do texto:
-</span>
 
 <button onclick="diminuirFonte()">A-</button>
 
