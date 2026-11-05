@@ -1,5 +1,14 @@
 # Solicitação de Novos Acessos
+<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
+<button onclick="window.print()"
+style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+
+🖨️ Imprimir ou baixar esta página
+
+</button>
+
+</div>
 Após o encaminhamento da solicitação, o responsável deverá acompanhar seu andamento no SGA e observar as mensagens e situações apresentadas pelo sistema, conforme descrito na **seção 12.1 – Situações da solicitação**.
 
 Quando o Termo de Acesso e o cadastro dos usuários forem validados e os procedimentos necessários para a habilitação dos acessos forem concluídos, a solicitação será considerada finalizada.
