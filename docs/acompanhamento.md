@@ -63,7 +63,8 @@ Caso a solicitação seja devolvida em razão de pendências no cadastro de usu�
 
 Na opção **"Comentário"**, o sistema apresentará uma mensagem encaminhada pelo Ministério, contendo a descrição específica de cada pendência identificada.
 
-Para realizar a correção, o respons
+Para realizar a correção, o responsável deverá clicar no ícone de **"Editar"** para alterar o registro do usuário.
+
 <div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 <button onclick="window.print()"
