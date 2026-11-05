@@ -1,5 +1,14 @@
 # Preenchimento do Formulário
+<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
+<button onclick="window.print()"
+style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+
+🖨️ Imprimir ou baixar esta página
+
+</button>
+
+</div>
 Antes de iniciar a solicitação de adesão ao Sistema de Gestão de Acesso (SGA), a entidade privada sem fins lucrativos deve reunir as informações e os documentos necessários para o preenchimento do formulário.
 
 A preparação prévia contribui para reduzir a ocorrência de pendências e a necessidade de complementação das informações durante a análise da solicitação.
