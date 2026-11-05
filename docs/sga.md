@@ -1,5 +1,14 @@
 # Sistema de Gestão de Acesso (SGA)
+<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
+<button onclick="window.print()"
+style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+
+🖨️ Imprimir ou baixar esta página
+
+</button>
+
+</div>
 O **Sistema de Gestão de Acesso (SGA)** é uma ferramenta informatizada destinada a gerenciar o acesso e a utilização do **Sistema Integrado de Administração de Serviços Gerais (SIASG)** pelos públicos abrangidos pela regulamentação aplicável.
 
 Para as **entidades privadas sem fins lucrativos que recebem recursos públicos provenientes de convênios ou instrumentos congêneres**, o SGA é utilizado para viabilizar a solicitação de acesso ao SIASG e o gerenciamento dos usuários e respectivos perfis, observados os requisitos e procedimentos estabelecidos.
