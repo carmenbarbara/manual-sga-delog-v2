@@ -58,4 +58,4 @@ Camilla Pais Faccin Bottecchia
 
 ### Projeto Gráfico / Identidade Visual
 
-André Siqueira
+Coordenação de Comunicação e Marketing (Comkt/Delog/Seges/MGI)
