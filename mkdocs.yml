@@ -23,6 +23,7 @@ nav:
   - Acesso ao SGA com Gov.br: login-govbr.md
   - Disposições Finais: disposicoes-finais.md
   - Perguntas Frequentes (FAQ): faq.md
+  - Manual Completo: manual-completo.md
   - Ficha Institucional: ficha-institucional.md
   - Ficha Técnica: ficha-tecnica.md
   - Histórico de Versões: historico-versoes.md
@@ -37,11 +38,3 @@ extra_javascript:
 markdown_extensions:
   - admonition
   - tables
-
-  - Manual Completo: manual-completo.md
-
-      - Perguntas Frequentes (FAQ): faq.md
-  - Manual Completo: manual-completo.md
-  - Ficha Institucional: ficha-institucional.md
-  - Ficha Técnica: ficha-tecnica.md
-  - Histórico de Versões: historico-versoes.md
