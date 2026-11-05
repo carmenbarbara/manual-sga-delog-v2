@@ -1,4 +1,4 @@
-# Perguntas Frequentes (FAQ)
+# Perguntas e Respostas
 <div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 <button onclick="window.print()"
@@ -72,3 +72,16 @@ Não. As credenciais de acesso são pessoais e intransferíveis e não devem ser
 ## 11. A solicitação ou alteração de um perfil significa que o acesso está automaticamente habilitado?
 
 Não. A solicitação ou alteração de perfil está sujeita aos procedimentos de análise, validação e habilitação previstos no fluxo do SGA.
+
+---
+
+<div style="display: flex; justify-content: flex-end; margin: 20px 0;">
+
+<button onclick="window.print()"
+style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+
+🖨️ Imprimir ou baixar esta página
+
+</button>
+
+</div>
