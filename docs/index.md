@@ -1,7 +1,5 @@
 
 
-</div>
-
 <button onclick="diminuirFonte()" title="Diminuir texto"
 style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid #ccc; border-radius: 4px; background: #f8f9fa;">
 A-
