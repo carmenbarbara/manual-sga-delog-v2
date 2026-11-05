@@ -1,5 +1,14 @@
 # Perguntas Frequentes (FAQ)
+<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
+<button onclick="window.print()"
+style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+
+🖨️ Imprimir ou baixar esta página
+
+</button>
+
+</div>
 ## 1. Entidades privadas sem fins lucrativos podem utilizar o SGA?
 
 Sim. As entidades privadas sem fins lucrativos que atendam aos requisitos estabelecidos na regulamentação vigente poderão solicitar acesso ao ecossistema Compras.gov.br por meio do Sistema de Gestão de Acesso (SGA).
