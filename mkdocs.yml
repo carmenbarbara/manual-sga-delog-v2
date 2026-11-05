@@ -34,6 +34,6 @@ extra_javascript:
   - js/customs.js
   - js/fontsize.js
 
-  markdown_extensions:
+markdown_extensions:
   - admonition
   - tables
