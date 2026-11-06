@@ -1,4 +1,4 @@
-# Glossário
+# 4. Glossário
 <div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 <button onclick="window.print()"
