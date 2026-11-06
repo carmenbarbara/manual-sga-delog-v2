@@ -11,6 +11,24 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const overlay = document.getElementById('lightbox-overlay');
     const lightboxImg = document.getElementById('lightbox-image');
+    let scale = 1;
+
+lightboxImg.addEventListener('wheel', function(e) {
+
+    e.preventDefault();
+
+    if (e.deltaY < 0) {
+        scale += 0.1;
+    } else {
+        scale -= 0.1;
+
+        if (scale < 1) {
+            scale = 1;
+        }
+    }
+
+    lightboxImg.style.transform = `scale(${scale})`;
+});
     const closeBtn = document.getElementById('lightbox-close');
 
     const images = document.querySelectorAll('.rst-content img, .md-content img');
