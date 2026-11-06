@@ -50,7 +50,7 @@ Antes de iniciar a solicitação, reúna as informações e os documentos que po
 - Documento de vinculação ou representação.
 - Outros documentos exigidos para o perfil solicitado.
 
-!!! warning "ATENÇÃO"
+!!! warning "ATENÇÃO!"
 
     A documentação exigida pode variar conforme o perfil solicitado e a etapa do processo.
 
