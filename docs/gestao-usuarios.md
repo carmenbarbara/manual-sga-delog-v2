@@ -60,7 +60,7 @@ O sistema exibirá uma mensagem de confirmação.
 Clique em **"Não"** para cancelar o procedimento ou em **"Sim"** para confirmar a exclusão.
 
 
-!!! warning "ATENÇÃO"
+!!! warning "ATENÇÃO!"
 
     A funcionalidade de alteração da **UASG vinculada ao CPF do usuário** está disponível exclusivamente para a **Administração Pública**, permitindo ao órgão realizar a gestão de múltiplas UASGs.
 
