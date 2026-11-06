@@ -185,6 +185,15 @@
     word-wrap: break-word !important;
     overflow-wrap: break-word !important;
 }
+/* Recolhe grupos do menu lateral por padrão */
+
+.wy-menu-vertical ul ul {
+    display: none;
+}
+
+.wy-menu-vertical li.current > ul {
+    display: block;
+}
 *.rst-content a:hover {
     color: *004080 !important;
     text-decora*ion: underline;
