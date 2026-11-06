@@ -1,4 +1,4 @@
-# Solicitação de Novos Acessos
+# 13. Solicitação de Novos Acessos
 <div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 <button onclick="window.print()"
@@ -99,3 +99,10 @@ Para concluir a solicitação de acesso, o responsável deverá clicar em **"Ava
 |-----------|----------------|
 | Ofício anexado | Aguardar a análise do Ministério da Gestão e da Inovação em Serviços Públicos (MGI). Prazo de até 3 dias úteis. |
 | Solicitação de novos usuários com pendências | Consultar os comentários e verificar
+
+<button onclick="window.print()"
+style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+
+🖨️ Imprimir ou baixar esta página
+
+</button>
