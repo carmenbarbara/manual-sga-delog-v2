@@ -15,8 +15,6 @@ Quando o Termo de Acesso e o cadastro dos usuários forem validados e os procedi
 
 Após a conclusão, o responsável poderá realizar o gerenciamento dos usuários cadastrados e, quando necessário, solicitar novos acessos ao ecossistema Compras.
 
-Após a conclusão da solicitação inicial, o responsável pelo cadastro poderá solicitar novos acessos para usuários da entidade.
-
 Para iniciar uma nova solicitação, deverá:
 
 1. Acessar a página principal e clicar em **"Solicitar novos usuários"**.
