@@ -1,4 +1,5 @@
 # 10. Perfis de Acesso
+
 <div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 <button onclick="window.print()"
@@ -9,9 +10,12 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </button>
 
 </div>
+
 Os perfis de acesso no ecossistema Compras correspondem aos diferentes níveis de permissão atribuídos aos usuários das entidades privadas sem fins lucrativos, de acordo com suas responsabilidades e atribuições nos sistemas e serviços que utilizam.
 
-A definição e a concessão dos perfis de acesso devem observar as responsabilidades atribuídas a cada usuário e os requisitos aplicáveis a cada sistema ou serviço, contribuindo para a segregação de funções, a segurança das operações, a integridade das informações e a conformidade com os normativos vigentes.
+!!! warning "ATENÇÃO"
+
+    A definição e a concessão dos perfis de acesso devem observar as responsabilidades atribuídas a cada usuário e os requisitos aplicáveis a cada sistema ou serviço, contribuindo para a segregação de funções, a segurança das operações, a integridade das informações e a conformidade com os normativos vigentes.
 
 ## 10.1 Perfis disponíveis
 
@@ -61,6 +65,9 @@ Autoridade competente responsável por autorizar a publicação da contratação
 
 Agente responsável pelo preenchimento do formulário de cadastro da oportunidade e pela seleção do fornecedor vencedor, conforme as funcionalidades e regras aplicáveis ao sistema.
 
+---
+
+<div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
 <button onclick="window.print()"
 style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
