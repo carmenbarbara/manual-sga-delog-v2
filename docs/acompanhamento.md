@@ -1,4 +1,4 @@
-# Acompanhamento da Solicitação
+# 13. Acompanhamento da Solicitação
 <div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 <button onclick="window.print()"
@@ -11,7 +11,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </div>
 Após o encaminhamento do Termo de Acesso, o responsável poderá acompanhar, no SGA, o andamento da solicitação e verificar eventuais pendências identificadas durante a análise.
 
-## 12.1 Situações da solicitação
+## 13.1 Situações da solicitação
 
 A tabela a seguir apresenta as principais situações que podem ser exibidas no sistema e a ação esperada do responsável.
 
@@ -32,11 +32,11 @@ A tabela a seguir apresenta as principais situações que podem ser exibidas no 
 
 ---
 
-## 12.2 Tratamento de pendências
+## 13.2 Tratamento de pendências
 
 Quando a solicitação for devolvida para correção, o responsável deverá consultar a pendência apresentada no SGA e realizar os ajustes necessários antes de encaminhar novamente a solicitação para análise.
 
-### 12.2.1 Termo de Acesso sem assinatura
+### 13.2.1 Termo de Acesso sem assinatura
 
 Caso o Termo de Acesso seja devolvido por ausência de assinatura, o sistema direcionará o responsável para a tela correspondente.
 
@@ -53,7 +53,7 @@ O responsável deverá:
 
 ---
 
-### 12.2.2 Inconsistências no cadastro de usuários
+### 13.2.2 Inconsistências no cadastro de usuários
 
 Caso a solicitação seja devolvida em razão de pendências no cadastro de usuários, o sistema direcionará o responsável para a tela correspondente.
 
