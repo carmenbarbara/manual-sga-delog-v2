@@ -11,7 +11,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </div>
 | Versão | Data | Descrição da Alteração | Unidade Responsável |
 |---------|---------|---------|---------|
-| 1.0 | 05/11/2026 | Elaboração do Manual | COQUAT / DELOG / SEGES / MGI |
+| 1.0 | 11/2026 | Elaboração do Manual | COQUAT / DELOG / SEGES / MGI |
 
 ---
 
