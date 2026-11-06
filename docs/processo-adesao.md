@@ -27,7 +27,7 @@ VI. **Tratamento de pendências**: realização das correções solicitadas, qua
 
 VII. **Habilitação dos acessos**: habilitação dos usuários e respectivos perfis após a validação.
 
-## 8.1.  Fluxo de Gestão de Acesso ao SIASG (SGA)
+## 8.1  Fluxo de Gestão de Acesso ao SIASG (SGA)
 
 O fluxo a seguir apresenta, de forma consolidada, as principais etapas do processo de gestão de acesso no SGA, desde o início da solicitação pela entidade privada sem fins lucrativos até a habilitação dos usuários.
 
