@@ -18,11 +18,6 @@ Em seguida, clique em **"Usuários SIASG"** e selecione a opção **"Gerenciar u
 *Figura 43 – Acesso ao gerenciamento de usuários SIASG.*
 
 ---
-
-![Figura 44](Imagens/Figura-44.png)
-
-*Figura 44 – Tela de gerenciamento de usuários SIASG.*
-
 ## Significado das Ações
 
 ### Editar dados do usuário
@@ -32,6 +27,12 @@ Para editar um registro, clique no ícone correspondente.
 O responsável pelo cadastro poderá alterar apenas o **nome, o telefone, o e-mail e a matrícula**.
 
 Logo após realizar as alterações, clique em **"Salvar"**.
+
+
+![Figura 44](Imagens/Figura-44.png)
+
+*Figura 44 – Tela de gerenciamento de usuários SIASG.*
+
 
 ![Figura 45](Imagens/Figura-45.png)
 
