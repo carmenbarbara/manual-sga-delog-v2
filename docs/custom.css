@@ -216,3 +216,55 @@
     overflow-wrap: break-word !important;
     word-wrap: break-word !important;
 }
+
+/* =====================================================
+   NOTAS (AZUL)
+   ===================================================== */
+
+.rst-content .admonition.note {
+    background-color: #eef7fc !important;
+    border: 1px solid #c7ddeb !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 20px 0 !important;
+}
+
+.rst-content .admonition.note .admonition-title {
+    background-color: #72b4dc !important;
+    color: #ffffff !important;
+    font-weight: 700 !important;
+    border-bottom: none !important;
+    padding: 10px 15px !important;
+    margin: 0 !important;
+}
+
+.rst-content .admonition.note p:not(.admonition-title) {
+    padding: 12px 15px !important;
+}
+
+/* =====================================================
+   ATENÇÃO (AMARELO)
+   ===================================================== */
+
+.rst-content .admonition.warning {
+    background-color: #fff8e8 !important;
+    border: 1px solid #edd89b !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 20px 0 !important;
+}
+
+.rst-content .admonition.warning .admonition-title {
+    background-color: #f3cf70 !important;
+    color: #333333 !important;
+    font-weight: 700 !important;
+    border-bottom: none !important;
+    padding: 10px 15px !important;
+    margin: 0 !important;
+}
+
+.rst-content .admonition.warning p:not(.admonition-title) {
+    padding: 12px 15px !important;
+}
