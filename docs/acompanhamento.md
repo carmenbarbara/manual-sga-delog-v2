@@ -26,7 +26,7 @@ A tabela a seguir apresenta as principais situações que podem ser exibidas no 
 
 *Tabela 1 – Situações da solicitação e ações do responsável.*
 
-!!! warning "IMPORTANTE"
+!!! note "NOTA!"
 
     Os prazos e as situações apresentadas no SGA devem ser considerados conforme o andamento efetivo da solicitação no sistema.
 
