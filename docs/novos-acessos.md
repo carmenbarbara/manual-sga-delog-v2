@@ -91,7 +91,7 @@ Para concluir a solicitação de acesso, o responsável deverá clicar em **"Ava
 
 ---
 
-### Tabela 2 – Situações do sistema e ações do usuário
+###  Situações do sistema e ações do usuário
 
 | Situação | Ação do Usuário |
 |-----------|----------------|
