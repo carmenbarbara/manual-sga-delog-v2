@@ -19,24 +19,14 @@ style="padding: 6px 12px; font-weight: bold; cursor: pointer; border: 1px solid 
 A+
 </button>
 
+<button onclick="window.print()"
+style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2); margin-left: 10px;">
+🖨️ Imprimir ou baixar esta página
+</button>
 
 </div>
 
 <p style="font-weight: bold; color: #d9534f; margin-top: 10px; margin-bottom: 20px;">
-
----
-
-<div style="display: flex; justify-content: flex-end; margin: 20px 0;">
-
-<button onclick="window.print()"
-style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-
-🖨️ Imprimir ou baixar esta página
-
-</button>
-
-</div>
-  
 PÚBLICO-ALVO: ENTIDADES PRIVADAS SEM FINS LUCRATIVOS
 </p>
 
@@ -52,39 +42,24 @@ O documento reúne orientações operacionais sobre a solicitação de adesão, 
 
 Você pode acessar as seções específicas utilizando o menu lateral ou navegar diretamente pelas páginas principais do manual.
 
-Você pode acessar as seções específicas utilizando o menu lateral ou navegar diretamente pelas páginas principais do manual.
+* [1. Apresentação](apresentacao.md)
+* [2. Introdução](introducao.md)
+* [3. Lista de Siglas](lista-siglas.md)
+* [4. Glossário](glossario.md)
+* [5. Objetivo](objetivo.md)
+* [6. Sistema de Gestão de Acesso (SGA)](sga.md)
+* [7. Visão Geral do Processo de Adesão](processo-adesao.md)
+* [8. Preenchimento do Formulário](formulario.md)
+* [9. Perfis de Acesso](perfis-acesso.md)
+* [10. Cadastramento de Usuários e Perfis](usuarios.md)
+* [11. Geração e Encaminhamento do Termo de Acesso](termo-acesso.md)
+* [12. Acompanhamento da Solicitação](acompanhamento.md)
+* [13. Solicitação de Novos Acessos](novos-acessos.md)
+* [14. Gestão dos Usuários](gestao-usuarios.md)
+* [15. Acesso ao SGA com Gov.br](login-govbr.md)
+* [16. Disposições Finais](disposicoes-finais.md)
+* [17. Perguntas Frequentes](faq.md)
 
-* 1.[Apresentação](apresentacao.md)
-* 2.[Introdução](introducao.md)
-* 3.[Lista de Siglas](lista-siglas.md)
-* 4.[Glossário](glossario.md)
-* 5.[Objetivo](objetivo.md)
-* 6.[Sistema de Gestão de Acesso (SGA)](sga.md)
-* 7.[Visão Geral do Processo de Adesão](processo-adesao.md)
-* 8.[Preenchimento do Formulário](formulario.md)
-* 9.[Perfis de Acesso](perfis-acesso.md)
-* 10.[Cadastramento de Usuários e Perfis](usuarios.md)
-* 11.[Geração e Encaminhamento do Termo de Acesso](termo-acesso.md)
-* 12.[Acompanhamento da Solicitação](acompanhamento.md)
-* 13.[Solicitação de Novos Acessos](novos-acessos.md)
-* 14.[Gestão dos Usuários](gestao-usuarios.md)
-* 15.[Acesso ao SGA com Gov.br](login-govbr.md)
-* 16.[Disposições Finais](disposicoes-finais.md)
-* 17.[Perguntas e Respostas](perguntas-respostas.md)
-* 18.[Manual Completo](manual-completo.md)
+## Página única
 
----
-
-<div style="display: flex; justify-content: flex-end; margin: 20px 0;">
-
-<button onclick="window.print()"
-style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-
-🖨️ Imprimir ou baixar esta página
-
-</button>
-
-</div>  
-  
-
- 
+* [🖨️ Manual Completo - Versão para Impressão](manual-completo.md)
