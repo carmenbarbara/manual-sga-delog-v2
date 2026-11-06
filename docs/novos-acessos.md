@@ -51,7 +51,7 @@ No campo **"Ações"**, o responsável poderá **editar, excluir ou visualizar o
 
 ---
 
-Após a formação da lista de usuários, clique em **"Avançar"** para prosseguir à próxima etapa.
+Após a formação da lista de usuários, clique em **"Salvar"** para prosseguir à próxima etapa.
 
 ![Figura 31](Imagens/Figura-31.png)
 
