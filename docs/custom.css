@@ -172,6 +172,19 @@
     color: #005a9c !impor*ant;
     text-decoration: none;
 }
+/* Tabelas sem barra horizontal */
+
+.rst-content table {
+    width: 100% !important;
+    table-layout: fixed !important;
+}
+
+.rst-content table th,
+.rst-content table td {
+    white-space: normal !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+}
 *.rst-content a:hover {
     color: *004080 !important;
     text-decora*ion: underline;
