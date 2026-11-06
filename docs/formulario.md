@@ -11,7 +11,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-!!! note "NOTA"
+!!! note "NOTA!"
 
     Antes de iniciar a solicitação de adesão ao Sistema de Gestão de Acesso (SGA), a entidade privada sem fins lucrativos deve reunir as informações e os documentos necessários para o preenchimento do formulário.
 
@@ -74,7 +74,7 @@ Antes de iniciar a solicitação, reúna as informações e os documentos que po
 - Documentos do órgão concedente.
 - Arquivos válidos e legíveis.
 
-!!! warning "ATENÇÃO"
+!!! warning "ATENÇÃO!"
 
     Reúna todas as informações e documentos antes de iniciar o preenchimento.
 
