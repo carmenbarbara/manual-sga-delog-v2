@@ -242,6 +242,29 @@
 .rst-content .admonition.note p:not(.admonition-title) {
     padding: 12px 15px !important;
 }
+/* Remove barras de rolagem das caixas */
+
+.rst-content .admonition,
+.rst-content .note,
+.rst-content .warning {
+    overflow-x: hidden !important;
+    overflow-y: visible !important;
+}
+
+.rst-content .admonition p,
+.rst-content .note p,
+.rst-content .warning p {
+    white-space: normal !important;
+    overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
+    max-width: 100% !important;
+}
+
+/* Remove scroll interno criado pelo tema */
+
+.rst-content .admonition * {
+    overflow-x: visible !important;
+}
 
 /* =====================================================
    ATENÇÃO (AMARELO)
@@ -267,4 +290,28 @@
 
 .rst-content .admonition.warning p:not(.admonition-title) {
     padding: 12px 15px !important;
+}
+
+/* Remove barras de rolagem das caixas */
+
+.rst-content .admonition,
+.rst-content .note,
+.rst-content .warning {
+    overflow-x: hidden !important;
+    overflow-y: visible !important;
+}
+
+.rst-content .admonition p,
+.rst-content .note p,
+.rst-content .warning p {
+    white-space: normal !important;
+    overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
+    max-width: 100% !important;
+}
+
+/* Remove scroll interno criado pelo tema */
+
+.rst-content .admonition * {
+    overflow-x: visible !important;
 }
