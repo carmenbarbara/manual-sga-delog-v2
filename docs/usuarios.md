@@ -15,7 +15,7 @@ Para realizar o cadastramento de um usuário, preencha os campos solicitados e s
 
 *Figura 10 – Cadastramento de usuários e seleção de perfis.*
 
-!!! warning "IMPORTANTE"
+!!! warning "ATENÇÃO!"
 
     Para o perfil de **Pregoeiro (Agente de Contratação)**, é obrigatório o anexo do **ato de designação específico** para o exercício da função.
 
@@ -25,7 +25,7 @@ Para realizar o cadastramento de um usuário, preencha os campos solicitados e s
 
 *Figura 11 – Seleção do perfil de acesso do usuário.*
 
-!!! warning "ATENÇÃO"
+!!! warning "ATENÇÃO!"
 
     Após salvar os dados do usuário que utilizará o ecossistema Compras, o SGA permanecerá na mesma tela, permitindo a inclusão de novos usuários, se necessário.
 
@@ -54,4 +54,6 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 🖨️ Imprimir ou baixar esta página
 
 </button>
+
+</div>
 
