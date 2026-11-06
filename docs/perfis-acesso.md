@@ -13,7 +13,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 Os perfis de acesso no ecossistema Compras correspondem aos diferentes níveis de permissão atribuídos aos usuários das entidades privadas sem fins lucrativos, de acordo com suas responsabilidades e atribuições nos sistemas e serviços que utilizam.
 
-!!! warning "ATENÇÃO"
+!!! warning "ATENÇÃO!"
 
     A definição e a concessão dos perfis de acesso devem observar as responsabilidades atribuídas a cada usuário e os requisitos aplicáveis a cada sistema ou serviço, contribuindo para a segregação de funções, a segurança das operações, a integridade das informações e a conformidade com os normativos vigentes.
 
