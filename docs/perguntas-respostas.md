@@ -1,4 +1,4 @@
-# 16. Perguntas e Respostas
+# 16. Perguntas Frequêntes
 <div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 <button onclick="window.print()"
@@ -76,6 +76,8 @@ Não. A solicitação ou alteração de perfil está sujeita aos procedimentos d
 
 ---
 
+---
+
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
 <button onclick="window.print()"
@@ -84,3 +86,5 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 🖨️ Imprimir ou baixar esta página
 
 </button>
+
+</div>
