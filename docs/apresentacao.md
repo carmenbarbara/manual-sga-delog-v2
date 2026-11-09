@@ -40,7 +40,6 @@ O documento reúne orientações operacionais sobre a solicitação de adesão, 
 
 As orientações estão organizadas para apoiar o usuário desde a solicitação de adesão até a gestão dos acessos da entidade no ecossistema Compras.
 
----
 
 <button onclick="window.print()"
 style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
@@ -50,3 +49,4 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </button>
 
 </div>
+
