@@ -116,7 +116,7 @@ IV. Dados do dirigente da entidade privada sem fins lucrativos
 V. Dados do responsável  
 VI. De acordo
 
-Imagens/Figura-3.png
+![Figura 3](Imagens/Figura-3.png)
 
 *Figura 3 – Seções do formulário de adesão.*
 
