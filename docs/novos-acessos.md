@@ -30,7 +30,6 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 
 # 14. Solicitação de Novos Acessos
-<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 
 Após o encaminhamento da solicitação, o responsável deverá acompanhar seu andamento no SGA e observar as mensagens e situações apresentadas pelo sistema, conforme descrito na **seção 12.1 – Situações da solicitação**.
