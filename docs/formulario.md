@@ -28,13 +28,9 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-
 # 9. Preenchimento do Formulário
 
-<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
-
-
-!!! note "NOTA!"
+!!! note "Nota"
 
     Antes de iniciar a solicitação de adesão ao Sistema de Gestão de Acesso (SGA), a entidade privada sem fins lucrativos deve reunir as informações e os documentos necessários para o preenchimento do formulário.
 
@@ -73,7 +69,7 @@ Antes de iniciar a solicitação, reúna as informações e os documentos que po
 - Documento de vinculação ou representação.
 - Outros documentos exigidos para o perfil solicitado.
 
-!!! warning "ATENÇÃO!"
+!!! warning "Atenção"
 
     A documentação exigida pode variar conforme o perfil solicitado e a etapa do processo.
 
@@ -97,7 +93,7 @@ Antes de iniciar a solicitação, reúna as informações e os documentos que po
 - Documentos do órgão concedente.
 - Arquivos válidos e legíveis.
 
-!!! warning "ATENÇÃO!"
+!!! warning "Atenção"
 
     Reúna todas as informações e documentos antes de iniciar o preenchimento.
 
@@ -105,13 +101,13 @@ Antes de iniciar a solicitação, reúna as informações e os documentos que po
 
 Para iniciar o processo de adesão, o interessado deverá acessar a página do Sistema de Gestão de Acesso (SGA) no portal Compras.gov.br.
 
-![Figura 2](Imagens/Figura-2.png)
+Imagens/Figura-2.png
 
 *Figura 2 – Página inicial do Sistema de Gestão de Acesso (SGA).*
 
 O formulário eletrônico deverá ser preenchido com todas as informações solicitadas.
 
-Ao selecionar a ades Privadas sem Fins Lucrativos**, serão disponibilizadas as seguintes seções:
+Ao selecionar a opção **Entidades Privadas sem Fins Lucrativos**, serão disponibilizadas as seguintes seções:
 
 I. Dados da entidade privada sem fins lucrativos  
 II. Dados do órgão concedente  
