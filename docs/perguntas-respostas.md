@@ -30,7 +30,6 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 
 # 18. Perguntas e Respostas
-<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 
 ## 1. Entidades privadas sem fins lucrativos podem utilizar o SGA?
@@ -97,8 +96,8 @@ Não. As credenciais de acesso são pessoais e intransferíveis e não devem ser
 
 Não. A solicitação ou alteração de perfil está sujeita aos procedimentos de análise, validação e habilitação previstos no fluxo do SGA.
 
----
 
+---
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
