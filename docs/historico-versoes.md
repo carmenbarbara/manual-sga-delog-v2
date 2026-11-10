@@ -30,7 +30,6 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 
 # Histórico de Versões
-<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 
 | Versão | Data | Descrição da Alteração | Unidade Responsável |
