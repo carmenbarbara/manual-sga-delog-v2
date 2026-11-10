@@ -30,7 +30,6 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 
 # 2. Introdução
-<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 
 O Sistema de Gestão de Acesso (SGA) é o sistema utilizado para gerenciar o acesso ao ecossistema Compras do Governo Federal.
@@ -44,7 +43,14 @@ Este manual apresenta orientações sobre os procedimentos necessários para uti
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
 <button onclick="window.print()"
-style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+style="background-color: #0056b3;
+color: white;
+padding: 6px 16px;
+border: none;
+border-radius: 5px;
+font-size: 14px;
+cursor: pointer;
+box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
 
 🖨️ Imprimir ou baixar esta página
 
