@@ -54,7 +54,8 @@ O fluxo a seguir apresenta, de forma consolidada, as principais etapas do proces
 
 O fluxo contempla as etapas de **verificação da necessidade de acesso, solicitação institucional, cadastramento de usuários e perfis, formalização do Termo de Acesso, análise e validação, tratamento de pendências e habilitação dos acessos**.
 
-Imagens/Figura-1.png
+![Figura 1](Imagens/Figura-1.png)
+
 
 *Figura 1 – Fluxo de Gestão de Acesso ao SIASG (SGA).*
 
