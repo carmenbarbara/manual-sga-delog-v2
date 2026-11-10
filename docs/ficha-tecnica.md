@@ -29,7 +29,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </div>
 
 # Ficha Técnica
-<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
+
 
 
 | Item | Informação |
