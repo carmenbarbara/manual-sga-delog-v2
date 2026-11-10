@@ -30,7 +30,6 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 
 # 16. Acesso ao SGA com Gov.br
-<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 
 Para acessar o Sistema de Gestão de Acesso (SGA), o responsável pelo cadastro deverá utilizar sua conta Gov.br.
@@ -56,6 +55,8 @@ Para acessar o Sistema de Gestão de Acesso (SGA), o responsável pelo cadastro 
 
 
    ---
+
+---
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
