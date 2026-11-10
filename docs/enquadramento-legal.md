@@ -28,9 +28,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-
 # 6. Enquadramento Institucional e Base Legal
-<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 A utilização do Sistema de Gestão de Acesso (SGA) está inserida no contexto do ecossistema Compras.gov.br e observa os normativos e diretrizes aplicáveis à utilização dos sistemas de compras e à gestão de acesso.
 
