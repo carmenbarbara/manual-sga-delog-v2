@@ -28,9 +28,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-
 # 8. Visão Geral do Processo de Adesão
-<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 O processo de adesão ao Sistema de Gestão de Acesso (SGA) compreende etapas que envolvem a verificação da necessidade de acesso, a solicitação institucional, o cadastramento de usuários e perfis de acesso, a formalização do Termo de Acesso, a análise e validação da solicitação e a habilitação dos acessos, incluindo, quando aplicável, o tratamento de pendências.
 
@@ -50,15 +48,19 @@ VI. **Tratamento de pendências**: realização das correções solicitadas, qua
 
 VII. **Habilitação dos acessos**: habilitação dos usuários e respectivos perfis após a validação.
 
-## 8.1  Fluxo de Gestão de Acesso ao SIASG (SGA)
+## 8.1 Fluxo de Gestão de Acesso ao SIASG (SGA)
 
 O fluxo a seguir apresenta, de forma consolidada, as principais etapas do processo de gestão de acesso no SGA, desde o início da solicitação pela entidade privada sem fins lucrativos até a habilitação dos usuários.
 
 O fluxo contempla as etapas de **verificação da necessidade de acesso, solicitação institucional, cadastramento de usuários e perfis, formalização do Termo de Acesso, análise e validação, tratamento de pendências e habilitação dos acessos**.
 
-![Figura 1](Imagens/Figura-1.png)
+Imagens/Figura-1.png
 
 *Figura 1 – Fluxo de Gestão de Acesso ao SIASG (SGA).*
+
+---
+
+<div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
 <button onclick="window.print()"
 style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
