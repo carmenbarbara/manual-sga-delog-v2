@@ -1,155 +1,35 @@
-/* Mantém a largura padrão dos tutoriais */
+/* ======================================================
+   LARGURA DA PÁGINA
+   ====================================================== */
 
 .wy-nav-content {
     max-width: 900px !important;
     margin: 0 auto !important;
 }
 
-.rst-content {
-    max-width: 900px !important;
-}
-/* 2. Remove o limite de largura do bloco de texto interno */
-.rst-content {
- max-width: none !important;
-}
+/* ======================================================
+   MENU LATERAL
+   ====================================================== */
 
-/* 3. Garante que as imagens ocupem uma porcentagem % da largura total com borda elegante */
-.rst-content img, .md-content img {
- width: 100% !important;
- max-width: 100% !important;
- height: auto !important;
- display: block;
- margin: 28px auto !important;
- border: 1px solid #d1d5db;
- border-radius: 8px;
- box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+.wy-menu-vertical ul ul {
+    display: none;
 }
 
-/* --- ESTILOS DO POPUP/LIGHTBOX --- */
-
-/* 1. Prepara a imagem original no texto */
-.rst-content img, .md-content img {
- cursor: zoom-in; /* Transforma o mouse em uma lupa ao passar por cima */
- transition: transform 0.2s ease; /* Efeito suave ao passar o mouse */
+.wy-menu-vertical li.current > ul {
+    display: block;
 }
 
-.rst-content img:hover {
- transform: scale(1.01); /* Micro-zoom no hover para indicar que é clicável */
-}
-
-/* 2. O contêiner do Popup (a camada escura de fundo) */
-#lightbox-overlay {
- display: none; /* Começa escondido */
- position: fixed;
- z-index: 9999; /* Fica em cima de tudo (menu, cabeçalho) */
- top: 0;
- left: 0;
- width: 100%;
- height: 100%;
- background-color: rgba(0, 0, 0, 0.85); /* Fundo preto 85% transparente */
- cursor: zoom-out; /* Mouse vira 'lupa de menos' para fechar ao clicar no fundo */
- opacity: 0;
- transition: opacity 0.3s ease; /* Animação de esmaecer */
-}
-
-/* Quando o popup estiver ativo */
-#lightbox-overlay.active {
- display: flex; /* Exibe e alinha a imagem no centro */
- justify-content: center;
- align-items: center;
- opacity: 1;
-}
-
-/* 3. A imagem dentro do popup */
-#lightbox-image {
- max-width: 90%; /* Ocupa no máximo 90% da largura da tela */
- max-height: 90%; /* Ocupa no máximo 90% da altura da tela */
- border: 4px solid white;
- border-radius: 4px;
- box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
- cursor: default; /* Mouse normal em cima da imagem */
- transform: scale(0.9);
- transition: transform 0.3s ease;
-}
-
-/* Animação da imagem crescendo ao abrir */
-#lightbox-overlay.active #lightbox-image {
- transform: scale(1);
-}
-
-/* 4. O botão de fechar (X) */
-#lightbox-close {
- position: absolute;
- top: 20px;
- right: 30px;
- color: white;
- font-size: 50px;
- font-weight: bold;
- cursor: pointer;
- transition: 0.2s;
- user-select: none;
-}
-
-#lightbox-close:hover {
- color: #ccc;
- transform: scale(1.1);
-}
-
-/* Permite a quebra de linha para os títulos (texto azul) e links longos no menu lateral */
 .wy-menu-vertical p.caption,
 .wy-menu-vertical span.caption-text,
 .wy-menu-vertical a {
- white-space: normal !important;
- word-wrap: break-word !important;
- line-height: 1.4 !important;
+    white-space: normal !important;
+    word-wrap: break-word !important;
+    line-height: 1.4 !important;
 }
 
-/* Dá um pequeno respiro (margem) abaixo dos títulos em azul para não ficar colado nos links */
-
-/* Legendas das figuras */
-
-.rst-content p em {
-    display: block;
-    text-align: center;
-    color: #555;
-    font-size: 0.9em;
-    margin-top: 8px;
-    margin-bottom: 24px;
-}
-/* Tabelas */
-
-.rst-content table {
- *  width: 100%;
-    border-collapse* collapse;
-    margin: 25px 0;
-}
-
-*rst-content table th {
-    backgro*nd-color: #005a9c;
-    color: #fff*ff;
-    text-align: left;
-    padd*ng: 10px;
-}
-
-.rst-content table td*{
-    padding: 10px;
-    border: 1*x solid #d1d5db;
-}
-
-.rst-content t*ble tr:nth-child(even) {
-    backg*ound-color: #f8fafc;
-}
-/* Destaques */
-
-.admonition {
-    border-radius: 8px;
-    margin: 20px 0;
-}
-
-.admonition-title {
-    font-weight: bold;
-}
-/* Links institucionais */
+/* ======================================================
+   LINKS
+   ====================================================== */
 
 .rst-content a,
 .rst-content a:visited {
@@ -161,157 +41,195 @@
     color: #004080 !important;
     text-decoration: underline;
 }
-.wy-menu-vertical p.caption {
- margin-bottom: 8px !important;
+
+/* ======================================================
+   IMAGENS
+   ====================================================== */
+
+.rst-content img,
+.md-content img {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    display: block;
+    margin: 28px auto !important;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    cursor: zoom-in;
+    transition: transform 0.2s ease;
 }
 
-/* Padronização dos links */
-
-.rst-content a,
-.rst-content a:*isited {
-    color: #005a9c !impor*ant;
-    text-decoration: none;
+.rst-content img:hover {
+    transform: scale(1.01);
 }
-/* Tabelas sem barra horizontal */
+
+/* ======================================================
+   LEGENDA DAS FIGURAS
+   ====================================================== */
+
+.rst-content p em {
+    display: block;
+    text-align: center;
+    color: #555;
+    font-size: 0.9em;
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+
+/* ======================================================
+   TABELAS
+   ====================================================== */
 
 .rst-content table {
     width: 100% !important;
     table-layout: fixed !important;
+    border-collapse: collapse;
+    margin: 25px 0;
 }
 
-.rst-content table th,
+.rst-content table th {
+    background-color: #005a9c;
+    color: #ffffff;
+    text-align: left;
+    padding: 10px;
+}
+
 .rst-content table td {
+    padding: 10px;
+    border: 1px solid #d1d5db;
     white-space: normal !important;
     word-wrap: break-word !important;
     overflow-wrap: break-word !important;
 }
-/* Recolhe grupos do menu lateral por padrão */
 
-.wy-menu-vertical ul ul {
-    display: none;
+.rst-content table tr:nth-child(even) {
+    background-color: #f8fafc;
 }
 
-.wy-menu-vertical li.current > ul {
-    display: block;
-}
-*.rst-content a:hover {
-    color: *004080 !important;
-    text-decora*ion: underline;
-}
-/* Correção das caixas Nota, Atenção e Importante */
-
-.admonition,
-.rst-content .admonition,
-.rst-content .note,
-.rst-content .warning,
-.rst-content .important {
-    max-width: 100% !important;
-    overflow-x: visible !important;
-    box-sizing: border-box !important;
-}
-
-.admonition p,
-.rst-content .admonition p {
-    white-space: normal !important;
-    overflow-wrap: break-word !important;
-    word-wrap: break-word !important;
-}
-
-/* =====================================================
-   NOTAS (AZUL)
-   ===================================================== */
+/* ======================================================
+   NOTA
+   ====================================================== */
 
 .rst-content .admonition.note {
-    background-color: #eef7fc !important;
-    border: 1px solid #c7ddeb !important;
-    border-radius: 0 !important;
-    box-shadow: none !important;
-    padding: 0 !important;
-    margin: 20px 0 !important;
+    background-color: #eef7fc;
+    border: 1px solid #c9ddeb;
+    margin: 20px 0;
+    padding: 0;
 }
 
 .rst-content .admonition.note .admonition-title {
-    background-color: #72b4dc !important;
-    color: #ffffff !important;
-    font-weight: 700 !important;
-    border-bottom: none !important;
-    padding: 10px 15px !important;
-    margin: 0 !important;
+    background-color: #72b4dc;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 10px 15px;
+    margin: 0;
 }
 
 .rst-content .admonition.note p:not(.admonition-title) {
-    padding: 12px 15px !important;
-}
-/* Remove barras de rolagem das caixas */
-
-.rst-content .admonition,
-.rst-content .note,
-.rst-content .warning {
-    overflow-x: hidden !important;
-    overflow-y: visible !important;
+    padding: 12px 15px;
 }
 
-.rst-content .admonition p,
-.rst-content .note p,
-.rst-content .warning p {
-    white-space: normal !important;
-    overflow-wrap: break-word !important;
-    word-wrap: break-word !important;
-    max-width: 100% !important;
-}
-
-/* Remove scroll interno criado pelo tema */
-
-.rst-content .admonition * {
-    overflow-x: visible !important;
-}
-
-/* =====================================================
-   ATENÇÃO (AMARELO)
-   ===================================================== */
+/* ======================================================
+   ATENÇÃO
+   PADRÃO DA IMAGEM QUE VOCÊ ENVIOU
+   ====================================================== */
 
 .rst-content .admonition.warning {
-    background-color: #fff8e8 !important;
-    border: 1px solid #edd89b !important;
-    border-radius: 0 !important;
-    box-shadow: none !important;
-    padding: 0 !important;
-    margin: 20px 0 !important;
+    background-color: #f2e3c5;
+    border: none;
+    margin: 20px 0;
+    padding: 0;
 }
 
 .rst-content .admonition.warning .admonition-title {
-    background-color: #f3cf70 !important;
-    color: #333333 !important;
-    font-weight: 700 !important;
-    border-bottom: none !important;
-    padding: 10px 15px !important;
-    margin: 0 !important;
+    background-color: #e7ad74;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 10px 15px;
+    margin: 0;
 }
 
 .rst-content .admonition.warning p:not(.admonition-title) {
-    padding: 12px 15px !important;
+    padding: 12px 15px;
 }
 
-/* Remove barras de rolagem das caixas */
+/* ======================================================
+   REMOVE BARRA DE ROLAGEM DOS DESTAQUES
+   ====================================================== */
 
-.rst-content .admonition,
-.rst-content .note,
-.rst-content .warning {
-    overflow-x: hidden !important;
-    overflow-y: visible !important;
+.rst-content .admonition {
+    overflow: hidden;
 }
 
-.rst-content .admonition p,
-.rst-content .note p,
-.rst-content .warning p {
-    white-space: normal !important;
-    overflow-wrap: break-word !important;
-    word-wrap: break-word !important;
-    max-width: 100% !important;
+.rst-content .admonition p {
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
 }
 
-/* Remove scroll interno criado pelo tema */
+/* ======================================================
+   BOTÃO DE IMPRESSÃO
+   ====================================================== */
 
-.rst-content .admonition * {
-    overflow-x: visible !important;
+button[onclick="window.print()"] {
+    display: inline-block !important;
+    width: auto !important;
+    min-width: 260px !important;
+    white-space: nowrap !important;
+    text-align: center !important;
+}
+
+/* ======================================================
+   LIGHTBOX
+   ====================================================== */
+
+#lightbox-overlay {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.85);
+    cursor: zoom-out;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+#lightbox-overlay.active {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 1;
+}
+
+#lightbox-image {
+    max-width: 90%;
+    max-height: 90%;
+    border: 4px solid #ffffff;
+    border-radius: 4px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+    transform: scale(0.9);
+    transition: transform 0.3s ease;
+    transform-origin: center center;
+}
+
+#lightbox-overlay.active #lightbox-image {
+    transform: scale(1);
+}
+
+#lightbox-close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#lightbox-close:hover {
+    color: #cccccc;
 }
