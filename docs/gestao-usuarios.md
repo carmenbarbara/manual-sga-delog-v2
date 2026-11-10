@@ -30,7 +30,6 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 
 # 15. Gestão dos Usuários
-<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
 
 Para acessar a funcionalidade de gerenciamento dos usuários, clique no ícone de menu (três barras), localizado no canto superior esquerdo da tela.
 
@@ -96,8 +95,6 @@ Clique em **"Não"** para cancelar o procedimento ou em **"Sim"** para confirmar
 
 ---
 
-## 
-
 ---
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
@@ -110,3 +107,5 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 </button>
 
 </div>
+
+
