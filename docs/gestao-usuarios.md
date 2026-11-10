@@ -95,8 +95,6 @@ Clique em **"Não"** para cancelar o procedimento ou em **"Sim"** para confirmar
 
 ---
 
----
-
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
 <button onclick="window.print()"
