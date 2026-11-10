@@ -30,7 +30,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 
 # Ficha Institucional
-<div style="display: flex; justify-content: flex-end; margin: 10px 0;">
+
 
 ## Ministério da Gestão e da Inovação em Serviços Públicos (MGI)
 
