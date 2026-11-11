@@ -28,18 +28,16 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-
 # Ficha Institucional
 
-
-## Ministério da Gestão e da Inovação em Serviços Públicos (MGI)
+**Ministério da Gestão e da Inovação em Serviços Públicos (MGI)**
 
 **Ministra**  
 Esther Dweck
 
 ---
 
-## Secretaria de Gestão e Inovação (SEGES)
+**Secretaria de Gestão e Inovação (SEGES)**
 
 **Secretário**  
 Roberto Seara Machado Pojo Rego
@@ -49,28 +47,28 @@ Regina Lemos de Andrade
 
 ---
 
-## Diretoria de Normas e Sistemas de Logística (DELOG)
+**Diretoria de Normas e Sistemas de Logística (DELOG)**
 
 **Diretor**  
 Everton Batista dos Santos
 
 ---
 
-## Coordenação-Geral de Soluções Inovadoras em Logística (CGSIL)
+**Coordenação-Geral de Soluções Inovadoras em Logística (CGSIL)**
 
 **Coordenador-Geral**  
 Alexandre Augusto Villain da Silva
 
 ---
 
-## Equipe Técnica
+**Equipe Técnica**
 
-### Coordenação de Qualidade de Atendimento (COQUAT)
+**Coordenação de Qualidade de Atendimento (COQUAT)**
 
 **Coordenação Técnica**  
 Camilla Pais Faccin Bottecchia
 
-### Especialistas Técnicos
+**Especialistas Técnicos**
 
 - Alexandre Almeida de Mota Matos
 - Emy Karla Macedo Pereira
@@ -79,7 +77,7 @@ Camilla Pais Faccin Bottecchia
 - Maria de Fátima Gomes Moreira
 - Vera Márcia Lopes Vieira de Souza
 
-### Projeto Gráfico / Identidade Visual
+**Projeto Gráfico / Identidade Visual**
 
 Coordenação de Comunicação e Marketing (Comkt/Delog/Seges/MGI)
 
