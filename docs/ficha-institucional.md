@@ -80,10 +80,13 @@ Camilla Pais Faccin Bottecchia
 
 **Coordenação de Comunicação e Marketing (Comkt/Delog/Seges/MGI**)
 
+**Coordenação**
+Marina Milena Silva
+
+**Especialistas**
 - André Siqueira de Azevedo
 - Carmen Bárbara da Silva Pereira
 - Êmili Adami Rossetti
-- Marina Milena Silva (Coordenação)
 - Regiane Feltrin de Melo
 
 ---
