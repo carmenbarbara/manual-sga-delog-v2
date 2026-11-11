@@ -80,7 +80,7 @@ Camilla Pais Faccin Bottecchia
 
 **Coordenação de Comunicação e Marketing (Comkt/Delog/Seges/MGI**)
 
-**Coordenação**
+**Coordenação** 
 Marina Milena Silva
 
 **Equipe**
