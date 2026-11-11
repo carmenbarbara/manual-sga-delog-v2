@@ -77,9 +77,14 @@ Camilla Pais Faccin Bottecchia
 - Maria de Fátima Gomes Moreira
 - Vera Márcia Lopes Vieira de Souza
 
-**Projeto Gráfico / Identidade Visual**
 
-Coordenação de Comunicação e Marketing (Comkt/Delog/Seges/MGI)
+**Coordenação de Comunicação e Marketing (Comkt/Delog/Seges/MGI**)
+
+- André Siqueira de Azevedo
+- Carmen Bárbara da Silva Pereira
+- Êmili Adami Rossetti
+- Marina Milena Silva (Coordenação)
+- Regiane Feltrin de Melo
 
 ---
 
