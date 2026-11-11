@@ -41,6 +41,8 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 | Unidade Responsável | Secretaria de Gestão e Inovação (SEGES) |
 | Equipe Técnica Especializada | Alexandre Almeida de Mota Matos<br>Emy Karla Macedo Pereira<br>Fernanda Correia de Castro<br>Jurandir Gomes de Oliveira<br>Maria de Fátima Gomes Moreira<br>Vera Márcia Lopes Vieira de Souza |
 | Coordenação Técnica | Camilla Pais Faccin Bottecchia – Coordenadora |
+| Coordenação de Comunicação e Marketing (COMKT) | Marina Milena Silva – Coordenadora |
+| Equipe de Comunicação e Marketing | André Siqueira de Azevedo<br>Carmen Bárbara da Silva Pereira<br>Êmili Adami Rossetti<br>Regiane Feltrin de Melo
 | Coordenação-Geral | Alexandre Augusto Villain da Silva – Coordenador-Geral |
 | Aprovação | Everton Batista dos Santos – Diretor de Normas e Sistemas de Logística |
 | Histórico de Revisões | V 1.0 – 11/2026 – Criação do Manual |
