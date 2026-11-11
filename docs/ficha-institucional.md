@@ -40,11 +40,9 @@ Esther Dweck
 **Secretaria de Gestão e Inovação (SEGES)**
 
 **Secretário**  
-
 Roberto Seara Machado Pojo Rego
 
 **Secretária-Adjunta**  
-
 Regina Lemos de Andrade
 
 ---
@@ -52,7 +50,6 @@ Regina Lemos de Andrade
 **Diretoria de Normas e Sistemas de Logística (DELOG)**
 
 **Diretor**  
-
 Everton Batista dos Santos
 
 ---
@@ -60,7 +57,6 @@ Everton Batista dos Santos
 **Coordenação-Geral de Soluções Inovadoras em Logística (CGSIL)**
 
 **Coordenador-Geral**  
-
 Alexandre Augusto Villain da Silva
 
 ---
@@ -70,7 +66,6 @@ Alexandre Augusto Villain da Silva
 **Coordenação de Qualidade de Atendimento (COQUAT)**
 
 **Coordenação Técnica** 
-
 Camilla Pais Faccin Bottecchia
 
 **Especialistas Técnicos**
@@ -86,7 +81,6 @@ Camilla Pais Faccin Bottecchia
 **Coordenação de Comunicação e Marketing (Comkt/Delog/Seges/MGI**)
 
 **Coordenação** 
-
 Marina Milena Silva
 
 **Equipe**
