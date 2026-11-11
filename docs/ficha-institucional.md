@@ -83,7 +83,7 @@ Camilla Pais Faccin Bottecchia
 **Coordenação**
 Marina Milena Silva
 
-**Especialistas**
+**Equipe**
 
 - André Siqueira de Azevedo
 - Carmen Bárbara da Silva Pereira
