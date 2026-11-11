@@ -83,11 +83,12 @@ Camilla Pais Faccin Bottecchia
 **Coordenação**  
 Marina Milena Silva
 
-**Equipe**
-- André Siqueira de Azevedo
-- Carmen Bárbara da Silva Pereira
-- Êmili Adami Rossetti
-- Regiane Feltrin de Melo
+**Equipe**  
+
+- André Siqueira de Azevedo  
+- Carmen Bárbara da Silva Pereira  
+- Êmili Adami Rossetti  
+- Regiane Feltrin de Melo  
 
 ---
 
