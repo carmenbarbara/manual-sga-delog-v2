@@ -78,13 +78,12 @@ Camilla Pais Faccin Bottecchia
 - Vera Márcia Lopes Vieira de Souza
 
 
-**Coordenação de Comunicação e Marketing (Comkt/Delog/Seges/MGI**)
+**Coordenação de Comunicação e Marketing (Comkt/Delog/Seges/MGI)**
 
-**Coordenação** 
+**Coordenação**  
 Marina Milena Silva
 
 **Equipe**
-
 - André Siqueira de Azevedo
 - Carmen Bárbara da Silva Pereira
 - Êmili Adami Rossetti
