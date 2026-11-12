@@ -47,7 +47,7 @@ A tabela a seguir apresenta as principais situações que podem ser exibidas no 
 | Aguardando habilitação do(s) usuário(s) SIASG | Aguardar a conclusão da habilitação dos usuários. |
 | Processo de solicitação de acesso finalizado | O processo foi concluído e o sistema estará disponível para utilização, conforme os acessos habilitados. |
 
-*Tabela 1 – Situações da solicitação e ações do responsável.*
+*Situações da solicitação e ações do responsável.*
 
 !!! note "NOTA"
 
@@ -72,7 +72,7 @@ O responsável deverá:
 
 ![Figura 19](Imagens/Figura-19.png)
 
-*Figura 19 – Tratamento de pendência relacionada ao Termo de Acesso.*
+*Tratamento de pendência relacionada ao Termo de Acesso.*
 
 ---
 
@@ -82,7 +82,7 @@ Caso a solicitação seja devolvida em razão de pendências no cadastro de usu�
 
 ![Figura 20](Imagens/Figura-20.png)
 
-*Figura 20 – Inconsistências identificadas no cadastro de usuários.*
+*Inconsistências identificadas no cadastro de usuários.*
 
 Na opção **"Comentário"**, o sistema apresentará uma mensagem encaminhada pelo Ministério, contendo a descrição específica de cada pendência identificada.
 
