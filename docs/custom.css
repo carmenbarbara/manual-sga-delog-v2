@@ -236,6 +236,13 @@ button[onclick="window.print()"] {
     font-weight: bold;
 }
 
+/* Primeira coluna das tabelas */
+
+.rst-content table td:first-child {
+    font-weight: 700;
+    color: #003b6f;
+}
+
 #lightbox-close:hover {
     color: #cccccc;
 }
