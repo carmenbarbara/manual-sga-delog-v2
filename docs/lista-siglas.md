@@ -33,7 +33,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 | SIASG | Sistema Integrado de Administração de Serviços Gerais |
 | SISG | Sistema de Serviços Gerais |
 | UASG | Unidade Administrativa de Serviços Gerais |
-| Sog | Segregação de Funções (Segregation of Duties)|
+| SoD | Segregação de Funções (Segregation of Duties)|
 
 ---
 
