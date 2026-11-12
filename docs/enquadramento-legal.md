@@ -33,7 +33,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 A utilização do Sistema de Gestão de Acesso (SGA) no ecossistema Compras.gov.br deve observar os normativos e as diretrizes aplicáveis às compras governamentais e à gestão de usuários.
 
-O SGA é destinado, entre outros públicos, às entidades privadas sem fins lucrativos que recebem recursos públicos por meio de convênios ou instrumentos congêneres, conforme disposto na [Portaria nº 355, de 9 de agosto de 2019](URL_DA_PORTARIA).
+O SGA é destinado, entre outros públicos, às entidades privadas sem fins lucrativos que recebem recursos públicos por meio de convênios ou instrumentos congêneres, conforme disposto na Portaria nº 355, de 9 de agosto de 2019.
 
 Os principais normativos relacionados ao tema são:
 
