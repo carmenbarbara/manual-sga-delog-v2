@@ -101,9 +101,13 @@ Antes de iniciar a solicitação, reúna as informações e os documentos que po
 
 Para iniciar o processo de adesão, o interessado deverá acessar a página do Sistema de Gestão de Acesso (SGA) no portal Compras.gov.br.
 
-Imagens/Figura-2.png
 
 ![Figura 2](Imagens/Figura-2.png)
+
+*Figura 2 – Tela com botão de acesso ao formulário*
+
+---
+
 
 O formulário eletrônico deverá ser preenchido com todas as informações solicitadas.
 
