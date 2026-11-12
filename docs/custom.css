@@ -230,6 +230,12 @@ button[onclick="window.print()"] {
     cursor: pointer;
 }
 
+/* Primeira coluna das tabelas em negrito */
+
+.rst-content table td:first-child {
+    font-weight: bold;
+}
+
 #lightbox-close:hover {
     color: #cccccc;
 }
