@@ -63,15 +63,16 @@ Dessa forma, o SGA contribui para garantir que o acesso às soluções que integ
 | Sigla | Significado |
 |--------|-------------|
 | CGSIL | Coordenação-Geral de Soluções Inovadoras em Logística |
+| COQUAT | Coordenação de Qualidade de Atendimento | 
 | DELOG | Diretoria de Normas e Sistemas de Logística |
-| Gov.br | Plataforma de serviços digitais do Governo Federal |
 | MGI | Ministério da Gestão e da Inovação em Serviços Públicos |
 | SEGES | Secretaria de Gestão e Inovação |
+| SERPRO | Serviço Federal de Processamento de Dados |
 | SGA | Sistema de Gestão de Acesso |
 | SIASG | Sistema Integrado de Administração de Serviços Gerais |
 | SISG | Sistema de Serviços Gerais |
 | UASG | Unidade Administrativa de Serviços Gerais |
-
+| SoD | Segregação de Funções (Segregation of Duties)|
 
 ---
 
