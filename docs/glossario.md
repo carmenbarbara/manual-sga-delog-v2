@@ -42,7 +42,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 | Responsável pelo cadastro | Pessoa indicada pela entidade para administrar usuários e acessos no SGA. |
 | Substituto Legal | Pessoa designada para exercer temporariamente as atribuições do titular. |
 | Termo de Acesso | Documento que formaliza as condições de acesso e utilização do sistema. |
-| UASG | Código utilizado para identificar unidades administrativas no SIASG. |
+| UASG - Unidade Administrativa de Serviços Gerais | Código utilizado para identificar unidades administrativas no SIASG. |
 
 ---
 
