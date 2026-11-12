@@ -33,7 +33,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 | Termo | Definição |
 |--------|------------|
-| Autoridade Competente da Entidade Privada | Pessoa que possui competência legal, estatutária, contratual ou administrativa para praticar ou autorizar o ato de gestão em questão. |
+| Autoridade Competente da Entidade Privada | Pessoa que possui competência legal, estatutária, contratual ou administrativa para praticar ou autorizar determinado ato de gestão. |
 | Dirigente Concedente | Dirigente máximo do órgão responsável pela autorização e formalização da concessão. |
 | Dirigente da Entidade Privada sem Fins Lucrativos | Dirigente máximo da entidade responsável pela sua representação institucional. |
 | Entidade privada sem fins lucrativos | Entidade que recebe recursos públicos provenientes de convênios ou instrumentos congêneres e que pode solicitar acesso ao SIASG por meio do SGA. |
