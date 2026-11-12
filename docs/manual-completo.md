@@ -34,7 +34,7 @@ PÚBLICO-ALVO: ENTIDADES PRIVADAS SEM FINS LUCRATIVOS
 
 
 
-# Apresentação
+# 1.Apresentação
 
 A finalidade deste manual é orientar as entidades privadas sem fins lucrativos que recebem recursos públicos por meio de instrumentos de parceria celebrados com a Administração Pública quanto aos procedimentos para a utilização do Sistema de Gestão de Acesso (SGA) e para o acesso ao ecossistema Compras do Governo Federal.
 
@@ -45,7 +45,7 @@ As orientações estão organizadas para apoiar o usuário desde a solicitação
 
 ---
 
-# Introdução
+# 2.Introdução
 
 O Sistema de Gestão de Acesso (SGA) é o sistema utilizado para gerenciar o acesso ao ecossistema Compras do Governo Federal.
 
@@ -56,7 +56,7 @@ Este manual apresenta orientações sobre os procedimentos necessários para uti
 
 ---
 
-# Lista de Siglas
+# 3.Lista de Siglas
 
 | Sigla | Significado |
 |--------|-------------|
@@ -73,7 +73,7 @@ Este manual apresenta orientações sobre os procedimentos necessários para uti
 
 ---
 
-# Glossário
+# 4.Glossário
 
 | Termo | Definição |
 |--------|------------|
@@ -91,7 +91,7 @@ Este manual apresenta orientações sobre os procedimentos necessários para uti
 
 ---
 
-# Objetivo
+# 5.Objetivo
 
 Este manual tem por objetivo orientar as entidades privadas sem fins lucrativos que recebem recursos públicos por meio de instrumentos de parceria celebrados com a Administração Pública quanto aos procedimentos necessários para a utilização do Sistema de Gestão de Acesso (SGA), abrangendo:
 
@@ -106,7 +106,7 @@ IV. as orientações relacionadas à gestão dos acessos no ecossistema Compras.
 
 ---
 
-# Enquadramento Institucional e Base Legal
+# 6.Enquadramento Institucional e Base Legal
 
 A utilização do Sistema de Gestão de Acesso (SGA) está inserida no contexto do ecossistema Compras.gov.br e observa os normativos e diretrizes aplicáveis à utilização dos sistemas de compras e à gestão de acesso.
 
@@ -121,13 +121,13 @@ II. Portaria nº 355, de 9 de agosto de 2019, que institui o Sistema de Gestão 
 
 ---
 
-# Sistema de Gestão de Acesso (SGA)
+# 7.Sistema de Gestão de Acesso (SGA)
 
 O **Sistema de Gestão de Acesso (SGA)** é uma ferramenta informatizada destinada a gerenciar o acesso e a utilização do **Sistema Integrado de Administração de Serviços Gerais (SIASG)** pelos públicos abrangidos pela regulamentação aplicável.
 
 Para as **entidades privadas sem fins lucrativos que recebem recursos públicos provenientes de convênios ou instrumentos congêneres**, o SGA é utilizado para viabilizar a solicitação de acesso ao SIASG e o gerenciamento dos usuários e respectivos perfis, observados os requisitos e procedimentos estabelecidos.
 
-## 6.1 Relação entre SISG, SIASG e SGA
+## 7.1 Relação entre SISG, SIASG e SGA
 
 O **Sistema de Serviços Gerais (SISG)** é composto pelos órgãos e unidades da Administração Pública Federal direta, autárquica e fundacional, nos termos da legislação aplicável.
 
@@ -137,7 +137,7 @@ O **Sistema de Gestão de Acesso (SGA)** foi instituído para instrumentalizar o
 
 Os órgãos e entidades integrantes do SISG **não precisam solicitar acesso ao SIASG por meio do SGA**, pois já integram o SISG e utilizam o SIASG no âmbito desse sistema.
 
-## 6.2 Quem deve solicitar adesão
+## 7.2 Quem deve solicitar adesão
 
 Para fins deste manual, devem solicitar adesão por meio do SGA as **entidades privadas sem fins lucrativos que recebem recursos públicos provenientes de convênios ou instrumentos congêneres e que necessitam utilizar o SIASG**, observados os requisitos e procedimentos aplicáveis.
 
@@ -146,7 +146,7 @@ A partir do próximo capítulo, são apresentados os procedimentos necessários 
 
 ---
 
-# Visão Geral do Processo de Adesão
+# 8.Visão Geral do Processo de Adesão
 
 O processo de adesão ao Sistema de Gestão de Acesso (SGA) compreende etapas que envolvem a verificação da necessidade de acesso, a solicitação institucional, o cadastramento de usuários e perfis de acesso, a formalização do Termo de Acesso, a análise e validação da solicitação e a habilitação dos acessos, incluindo, quando aplicável, o tratamento de pendências.
 
@@ -166,7 +166,7 @@ VI. **Tratamento de pendências**: realização das correções solicitadas, qua
 
 VII. **Habilitação dos acessos**: habilitação dos usuários e respectivos perfis após a validação.
 
-## 7.1 Fluxo de Gestão de Acesso ao SIASG (SGA)
+## 8.1 Fluxo de Gestão de Acesso ao SIASG (SGA)
 
 O fluxo a seguir apresenta, de forma consolidada, as principais etapas do processo de gestão de acesso no SGA, desde o início da solicitação pela entidade privada sem fins lucrativos até a habilitação dos usuários.
 
@@ -180,40 +180,40 @@ O fluxo contempla as etapas de **verificação da necessidade de acesso, solicit
 
 ---
 
-# Preenchimento do Formulário
+# 9.Preenchimento do Formulário
 
 Antes de iniciar a solicitação de adesão ao Sistema de Gestão de Acesso (SGA), a entidade privada sem fins lucrativos deve reunir as informações e os documentos necessários para o preenchimento do formulário.
 
 A preparação prévia contribui para reduzir a ocorrência de pendências e a necessidade de complementação das informações durante a análise da solicitação.
 
-## 8.1 Checklist para iniciar a solicitação de Adesão ao SGA
+## 9.1 Checklist para iniciar a solicitação de Adesão ao SGA
 
 Antes de iniciar a solicitação, reúna as informações e os documentos que poderão ser necessários durante o processo.
 
-### 8.1.1 Acesso ao sistema
+### 9.1.1 Acesso ao sistema
 
 - Conta Gov.br ativa para acesso ao SGA.
 - Conta Gov.br da pessoa indicada pela entidade para realizar a solicitação.
 
-### 8.1.2 Informações e documentos da entidade
+### 9.1.2 Informações e documentos da entidade
 
 - Dados cadastrais da entidade necessários ao preenchimento da solicitação.
 - Dados cadastrais atualizados e compatíveis com os documentos apresentados.
 - Documentos necessários à comprovação da constituição e da representação da entidade.
 
-### 8.1.3 Documentos do dirigente da entidade
+### 9.1.3 Documentos do dirigente da entidade
 
 - Termo de Posse, ata de eleição, ato de nomeação ou documento equivalente.
 - Documento oficial de identificação.
 - Documento que comprove a condição de substituto legal, quando aplicável.
 
-### 8.1.4 Documentos do dirigente ou representante do órgão concedente
+### 9.1.4 Documentos do dirigente ou representante do órgão concedente
 
 - Documento oficial de identificação.
 - Documento que comprove a condição de dirigente ou representante.
 - Ato de designação ou documento equivalente.
 
-### 8.1.5 Atos de designação e documentos comprobatórios
+### 9.1.5 Atos de designação e documentos comprobatórios
 
 - Ato de designação do responsável.
 - Documento de vinculação ou representação.
@@ -221,18 +221,18 @@ Antes de iniciar a solicitação, reúna as informações e os documentos que po
 
 > **Atenção:** a documentação exigida pode variar conforme o perfil solicitado e a etapa do processo.
 
-### 8.1.6 Assinaturas
+### 9.1.6 Assinaturas
 
 - Documentos assinados quando exigido.
 - Assinaturas realizadas pela autoridade competente.
 
-### 8.1.7 Arquivos para anexação
+### 9.1.7 Arquivos para anexação
 
 - Documentos completos e legíveis.
 - Arquivos nos formatos JPG, JPEG, PNG ou PDF.
 - Arquivos com tamanho máximo de 20 MB.
 
-### 8.1.8 Checklist final
+### 9.1.8 Checklist final
 
 - Conta Gov.br ativa.
 - Dados cadastrais da entidade.
@@ -243,7 +243,7 @@ Antes de iniciar a solicitação, reúna as informações e os documentos que po
 
 > **ATENÇÃO:** reúna todas as informações e documentos antes de iniciar o preenchimento.
 
-## 8.2 Acesso ao formulário
+## 9.2 Acesso ao formulário
 
 Para iniciar o processo de adesão, o interessado deverá acessar a página do Sistema de Gestão de Acesso (SGA) no portal Compras.gov.br.
 
@@ -269,13 +269,13 @@ VI. De acordo
 
 ---
 
-# Perfis de Acesso
+# 10.Perfis de Acesso
 
 Os perfis de acesso no ecossistema Compras correspondem aos diferentes níveis de permissão atribuídos aos usuários das entidades privadas sem fins lucrativos, de acordo com suas responsabilidades e atribuições nos sistemas e serviços que utilizam.
 
 A definição e a concessão dos perfis de acesso devem observar as responsabilidades atribuídas a cada usuário e os requisitos aplicáveis a cada sistema ou serviço, contribuindo para a segregação de funções, a segurança das operações, a integridade das informações e a conformidade com os normativos vigentes.
 
-## 9.1 Perfis disponíveis
+## 10.1 Perfis disponíveis
 
 Os perfis disponíveis podem variar de acordo com o **sistema ou serviço que a entidade necessita utilizar** e com as funcionalidades disponibilizadas no SGA.
 
@@ -326,7 +326,7 @@ Agente responsável pelo preenchimento do formulário de cadastro da oportunidad
 
 ---
 
-# Cadastramento de Usuários e Perfis
+# 11.Cadastramento de Usuários e Perfis
 
 Para realizar o cadastramento de um usuário, preencha os campos solicitados e selecione o perfil de acesso correspondente às atividades que serão exercidas pelo usuário.
 
@@ -369,7 +369,7 @@ Após concluir o cadastramento dos usuários, clique em **"Avançar"** para aces
 
 ---
 
-# Geração e Encaminhamento do Termo de Acesso
+# 12.Geração e Encaminhamento do Termo de Acesso
 
 Após concluir o cadastramento dos usuários e perfis, o responsável pelo cadastro deverá gerar o Termo de Acesso no SGA.
 
@@ -415,11 +415,11 @@ Para isso, clique na opção **"Ir para o sistema"**.
 
 ---
 
-# Acompanhamento da Solicitação
+# 13.Acompanhamento da Solicitação
 
 Após o encaminhamento do Termo de Acesso, o responsável poderá acompanhar, no SGA, o andamento da solicitação e verificar eventuais pendências identificadas durante a análise.
 
-## 12.1 Situações da solicitação
+## 13.1 Situações da solicitação
 
 A tabela a seguir apresenta as principais situações que podem ser exibidas no sistema e a ação esperada do responsável.
 
@@ -440,11 +440,11 @@ A tabela a seguir apresenta as principais situações que podem ser exibidas no 
 
 ---
 
-## 12.2 Tratamento de pendências
+## 13.2 Tratamento de pendências
 
 Quando a solicitação for devolvida para correção, o responsável deverá consultar a pendência apresentada no SGA e realizar os ajustes necessários antes de encaminhar novamente a solicitação para análise.
 
-### 12.2.1 Termo de Acesso sem assinatura
+### 13.2.1 Termo de Acesso sem assinatura
 
 Caso o Termo de Acesso seja devolvido por ausência de assinatura, o sistema direcionará o responsável para a tela correspondente.
 
@@ -461,7 +461,7 @@ O responsável deverá:
 
 ---
 
-### 12.2.2 Inconsistências no cadastro de usuários
+### 13.2.2 Inconsistências no cadastro de usuários
 
 Caso a solicitação seja devolvida em razão de pendências no cadastro de usuários, o sistema direcionará o responsável para a tela correspondente.
 
@@ -476,7 +476,7 @@ Para realizar a correção, o respons
 
 ---
 
-# Solicitação de Novos Acessos
+# 14.Solicitação de Novos Acessos
 
 Após o encaminhamento da solicitação, o responsável deverá acompanhar seu andamento no SGA e observar as mensagens e situações apresentadas pelo sistema, conforme descrito na **seção 12.1 – Situações da solicitação**.
 
@@ -530,7 +530,7 @@ Após a formação da lista de usuários, clique em **"Avançar"** para prossegu
 
 ---
 
-## 13.1 Geração e Encaminhamento de Ofício
+## 14.1 Geração e Encaminhamento de Ofício
 
 O responsável pelo cadastro deverá clicar em **"Ofício dos Novos Usuários SIASG"**.
 
@@ -562,7 +562,7 @@ Para concluir a solicitação de acesso, o responsável deverá clicar em **"Ava
 
 ---
 
-### Tabela 2 – Situações do sistema e ações do usuário
+### Situações do sistema e ações do usuário
 
 | Situação | Ação do Usuário |
 |-----------|----------------|
@@ -572,7 +572,7 @@ Para concluir a solicitação de acesso, o responsável deverá clicar em **"Ava
 
 ---
 
-# Gestão dos Usuários
+# 15.Gestão dos Usuários
 
 Para acessar a funcionalidade de gerenciamento dos usuários, clique no ícone de menu (três barras), localizado no canto superior esquerdo da tela.
 
@@ -645,7 +645,7 @@ Clique em **"Não"** para cancelar o procedimento ou em **"Sim"** para confirmar
 
 ---
 
-# Acesso ao SGA com Gov.br
+# 16.Acesso ao SGA com Gov.br
 
 Para acessar o Sistema de Gestão de Acesso (SGA), o responsável pelo cadastro deverá utilizar sua conta Gov.br.
 
@@ -671,7 +671,7 @@ Para acessar o Sistema de Gestão de Acesso (SGA), o responsável pelo cadastro 
 
 ---
 
-# Disposições Finais
+# 17.Disposições Finais
 
 O Sistema de Gestão de Acesso (SGA) constitui instrumento estratégico para o fortalecimento da governança, da segurança e da padronização do acesso ao ecossistema Compras do Governo Federal.
 
@@ -682,7 +682,7 @@ O presente documento possui caráter orientativo e procedimental. Eventuais atua
 
 ---
 
-# Perguntas Frequentes (FAQ)
+# 18.Perguntas Frequentes (FAQ)
 
 ## 1. Entidades privadas sem fins lucrativos podem utilizar o SGA?
 
