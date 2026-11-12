@@ -811,28 +811,36 @@ Marina Milena Silva
 - André Siqueira de Azevedo  
 - Carmen Bárbara da Silva Pereira  
 - Êmili Adami Rossetti  
-- Regiane Feltrin de Melo  
+- Regiane Feltrin de Melo
+  
 
 ---
 
+
 # Ficha Técnica
+
+
 
 | Item | Informação |
 |--------|-------------|
 | Título do Documento | Manual do Sistema de Gestão de Acesso (SGA) – Entidades Privadas sem Fins Lucrativos |
 | Versão | 1.0 |
-| Data da Publicação | XX/10/2026 |
+| Data da Publicação | 11/2026 |
 | Órgão | Ministério da Gestão e da Inovação em Serviços Públicos (MGI) |
 | Unidade Responsável | Secretaria de Gestão e Inovação (SEGES) |
+| Aprovação | Everton Batista dos Santos – Diretor de Normas e Sistemas de Logística |
+| Coordenação-Geral | Alexandre Augusto Villain da Silva – Coordenador-Geral |
 | Equipe Técnica Especializada | Alexandre Almeida de Mota Matos<br>Emy Karla Macedo Pereira<br>Fernanda Correia de Castro<br>Jurandir Gomes de Oliveira<br>Maria de Fátima Gomes Moreira<br>Vera Márcia Lopes Vieira de Souza |
 | Coordenação Técnica | Camilla Pais Faccin Bottecchia – Coordenadora |
-| Coordenação-Geral | Alexandre Augusto Villain da Silva – Coordenador-Geral |
-| Aprovação | Everton Batista dos Santos – Diretor de Normas e Sistemas de Logística |
-| Histórico de Revisões | V 1.0 – XX/XX/2026 – Criação do Manual |
+| Coordenação de Comunicação e Marketing (COMKT) | Marina Milena Silva – Coordenadora |
+| Equipe de Comunicação e Marketing | André Siqueira de Azevedo<br>Carmen Bárbara da Silva Pereira<br>Êmili Adami Rossetti<br>Regiane Feltrin de Melo
+| Histórico de Revisões | V 1.0 – 11/2026 – Criação do Manual |
 | Contato | seges@gestao.gov.br<br>(61) 2020-6025 |
 
 
 ---
+
+
 
 # Histórico de Versões
 
