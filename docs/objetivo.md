@@ -30,7 +30,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 # 5. Objetivo
 
-Este manual tem por objetivo orientar as entidades privadas sem fins lucrativos que recebem recursos públicos por meio de instrumentos de parceria celebrados com a Administração Pública quanto aos procedimentos necessários para a utilização do Sistema de Gestão de Acesso (SGA), abrangendo:
+Este manual foi elaborado com a finalidade de orientar as entidades privadas sem fins lucrativos que recebem recursos públicos por meio de parcerias com a Administração Pública quanto aos procedimentos necessários para utilização do Sistema de Gestão de Acesso (SGA), incluindo: 
 
 I. o preenchimento do formulário de adesão e a geração do Termo de Acesso;
 
