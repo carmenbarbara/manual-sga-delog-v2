@@ -1,5 +1,4 @@
 
-
 <div style="display: flex; justify-content: flex-end; align-items: center; gap: 8px; margin: 10px 0;">
 
 <span style="font-size: 14px; color: #555; font-weight: bold;">
@@ -32,11 +31,11 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 # 1. Apresentação
 
 
-A finalidade deste manual é orientar as entidades privadas sem fins lucrativos que recebem recursos públicos por meio de instrumentos de parceria celebrados com a Administração Pública quanto aos procedimentos para a utilização do Sistema de Gestão de Acesso (SGA) e para o acesso ao ecossistema Compras do Governo Federal.
+Este manual tem como objetivo orientar as entidades privadas sem fins lucrativos que recebem recursos públicos por meio de parcerias com a Administração Pública na utilização do Sistema de Gestão de Acesso (SGA) e no acesso ao ecossistema Compras do Governo Federal. 
 
-O documento reúne orientações operacionais sobre a solicitação de adesão, o cadastramento, a gestão de usuários, a definição de perfis de acesso, a formalização do Termo de Acesso e o acompanhamento das solicitações no Sistema de Gestão de Acesso (SGA).
+O documento apresenta, de forma prática e objetiva, as orientações necessárias para solicitar a adesão ao sistema, realizar cadastros, gerenciar usuários, definir perfis de acesso, formalizar o Termo de Acesso e acompanhar as solicitações no SGA. 
 
-As orientações estão organizadas para apoiar o usuário desde a solicitação de adesão até a gestão dos acessos da entidade no ecossistema Compras.
+As orientações foram organizadas de maneira sequencial para apoiar o usuário em todas as etapas do processo, desde a solicitação de adesão até a administração dos acessos da entidade no ecossistema Compras. 
 
 ---
 
