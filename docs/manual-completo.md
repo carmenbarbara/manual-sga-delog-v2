@@ -784,14 +784,14 @@ Alexandre Augusto Villain da Silva
 
 ---
 
-## Equipe Técnica
+**Equipe Técnica**
 
-### Coordenação de Qualidade de Atendimento (COQUAT)
+**Coordenação de Qualidade de Atendimento (COQUAT)**
 
-**Coordenação Técnica**  
+**Coordenação Técnica** 
 Camilla Pais Faccin Bottecchia
 
-### Especialistas Técnicos
+**Especialistas Técnicos**
 
 - Alexandre Almeida de Mota Matos
 - Emy Karla Macedo Pereira
@@ -800,10 +800,18 @@ Camilla Pais Faccin Bottecchia
 - Maria de Fátima Gomes Moreira
 - Vera Márcia Lopes Vieira de Souza
 
-### Projeto Gráfico / Identidade Visual
 
-André Siqueira
+**Coordenação de Comunicação e Marketing (Comkt/Delog/Seges/MGI)**
 
+**Coordenação**  
+Marina Milena Silva
+
+**Equipe**  
+
+- André Siqueira de Azevedo  
+- Carmen Bárbara da Silva Pereira  
+- Êmili Adami Rossetti  
+- Regiane Feltrin de Melo  
 
 ---
 
