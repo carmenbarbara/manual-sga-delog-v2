@@ -48,12 +48,13 @@ Dessa forma, o SGA contribui para garantir que o acesso às soluções que integ
 
 # 2.Introdução
 
-O Sistema de Gestão de Acesso (SGA) é o sistema utilizado para gerenciar o acesso ao ecossistema Compras do Governo Federal.
+O Sistema de Gestão de Acesso (SGA) é a ferramenta responsável pelo gerenciamento e controle dos acessos de usuários das entidades privadas sem fins lucrativos ao ecossistema Compras do Governo Federal. 
 
-Por meio dele, entidades privadas sem fins lucrativos que recebem recursos públicos provenientes de convênios ou instrumentos congêneres podem solicitar adesão ao Sistema Integrado de Administração de Serviços Gerais (SIASG), realizar a gestão dos usuários e administrar os respectivos perfis de acesso.
+O Sistema Integrado de Administração de Serviços Gerais (SIASG) compõe o conjunto de sistemas utilizados pela Administração Pública Federal para a execução dos processos relacionados às contratações e às compras governamentais no âmbito do ecossistema Compras. 
 
-Este manual apresenta orientações sobre os procedimentos necessários para utilizar o SGA, desde a solicitação inicial até a gestão dos acessos após a aprovação da entidade.
+O controle de acessos é fundamental para garantir a segurança das informações, a adequada distribuição de responsabilidades e o cumprimento das normas aplicáveis. Nesse contexto, o SGA centraliza o processo de adesão das entidades, abrangendo atividades como o cadastro institucional, a definição de perfis de acesso, a gestão de usuários e a formalização do Termo de Acesso. 
 
+Dessa forma, o SGA contribui para garantir que o acesso às soluções que integram o ecossistema Compras ocorra de maneira segura, controlada, rastreável e em conformidade com a legislação e os normativos vigentes. 
 
 ---
 
