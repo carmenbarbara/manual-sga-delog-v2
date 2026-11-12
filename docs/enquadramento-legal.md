@@ -41,7 +41,6 @@ I – O [Decreto nº 1.094, de 23 de março de 1994](https://www.planalto.gov.br
 
 II – A [Portaria nº 355, de 9 de agosto de 2019](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias/portaria-no-355-de-09-de-agosto-de-2019), da Secretaria de Gestão do então Ministério da Economia, que institui o Sistema de Gestão de Acesso (SGA) ao SIASG e estabelece as diretrizes e condições para sua utilização, inclusive por entidades privadas sem fins lucrativos que recebem recursos públicos por meio de convênios ou instrumentos congêneres.
 
-
 ---
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
