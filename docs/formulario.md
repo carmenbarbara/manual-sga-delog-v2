@@ -104,7 +104,7 @@ Para iniciar o processo de adesão, o interessado deverá acessar a página do S
 
 ![Figura 2](Imagens/Figura-2.png)
 
-*Figura 2 – Tela com botão de acesso ao formulário*
+*Figura 2 - Página inicial do Sistema de Gestão de Acesso (SGA).*
 
 ---
 
