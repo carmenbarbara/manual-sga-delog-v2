@@ -139,13 +139,81 @@ Antes de iniciar a solicitação, confirme:
 
 Para iniciar o processo de adesão, o interessado deverá acessar a página do [**Sistema de Gestão de Acesso (SGA)**](https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/sistema-de-gestao-de-acesso-ao-siasg-sga) no portal Compras.gov.br.
 
+**Na página do SGA:** 
+
+1. Localize, na parte inferior da página, a opção **“Termo de Acesso”**. 
+
+2. Selecione a opção correspondente para iniciar o preenchimento do formulário de adesão. 
+
+3. Preencha as informações solicitadas e anexe os documentos necessários, conforme as orientações apresentadas neste manual. 
+
 
 ![Figura 2](Imagens/Figura-2.png)
 
 *Página inicial do Sistema de Gestão de Acesso (SGA).*
 
----
 
+Ao selecionar a opção **“Entidades Privadas sem Fins Lucrativos”**, serão disponibilizadas as seguintes seções: 
+
+1. Dados da entidade privada sem fins lucrativos; 
+
+2. Dados do órgão concedente; 
+
+3. Dados do dirigente concedente; 
+
+4. Dados do dirigente da entidade privada sem fins lucrativos; 
+
+5. Dados do responsável; 
+
+6. De acordo. 
+
+
+![Figura 3](Imagens/Figura-3.png)
+
+*Formulário de adesão, com destaque para as seções.*
+
+
+## 9.3 Dados da entidade privada sem fins lucrativos e do Órgão concedente 
+
+Nesta etapa, o usuário deverá preencher o formulário com as informações institucionais para entidade privada e do órgão concedente, conforme os campos disponibilizados. 
+
+
+![Figura 4](Imagens/Figura-4.png)
+
+*Seção “Dados da entidade privada sem fins lucrativos”*
+
+ 
+## 9.4 Dados do Órgão concedente 
+
+Na sequência, é necessário que o usuário preencha os campos **“Dados do Órgão concedente”**. 
+
+ 
+![Figura 5](Imagens/Figura-5.png)  
+
+*Seção “Dados do Órgão concedente”. (exemplo: salvar o print da imagem como figura-5-dados_do_orgao_concorrente)*
+
+
+## 9.5 Dados do Dirigente Concedente e da Entidade Privada 
+
+O formulário solicita informações distintas sobre o dirigente do órgão concedente e o dirigente da entidade privada sem fins lucrativos. 
+
+### 9.5.1 Dados do dirigente do órgão concedente 
+
+Corresponde à autoridade máxima ou ao dirigente máximo, ou aos seus substitutos legais, conforme aplicável. 
+
+O usuário deverá informar: 
+
+Telefone válido, com DDD; 
+
+Endereço de e-mail válido para contato, preferencialmente institucional. 
+
+Deverão ser anexados os seguintes documentos: 
+
+Documento de identificação oficial com foto do dirigente máximo ou de seu substituto legal; 
+
+Ato de designação ou Termo de Posse do dirigente máximo ou de seu substituto legal. 
+
+ 
 O formulário eletrônico deverá ser preenchido com todas as informações solicitadas.
 
 Ao selecionar a opção **Entidades Privadas sem Fins Lucrativos**, serão disponibilizadas as seguintes seções:
