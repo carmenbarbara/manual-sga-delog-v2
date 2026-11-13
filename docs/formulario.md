@@ -133,7 +133,6 @@ Antes de iniciar a solicitação, confirme:
 !!! warning "Atenção"
 
     Reúna todas as informações e documentos antes de iniciar o preenchimento. A ausência de informações ou documentos poderá gerar pendências e necessidade de complementação durante a análise da solicitação.
-    
 
 ## 9.2 Acesso ao formulário
 
@@ -147,11 +146,9 @@ Para iniciar o processo de adesão, o interessado deverá acessar a página do [
 
 3. Preencha as informações solicitadas e anexe os documentos necessários, conforme as orientações apresentadas neste manual. 
 
-
 ![Figura 2](Imagens/Figura-2.png)
 
 *Página inicial do Sistema de Gestão de Acesso (SGA).*
-
 
 Ao selecionar a opção **“Entidades Privadas sem Fins Lucrativos”**, serão disponibilizadas as seguintes seções: 
 
@@ -167,87 +164,25 @@ Ao selecionar a opção **“Entidades Privadas sem Fins Lucrativos”**, serão
 
 6. De acordo. 
 
-
 ![Figura 3](Imagens/Figura-3.png)
 
-*Formulário de adesão, com destaque para as seções*
-
+*Seções do formulário de adesão.*
 
 ## 9.3 Dados da entidade privada sem fins lucrativos e do Órgão concedente 
 
 Nesta etapa, o usuário deverá preencher o formulário com as informações institucionais para entidade privada e do órgão concedente, conforme os campos disponibilizados. 
-
 
 ![Figura 4](Imagens/Figura-4.png)
 
- *Seção “Dados da entidade privada sem fins lucrativos"*
+*Seção “Dados da entidade privada sem fins lucrativos”.*
 
- 
-## 9.4 Dados do órgão concedente   
-
-Na sequência, é necessário que o usuário preencha os campos **“Dados do Órgão concedente”**. 
-
- 
-![Figura 5](Imagens/Figura-5.png)  
-
- *Seção “Dados do Órgão concedente”*
-
-
-## 9.5 Dados do Dirigente Concedente e da Entidade Privada 
-
-O formulário solicita informações distintas sobre o dirigente do órgão concedente e o dirigente da entidade privada sem fins lucrativos. 
-
-### 9.5.1 Dados do dirigente do órgão concedente 
-
-Corresponde à autoridade máxima ou ao dirigente máximo, ou aos seus substitutos legais, conforme aplicável. 
-
-**O usuário deverá informar:** 
-
-1.Telefone válido, com DDD; 
-
-2.Endereço de e-mail válido para contato, preferencialmente institucional. 
-
-**Deverão ser anexados os seguintes documentos:** 
-
-1.Documento de identificação oficial com foto do dirigente máximo ou de seu substituto legal; 
-
-2.Ato de designação ou Termo de Posse do dirigente máximo ou de seu substituto legal. 
- 
-3.O formulário eletrônico deverá ser preenchido com todas as informações solicitadas.
-
-Ao selecionar a opção **Entidades Privadas sem Fins Lucrativos**, serão disponibilizadas as seguintes seções:
-
-I. Dados da entidade privada sem fins lucrativos  
-II. Dados do órgão concedente  
-III. Dados do dirigente concedente  
-IV. Dados do dirigente da entidade privada sem fins lucrativos  
-V. Dados do responsável  
-VI. De acordo
-
-![Figura 3](Imagens/Figura-3.png)
-
-* Seções do formulário de adesão.*
-
-
-## 9.3 Dados da entidade privada sem fins lucrativos e do Órgão concedente 
-
-Nesta etapa, o usuário deverá preencher o formulário com as informações institucionais para entidade privada e do órgão concedente, conforme os campos disponibilizados. 
-
-
-![Figura 4](Imagens/Figura-4.png) 
-
- *Dados da entidade privada sem fins lucrativos*
- 
-
- ## 9.4 Dados do Órgão concedente 
+## 9.4 Dados do Órgão concedente 
 
 Na sequência, é necessário que o usuário preencha os campos “Dados do Órgão concedente”.
 
+![Figura 5](Imagens/Figura-5.png)
 
- ![Figura 5](Imagens/Figura-5.png) 
-
- *Seção “Dados do Órgão concedente”*
-  
+*Seção “Dados do Órgão concedente”.*
 
 ## 9.5 Dados do Dirigente Concedente e da Entidade Privada 
 
@@ -259,78 +194,66 @@ Corresponde à autoridade máxima ou ao dirigente máximo, ou aos seus substitut
 
 **O usuário deverá informar:** 
 
-1.Telefone válido, com DDD; 
+1. Telefone válido, com DDD; 
 
-2.Endereço de e-mail válido para contato, preferencialmente institucional. 
+2. Endereço de e-mail válido para contato, preferencialmente institucional. 
 
 **Deverão ser anexados os seguintes documentos:** 
 
-1.Documento de identificação oficial com foto do dirigente máximo ou de seu substituto legal; 
+1. Documento de identificação oficial com foto do dirigente máximo ou de seu substituto legal; 
 
-2.Ato de designação ou Termo de Posse do dirigente máximo ou de seu substituto legal. 
+2. Ato de designação ou Termo de Posse do dirigente máximo ou de seu substituto legal. 
 
- 
 !!! warning "Atenção"
 
-    O processo somente prosseguirá após: 
-    –o preenchimento completo e correto de todos os dados; 
-    –a anexação dos documentos exigidos. 
-    
+    O processo somente prosseguirá após:  
+    * O preenchimento completo e correto de todos os dados;  
+    * A anexação dos documentos exigidos.  
 
-  ![Figura 6](Imagens/Figura-6.png) 
+![Figura 6](Imagens/Figura-6.png)
 
-   *Seção “Dados do Dirigente Concedente”.*
+*Seção “Dados do Dirigente Concedente”.*
 
-
-### 9.5.2 Dados do dirigente da entidade privada sem fins lucrativos	 
+### 9.5.2 Dados do dirigente da entidade privada sem fins lucrativos
 
 Informe os dados do dirigente máximo da entidade privada sem fins lucrativos ou de seu substituto legal, conforme aplicável. 
 
 O usuário deverá preencher os campos solicitados pelo sistema e anexar os documentos necessários à comprovação da identidade e da condição do dirigente. 
 
+![Figura 7](Imagens/Figura-7.png)
 
- ![Figura 7](Imagens/Figura-7.png) 
+*Seção “Dados do Dirigente Entidade sem Fins Lucrativos”.*
 
- *Seção “Dados do Dirigente Entidade sem Fins Lucrativos*
+!!! warning "Atenção"
 
+    Antes de prosseguir, confira se todos os dados foram preenchidos corretamente e se os documentos exigidos foram anexados de acordo com as orientações apresentadas pelo sistema.
 
- !!! warning "Atenção"
- 
-    Antes de prosseguir, confira se todos os dados foram preenchidos corretamente e se os documentos exigidos foram anexados de acordo com as orientações          apresentadas pelo sistema.
-
-
-## 8.6 Dados do Responsável 
+## 9.6 Dados do Responsável 
 
 O responsável pelo cadastro corresponde à pessoa indicada pela autoridade competente da entidade privada sem fins lucrativos para realizar a gestão do cadastro do Termo de Acesso e a administração dos perfis dos usuários autorizados a utilizar o sistema. 
 
- 
- ![Figura 8](Imagens/Figura-8.png) 
+![Figura 8](Imagens/Figura-8.png)
 
-  *Seção “Dados do Responsável” do formulário de adesão do SGA.*
-
+*Seção “Dados do Responsável” do formulário de adesão do SGA.*
 
 **Após concluir o preenchimento das informações, o responsável deverá:** 
 
 I – Marcar a opção “De Acordo”, para confirmar ciência e concordância com os termos;  
-
 II – Clicar em “Enviar”, para prosseguir para a próxima etapa. 
 
 **Após o envio, a solicitação seguirá o fluxo de análise e validação previsto no SGA.** 
-
 
 ## 9.7 Orientações para Acesso do Responsável ao Sistema de Gestão de Acesso (SGA)  
 
 Para consultar as solicitações no Sistema de Gestão de Acesso (SGA) e, posteriormente, administrar os perfis, o Responsável pelo Cadastro deve possuir credenciais de acesso à plataforma Gov.br. 
 
- 
- ![Figura 9](Imagens/Figura-9.png)   
+![Figura 9](Imagens/Figura-9.png)
 
- *Mensagem do SGA*
+*Mensagem do SGA.*
 
+Clique no botão **“Avançar”**. 
 
- Clique no botão **“Avançar”**. 
-
-  ---
+---
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
