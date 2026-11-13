@@ -177,7 +177,7 @@ Após o upload, clicar em **“Avançar”**
  
 ![Figura 42](Imagens/Figura-42.png)
 
- *Figura 42 - Ação **“Avançar”** na etapa de envio do ofício. 
+ *Figura 42 - Ação **“Avançar”** na etapa de envio do ofício.*  
 
 
  !!! Warning "Atenção"  
