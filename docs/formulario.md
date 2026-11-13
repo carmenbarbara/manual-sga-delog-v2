@@ -161,6 +161,16 @@ VI. De acordo
 
 * Seções do formulário de adesão.*
 
+
+## 9.3 Dados da entidade privada sem fins lucrativos e do Órgão concedente 
+
+Nesta etapa, o usuário deverá preencher o formulário com as informações institucionais para entidade privada e do órgão concedente, conforme os campos disponibilizados. 
+
+![Figura 4](Imagens/Figura-4.png) 
+
+* Dados da entidade privada sem fins lucrativos *
+
+  
 ---
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
