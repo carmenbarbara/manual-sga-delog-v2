@@ -205,10 +205,10 @@ Corresponde à autoridade máxima ou ao dirigente máximo, ou aos seus substitut
 2. Ato de designação ou Termo de Posse do dirigente máximo ou de seu substituto legal. 
 
 !!! warning "Atenção"
+     O processo somente prosseguirá após:
 
-    O processo somente prosseguirá após:  
-    * O preenchimento completo e correto de todos os dados;  
-    * A anexação dos documentos exigidos.  
+    * O preenchimento completo e correto de todos os dados;
+    * A anexação dos documentos exigidos.
 
 ![Figura 6](Imagens/Figura-6.png)
 
