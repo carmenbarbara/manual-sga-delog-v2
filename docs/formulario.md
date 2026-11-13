@@ -203,17 +203,17 @@ Corresponde à autoridade máxima ou ao dirigente máximo, ou aos seus substitut
 
 **O usuário deverá informar:** 
 
--Telefone válido, com DDD; 
+1.Telefone válido, com DDD; 
 
--Endereço de e-mail válido para contato, preferencialmente institucional. 
+2.Endereço de e-mail válido para contato, preferencialmente institucional. 
 
 **Deverão ser anexados os seguintes documentos:** 
 
--Documento de identificação oficial com foto do dirigente máximo ou de seu substituto legal; 
+1.Documento de identificação oficial com foto do dirigente máximo ou de seu substituto legal; 
 
--Ato de designação ou Termo de Posse do dirigente máximo ou de seu substituto legal. 
+2.Ato de designação ou Termo de Posse do dirigente máximo ou de seu substituto legal. 
  
-O formulário eletrônico deverá ser preenchido com todas as informações solicitadas.
+3.O formulário eletrônico deverá ser preenchido com todas as informações solicitadas.
 
 Ao selecionar a opção **Entidades Privadas sem Fins Lucrativos**, serão disponibilizadas as seguintes seções:
 
@@ -259,25 +259,23 @@ Corresponde à autoridade máxima ou ao dirigente máximo, ou aos seus substitut
 
 **O usuário deverá informar:** 
 
--Telefone válido, com DDD; 
+1.Telefone válido, com DDD; 
 
--Endereço de e-mail válido para contato, preferencialmente institucional. 
+2.Endereço de e-mail válido para contato, preferencialmente institucional. 
 
 **Deverão ser anexados os seguintes documentos:** 
 
--Documento de identificação oficial com foto do dirigente máximo ou de seu substituto legal; 
+1.Documento de identificação oficial com foto do dirigente máximo ou de seu substituto legal; 
 
--Ato de designação ou Termo de Posse do dirigente máximo ou de seu substituto legal. 
+2.Ato de designação ou Termo de Posse do dirigente máximo ou de seu substituto legal. 
 
  
- !!! warning "Atenção"
- 
+!!! warning "Atenção"
+
     O processo somente prosseguirá após: 
-
     –o preenchimento completo e correto de todos os dados; 
-
     –a anexação dos documentos exigidos. 
-
+    
 
   ![Figura 6](Imagens/Figura-6.png) 
 
