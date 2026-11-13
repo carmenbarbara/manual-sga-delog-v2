@@ -1,3 +1,4 @@
+
 <div style="display: flex; justify-content: flex-end; align-items: center; gap: 8px; margin: 10px 0;">
 
 <span style="font-size: 14px; color: #555; font-weight: bold;">
@@ -28,22 +29,22 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-# 9. Preenchimento do Formulário
+# 9. Preenchimento do Formulário (Como realizar a adesão) 
 
-!!! note "Nota"
+Antes de iniciar a solicitação de adesão ao Sistema de Gestão de Acesso (SGA), a entidade privada sem fins lucrativos deve reunir as informações e os documentos necessários para o preenchimento do formulário. 
 
-    Antes de iniciar a solicitação de adesão ao Sistema de Gestão de Acesso (SGA), a entidade privada sem fins lucrativos deve reunir as informações e os documentos necessários para o preenchimento do formulário.
-
-    A preparação prévia contribui para reduzir a ocorrência de pendências e a necessidade de complementação das informações durante a análise da solicitação.
+A preparação prévia contribui para reduzir a ocorrência de pendências e a necessidade de complementação das informações durante a análise da solicitação. 
 
 ## 9.1 Checklist para iniciar a solicitação de Adesão ao SGA
 
-Antes de iniciar a solicitação, reúna as informações e os documentos que poderão ser necessários durante o processo.
+Antes de iniciar a solicitação de adesão ao **Sistema de Gestão de Acesso (SGA)**, reúna as informações e os documentos que poderão ser necessários durante o processo. 
+
+A documentação exigida pode variar de acordo com o **perfil solicitado** e com as responsabilidades atribuídas à **entidade privada sem fins lucrativos** e ao órgão concedente. Por isso, consulte previamente os requisitos específicos do perfil que será solicitado.
 
 ### 9.1.1 Acesso ao sistema
 
-- Conta Gov.br ativa para acesso ao SGA.
-- Conta Gov.br da pessoa indicada pela entidade para realizar a solicitação.
+☐  Conta Gov.br ativa para acesso ao SGA.
+☐  Conta Gov.br da pessoa indicada pela entidade para realizar a solicitação.
 
 ### 9.1.2 Informações e documentos da entidade
 
