@@ -32,10 +32,10 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 Este manual foi elaborado com a finalidade de orientar as entidades privadas sem fins lucrativos que recebem recursos públicos por meio de parcerias com a Administração Pública quanto aos procedimentos necessários para utilização do Sistema de Gestão de Acesso (SGA), incluindo: 
 
-I. O preenchimento do formulário de adesão e a geração do Termo de Acesso 
-II. O cadastramento e a gestão de usuários 
-III. A definição e a atribuição de perfis de acesso
-IV. As orientações relacionadas à gestão dos acessos no ecossistema Compras.gov.br.
+I. O preenchimento do formulário de adesão e a geração do Termo de Acesso  
+II. O cadastramento e a gestão de usuários   
+III. A definição e a atribuição de perfis de acesso  
+IV. As orientações relacionadas à gestão dos acessos no ecossistema Compras.gov.br.  
 
 ---
 
