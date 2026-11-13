@@ -34,8 +34,7 @@ Para realizar o cadastramento de um usuário, preencha os campos solicitados e s
 
 ![Figura 10](Imagens/Figura-10.png)
 
-
-*Cadastramento de usuários e seleção de perfis.*
+*Figura 10 - Cadastramento de usuários e seleção de perfis.*
 
 !!! warning "Atenção"
 
@@ -45,7 +44,7 @@ Para realizar o cadastramento de um usuário, preencha os campos solicitados e s
 
 ![Figura 11](Imagens/Figura-11.png)
 
-*Seleção do perfil de acesso do usuário.*
+*Figura 11 - Seleção do perfil de acesso do usuário.*
 
 !!! warning "Atenção"
 
@@ -61,15 +60,13 @@ Para realizar o cadastramento de um usuário, preencha os campos solicitados e s
 
 ![Figura 12](Imagens/Figura-12.png)
 
-
-*Funcionalidades de edição, exclusão e visualização de usuários cadastrados.*
+*Figura 12 - Funcionalidades de edição, exclusão e visualização de usuários cadastrados.*
 
 Após concluir o cadastramento dos usuários, clique em **"Avançar"** para acessar a próxima tela.
 
 ![Figura 13](Imagens/Figura-13.png)
 
-
-*Avançar para a próxima etapa após o cadastramento dos usuários.*
+*Figura 13 - Avançar para a próxima etapa após o cadastramento dos usuários.*
 
 ---
 
