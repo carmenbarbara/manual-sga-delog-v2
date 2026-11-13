@@ -105,10 +105,15 @@ Caso seja necessário remover o cadastro do usuário, clique no ícone ![](data:
 Selecione **“Sim”** para confirmar a exclusão ou **“Não”** para cancelar a operação. 
 
 
-![Figura 22](Imagens/Figura-22.png)
+![Figura 23](Imagens/Figura-23.png)
 
 *Figura 23 - Ícone de exclusão do cadastro de usuário* 
 
+!!! Warning "Atenção"
+    Caso a pendência apresentada não possa ser solucionada pelas funcionalidades disponíveis no SGA, o responsável deverá entrar em contato com a [Central de Atendimento](https://www.gov.br/compras/pt-br/canais_atendimento/central-de-atendimento para obter orientação) 
+ 
+
+ 
 ---
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
