@@ -44,7 +44,6 @@ A documentação exigida pode variar de acordo com o **perfil solicitado** e com
 ### 9.1.1 Acesso ao sistema
 
 ☐ Conta Gov.br ativa para acesso ao SGA. 
-
 ☐ Conta Gov.br da pessoa indicada pela entidade para realizar a solicitação. 
 
 ### 9.1.2 Informações e documentos da entidade
@@ -206,7 +205,6 @@ Corresponde à autoridade máxima ou ao dirigente máximo, ou aos seus substitut
 
 !!! warning "Atenção"
      O processo somente prosseguirá após:
-
     * O preenchimento completo e correto de todos os dados;
     * A anexação dos documentos exigidos.
 
