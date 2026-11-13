@@ -88,6 +88,18 @@ Na opção **"Comentário"**, o sistema apresentará uma mensagem encaminhada pe
 
 Para realizar a correção, o responsável deverá clicar no ícone de **"Editar"** para alterar o registro do usuário.
 
+![Figura 21](Imagens/Figura-21.png)
+
+*Figura 21 -  Ícone de edição do registro de usuário.*
+
+Após realizar as alterações, clique “Salvar” para registrar as modificações.
+
+![Figura 22](Imagens/Figura-22.png)
+
+ *Figura 22 - Ícone de salvamento das alterações do usuário.* 
+
+Caso seja necessário remover o cadastro do usuário, clique no ícone **“Excluir”**. O sistema exibirá a mensagem: 
+
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
