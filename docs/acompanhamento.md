@@ -65,14 +65,14 @@ Caso o Termo de Acesso seja devolvido por ausência de assinatura, o sistema dir
 
 O responsável deverá:
 
-1. realizar o download do Termo de Acesso;
-2. providenciar a assinatura da autoridade competente ou de seu substituto legal;
-3. anexar o Termo de Acesso devidamente assinado no SGA;
-4. prosseguir com o encaminhamento da solicitação.
+I. realizar o download do Termo de Acesso;
+II. providenciar a assinatura da autoridade competente ou de seu substituto legal;
+III. anexar o Termo de Acesso devidamente assinado no SGA;
+IV. prosseguir com o encaminhamento da solicitação.
 
 ![Figura 19](Imagens/Figura-19.png)
 
-*Tratamento de pendência relacionada ao Termo de Acesso.*
+*Figura 19 - Tratamento de pendência relacionada ao Termo de Acesso.*
 
 ---
 
@@ -82,7 +82,7 @@ Caso a solicitação seja devolvida em razão de pendências no cadastro de usu�
 
 ![Figura 20](Imagens/Figura-20.png)
 
-*Inconsistências identificadas no cadastro de usuários.*
+*Figura 20 - Inconsistências identificadas no cadastro de usuários.*
 
 Na opção **"Comentário"**, o sistema apresentará uma mensagem encaminhada pelo Ministério, contendo a descrição específica de cada pendência identificada.
 
