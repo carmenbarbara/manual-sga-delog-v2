@@ -65,10 +65,10 @@ Caso o Termo de Acesso seja devolvido por ausência de assinatura, o sistema dir
 
 O responsável deverá:
 
-I. realizar o download do Termo de Acesso.  
-II. providenciar a assinatura da autoridade competente ou de seu substituto legal.  
-III. anexar o Termo de Acesso devidamente assinado no SGA.  
-IV. prosseguir com o encaminhamento da solicitação.  
+I. Realizar o download do Termo de Acesso.    
+II. Providenciar a assinatura da autoridade competente ou de seu substituto legal.     
+III. Anexar o Termo de Acesso devidamente assinado no SGA.     
+IV. Prosseguir com o encaminhamento da solicitação.  
 
 ![Figura 19](Imagens/Figura-19.png)
 
