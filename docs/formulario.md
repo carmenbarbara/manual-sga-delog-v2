@@ -201,18 +201,17 @@ O formulário solicita informações distintas sobre o dirigente do órgão conc
 
 Corresponde à autoridade máxima ou ao dirigente máximo, ou aos seus substitutos legais, conforme aplicável. 
 
-O usuário deverá informar: 
+**O usuário deverá informar:** 
 
-Telefone válido, com DDD; 
+-Telefone válido, com DDD; 
 
-Endereço de e-mail válido para contato, preferencialmente institucional. 
+-Endereço de e-mail válido para contato, preferencialmente institucional. 
 
-Deverão ser anexados os seguintes documentos: 
+**Deverão ser anexados os seguintes documentos:** 
 
-Documento de identificação oficial com foto do dirigente máximo ou de seu substituto legal; 
+-Documento de identificação oficial com foto do dirigente máximo ou de seu substituto legal; 
 
-Ato de designação ou Termo de Posse do dirigente máximo ou de seu substituto legal. 
-
+-Ato de designação ou Termo de Posse do dirigente máximo ou de seu substituto legal. 
  
 O formulário eletrônico deverá ser preenchido com todas as informações solicitadas.
 
@@ -234,9 +233,11 @@ VI. De acordo
 
 Nesta etapa, o usuário deverá preencher o formulário com as informações institucionais para entidade privada e do órgão concedente, conforme os campos disponibilizados. 
 
+
 ![Figura 4](Imagens/Figura-4.png) 
 
  *Dados da entidade privada sem fins lucrativos*
+ 
 
  ## 9.4 Dados do Órgão concedente 
 
@@ -271,11 +272,11 @@ Corresponde à autoridade máxima ou ao dirigente máximo, ou aos seus substitut
  
  !!! warning "Atenção"
  
- O processo somente prosseguirá após: 
+    O processo somente prosseguirá após: 
 
- –o preenchimento completo e correto de todos os dados; 
+    –o preenchimento completo e correto de todos os dados; 
 
- –a anexação dos documentos exigidos. 
+    –a anexação dos documentos exigidos. 
 
 
   ![Figura 6](Imagens/Figura-6.png) 
@@ -295,10 +296,9 @@ O usuário deverá preencher os campos solicitados pelo sistema e anexar os docu
  *Seção “Dados do Dirigente Entidade sem Fins Lucrativos*
 
 
-
  !!! warning "Atenção"
  
-Antes de prosseguir, confira se todos os dados foram preenchidos corretamente e se os documentos exigidos foram anexados de acordo com as orientações apresentadas pelo sistema.
+    Antes de prosseguir, confira se todos os dados foram preenchidos corretamente e se os documentos exigidos foram anexados de acordo com as orientações          apresentadas pelo sistema.
 
 
 ## 8.6 Dados do Responsável 
