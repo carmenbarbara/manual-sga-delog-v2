@@ -164,7 +164,6 @@ V – **Análise e validação**: análise da solicitação pelo Ministério da 
 VI – **Tratamento de pendências**: caso sejam identificadas inconsistências, o responsável pelo cadastro deverá realizar as correções solicitadas e encaminhar novamente a solicitação para análise; 
 
 VII – **Habilitação dos acessos**: após a validação da solicitação, serão realizados os procedimentos necessários para a habilitação dos usuários e respectivos perfis no ecossistema Compras. 
-![Figura 1](Imagens/Figura-1.png)
 
 
 ## 8.1 Fluxo de Gestão de Acesso ao SIASG (SGA) ## 
@@ -174,10 +173,11 @@ O fluxo a seguir apresenta, de forma consolidada, as principais etapas do proces
 O fluxo contempla as etapas de verificação da necessidade de acesso, solicitação institucional, cadastramento de usuários e perfis, formalização do Termo de Acesso, análise e validação, tratamento de pendências, quando aplicável e habilitação dos acessos. 
 
 
+
  ![Figura 1](Imagens/Figura-1.png)
+ 
 
 * Fluxo de Gestão de Acesso ao SIASG (SGA).*
-
 
 ---
 
