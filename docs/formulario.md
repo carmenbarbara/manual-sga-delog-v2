@@ -183,7 +183,7 @@ Nesta etapa, o usuário deverá preencher o formulário com as informações ins
  *Seção “Dados da entidade privada sem fins lucrativos"*
 
  
-## 9.4 Dados do Órgão concedente 
+## 9.4 Dados do órgão concedente   
 
 Na sequência, é necessário que o usuário preencha os campos **“Dados do Órgão concedente”**. 
 
