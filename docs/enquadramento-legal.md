@@ -37,9 +37,8 @@ O SGA é destinado, entre outros públicos, às entidades privadas sem fins lucr
 
 Os principais normativos relacionados ao tema são:
 
-I – O [Decreto nº 1.094, de 23 de março de 1994](https://www.planalto.gov.br/ccivil_03/decreto/antigos/d1094.htm), que dispõe sobre o Sistema de Serviços Gerais (SISG) e o Sistema Integrado de Administração de Serviços Gerais (SIASG);
-
-II – A [Portaria nº 355, de 9 de agosto de 2019](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias/portaria-no-355-de-09-de-agosto-de-2019), da Secretaria de Gestão do então Ministério da Economia, que institui o Sistema de Gestão de Acesso (SGA) ao SIASG e estabelece as diretrizes e condições para sua utilização, inclusive por entidades privadas sem fins lucrativos que recebem recursos públicos por meio de convênios ou instrumentos congêneres.
+1. O [Decreto nº 1.094, de 23 de março de 1994](https://www.planalto.gov.br/ccivil_03/decreto/antigos/d1094.htm), que dispõe sobre o Sistema de Serviços Gerais (SISG) e o Sistema Integrado de Administração de Serviços Gerais (SIASG)
+2. A [Portaria nº 355, de 9 de agosto de 2019](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias/portaria-no-355-de-09-de-agosto-de-2019), da Secretaria de Gestão do então Ministério da Economia, que institui o Sistema de Gestão de Acesso (SGA) ao SIASG e estabelece as diretrizes e condições para sua utilização, inclusive por entidades privadas sem fins lucrativos que recebem recursos públicos por meio de convênios ou instrumentos congêneres.
 
 ---
 
