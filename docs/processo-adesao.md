@@ -35,19 +35,13 @@ O processo de adesão ao Sistema de Gestão de Acesso (SGA) compreende etapas qu
 
 De forma geral, o processo segue as seguintes etapas: 
 
-1. **Verificação da necessidade de acesso**: a entidade privada sem fins lucrativos deve verificar se atende aos requisitos aplicáveis ao serviço ou sistema que pretende utilizar no ecossistema Compras; 
-
-2. **Solicitação de acesso institucional**: preenchimento dos dados da entidade, do Órgão concedente, dos dirigentes e do responsável pelo cadastro, bem como anexação dos documentos exigidos 
-
-3.  **Cadastramento de usuários e perfis**: inclusão dos usuários que utilizarão o ecossistema Compras e indicação dos respectivos perfis de acesso, observados os requisitos aplicáveis 
-
-4. **Formalização do Termo de Acesso**: geração, assinatura e encaminhamento do Termo de Acesso pelo SGA 
-
-5.  **Análise e validação**: análise da solicitação pelo Ministério da Gestão e da Inovação em Serviços Públicos (MGI), com verificação das informações e documentos apresentados 
-
-6. **Tratamento de pendências**: caso sejam identificadas inconsistências, o responsável pelo cadastro deverá realizar as correções solicitadas e encaminhar novamente a solicitação para análise 
-
-7. **Habilitação dos acessos**: após a validação da solicitação, serão realizados os procedimentos necessários para a habilitação dos usuários e respectivos perfis no ecossistema Compras 
+I. **Verificação da necessidade de acesso**: a entidade privada sem fins lucrativos deve verificar se atende aos requisitos aplicáveis ao serviço ou sistema que pretende utilizar no ecossistema Compras  
+II. **Solicitação de acesso institucional**: preenchimento dos dados da entidade, do Órgão concedente, dos dirigentes e do responsável pelo cadastro, bem como anexação dos documentos exigidos   
+III.  **Cadastramento de usuários e perfis**: inclusão dos usuários que utilizarão o ecossistema Compras e indicação dos respectivos perfis de acesso, observados os requisitos aplicáveis   
+IV. **Formalização do Termo de Acesso**: geração, assinatura e encaminhamento do Termo de Acesso pelo SGA   
+V.  **Análise e validação**: análise da solicitação pelo Ministério da Gestão e da Inovação em Serviços Públicos (MGI), com verificação das informações e documentos apresentados   
+VI. **Tratamento de pendências**: caso sejam identificadas inconsistências, o responsável pelo cadastro deverá realizar as correções solicitadas e encaminhar novamente a solicitação para análise   
+VII. **Habilitação dos acessos**: após a validação da solicitação, serão realizados os procedimentos necessários para a habilitação dos usuários e respectivos perfis no ecossistema Compras   
 
 
 ## 8.1 Fluxo de Gestão de Acesso ao SIASG (SGA) ##
