@@ -110,7 +110,8 @@ Selecione **“Sim”** para confirmar a exclusão ou **“Não”** para cancel
 *Figura 23 - Ícone de exclusão do cadastro de usuário* 
 
 !!! Warning "Atenção"
-    Caso a pendência apresentada não possa ser solucionada pelas funcionalidades disponíveis no SGA, o responsável deverá entrar em contato com a [Central de Atendimento](https://www.gov.br/compras/pt-br/canais_atendimento/central-de-atendimento para obter orientação) 
+    Caso a pendência apresentada não possa ser solucionada pelas funcionalidades disponíveis no SGA, o responsável deverá entrar em contato com a Central de Atendimento: (https://portaldeservicos.gestao.gov.br/)
+    
  
 
  
