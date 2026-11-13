@@ -163,7 +163,7 @@ Após realizar as correções necessárias, clique em **“Próxima Etapa”** p
 
 ![Figura 41](Imagens/Figura-41.png)
 
-*Figura 41 -  Ação **“Próxima Etapa”** no sistema.
+*Figura 41 -  Ação **“Próxima Etapa”** no sistema.* 
 
 
 Na etapa seguinte, selecione a opção “Gerar Ofício dos Novos Usuários SIASG” para gerar o documento atualizado. 
