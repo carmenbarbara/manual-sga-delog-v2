@@ -64,7 +64,6 @@ Para prosseguir com a solicitação, clique em **"Avançar"**.
 *Figura 17 – Avançar após a anexação do Termo de Acesso.*
 
 Após o encaminhamento, a solicitação será submetida ao **fluxo de análise e validação previsto no SGA**.
-
 O responsável poderá acompanhar o andamento da solicitação diretamente pelo sistema.
 
 Para isso, clique na opção **"Ir para o sistema"**.
