@@ -180,7 +180,8 @@ Após o upload, clicar em **“Avançar”**
  *Figura 42 - Ação **“Avançar”** na etapa de envio do ofício. 
 
 
- !!! Warning "Atenção"
+ !!! Warning "Atenção"  
+ 
     Após o reencaminhamento das informações e documentos corrigidos, a solicitação retornará para análise do Ministério. O responsável deverá acompanhar o andamento da solicitação no SGA. 
 
 ---
