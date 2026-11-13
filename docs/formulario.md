@@ -43,33 +43,38 @@ A documentação exigida pode variar de acordo com o **perfil solicitado** e com
 
 ### 9.1.1 Acesso ao sistema
 
-☐  Conta Gov.br ativa para acesso ao SGA.
-
-☐  Conta Gov.br da pessoa indicada pela entidade para realizar a solicitação.
+☐ Conta Gov.br ativa para acesso ao SGA. 
+☐ Conta Gov.br da pessoa indicada pela entidade para realizar a solicitação. 
 
 ### 9.1.2 Informações e documentos da entidade
 
-- Dados cadastrais da entidade necessários ao preenchimento da solicitação.
-- Dados cadastrais atualizados e compatíveis com os documentos apresentados.
-- Documentos necessários à comprovação da constituição e da representação da entidade.
+☐ Dados cadastrais da entidade necessários ao preenchimento da solicitação. 
+☐ Dados cadastrais atualizados e compatíveis com os documentos apresentados. 
+☐ Documentos necessários à comprovação da constituição e da representação da entidade, quando exigidos. 
 
 ### 9.1.3 Documentos do dirigente da entidade
 
-- Termo de Posse, ata de eleição, ato de nomeação ou documento equivalente.
-- Documento oficial de identificação.
-- Documento que comprove a condição de substituto legal, quando aplicável.
+Para o **dirigente máximo da entidade privada sem fins lucrativos** ou seu **substituto legal**, quando aplicável: 
+
+☐ Termo de Posse, ata de eleição, ato de nomeação ou documento equivalente.
+☐ Documento oficial de identificação.
+☐ Documento que comprove a condição de substituto legal, quando aplicável.
 
 ### 9.1.4 Documentos do dirigente ou representante do órgão concedente
 
-- Documento oficial de identificação.
-- Documento que comprove a condição de dirigente ou representante.
-- Ato de designação ou documento equivalente.
+Quando houver participação do órgão concedente no processo
+
+☐ Documento oficial de identificação, quando exigido. 
+☐ Documento que comprove a condição de dirigente ou representante do órgão concedente, quando exigido. 
+☐ Ato de designação ou documento equivalente, quando exigido para o perfil ou para determinada etapa do processo. 
 
 ### 9.1.5 Atos de designação e documentos comprobatórios
 
-- Ato de designação do responsável.
-- Documento de vinculação ou representação.
-- Outros documentos exigidos para o perfil solicitado.
+Para os perfis que exigem designação formal ou comprovação de atribuições
+
+☐ Ato de designação do responsável, quando aplicável. 
+☐ Documento que comprove a vinculação, a representação ou a condição necessária para o exercício do perfil solicitado, quando aplicável. 
+☐ Outros documentos comprobatórios eventualmente exigidos para o perfil solicitado. 
 
 !!! warning "Atenção"
 
@@ -77,39 +82,47 @@ A documentação exigida pode variar de acordo com o **perfil solicitado** e com
 
 ### 9.1.6 Assinaturas
 
-- Documentos assinados quando exigido.
-- Assinaturas realizadas pela autoridade competente.
+☐ Documentos que exigem assinatura devidamente assinados. 
+☐ Assinaturas realizadas pelo dirigente máximo, pelo substituto legal ou pela pessoa competente, conforme o caso. 
 
 ### 9.1.7 Arquivos para anexação
 
-- Documentos completos e legíveis.
-- Arquivos nos formatos JPG, JPEG, PNG ou PDF.
-- Arquivos com tamanho máximo de 20 MB.
+Antes de anexar os documentos ao SGA: 
+
+☐ Documentos completos e legíveis. 
+☐ Arquivos nos formatos aceitos pelo SGA: JPG, JPEG, PNG ou PDF. 
+☐ Arquivos com tamanho máximo de 20 MB cada. 
+☐ Documentos anexados compatíveis com as informações preenchidas no sistema. 
 
 ### 9.1.8 Checklist final
 
-- Conta Gov.br ativa.
-- Dados cadastrais da entidade.
-- Documentos do dirigente.
-- Documentação de representação.
-- Documentos do órgão concedente.
-- Arquivos válidos e legíveis.
+Antes de iniciar a solicitação, confirme: 
+
+☐ Conta Gov.br ativa; 
+☐ dados cadastrais da entidade; 
+☐ documentos do dirigente da entidade; 
+☐ documentos necessários à comprovação da constituição e da representação da entidade, quando aplicável; 
+☐ documentos do dirigente ou representante do órgão concedente, quando exigidos; 
+☐ atos de designação e demais documentos comprobatórios exigidos para o perfil, quando aplicáveis; 
+☐ documentos específicos exigidos para o perfil a ser solicitado; 
+☐ documentação completa, legível e devidamente assinada, quando necessário; e 
+☐ arquivos nos formatos e dentro dos limites de tamanho aceitos pelo SGA. 
 
 !!! warning "Atenção"
 
-    Reúna todas as informações e documentos antes de iniciar o preenchimento.
+    Reúna todas as informações e documentos antes de iniciar o preenchimento. A ausência de informações ou documentos poderá gerar pendências e necessidade de complementação durante a análise da solicitação.
+    
 
 ## 9.2 Acesso ao formulário
 
-Para iniciar o processo de adesão, o interessado deverá acessar a página do Sistema de Gestão de Acesso (SGA) no portal Compras.gov.br.
+Para iniciar o processo de adesão, o interessado deverá acessar a página do **Sistema de Gestão de Acesso (SGA)** no portal Compras.gov.br.
 
 
 ![Figura 2](Imagens/Figura-2.png)
 
-*Figura 2 - Página inicial do Sistema de Gestão de Acesso (SGA).*
+*Página inicial do Sistema de Gestão de Acesso (SGA).*
 
 ---
-
 
 O formulário eletrônico deverá ser preenchido com todas as informações solicitadas.
 
