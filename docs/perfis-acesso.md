@@ -34,7 +34,7 @@ Os perfis de acesso no ecossistema Compras correspondem aos diferentes níveis d
 
 !!! warning "Atenção"
 
-    A definição e a concessão dos perfis de acesso devem observar as responsabilidades atribuídas a cada usuário e os requisitos aplicáveis a cada sistema ou serviço, contribuindo para a segregação de funções, a segurança das operações, a integridade das informações e a conformidade com os normativos vigentes.
+    A definição e a concessão dos perfis de acesso devem estar alinhadas às responsabilidades de cada usuário e aos requisitos específicos de   cada sistema ou serviço, de modo a assegurar a adequada segregação de funções, a segurança das operações, a integridade das informações e a conformidade com os normativos vigentes.
 
 ## 10.1 Perfis disponíveis
 
