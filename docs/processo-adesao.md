@@ -56,6 +56,7 @@ O fluxo a seguir apresenta as principais etapas do processo de gestão de acesso
 
 O fluxo contempla as etapas de **verificação da necessidade de acesso, solicitação institucional, cadastramento de usuários e perfis, formalização do Termo de Acesso, análise e validação, tratamento de pendências e habilitação dos acessos**.
 
+
 ![Figura 1](Imagens/Figura-1.png)
 
 
