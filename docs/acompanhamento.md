@@ -110,11 +110,44 @@ Selecione **“Sim”** para confirmar a exclusão ou **“Não”** para cancel
 *Figura 23 - Ícone de exclusão do cadastro de usuário* 
 
 !!! Warning "Atenção"
+
     Caso a pendência apresentada não possa ser solucionada pelas funcionalidades disponíveis no SGA, o responsável deverá entrar em contato com a Central de Atendimento: (https://portaldeservicos.gestao.gov.br/)
+
+
+## 13.3 Reenvio da solicitação após as correções 
+
+Após realizar as correções, clique em **“Avançar”**. O sistema irá direcionar o usuário para a próxima tela. 
     
  
+![Figura 24](Imagens/Figura-24.png)
 
- 
+*Figura 24 - Tela de dados cadastrais de usuários* 
+
+Na etapa seguinte, clique em **“Gerar Termo de Acesso”**. O sistema exibirá o documento com as correções realizadas. 
+
+Na sequência, realize o download do Termo de Acesso, providencie as assinaturas e **anexe o Termo de Acesso devidamente assinado no sistema**.
+
+
+![Figura 25](Imagens/Figura-25.png)
+
+*Figura 25 - Assinatura do Termo de Acesso*
+
+Por fim, clique em **“Finalizar”** para encaminhar a solicitação corrigida para nova análise.  
+O sistema exibirá a mensagem **“Termo e usuário SIASG corrigidos”**.
+
+
+![Figura 26](Imagens/Figura-26.png)
+
+*Figura 26 - Status da solicitação: “Termo e usuário SIASG corrigidos”
+
+## 13.4  Para acompanhar a solicitação 
+
+Após o encaminhamento da solicitação, o responsável deverá acompanhar seu andamento no SGA e observar as mensagens e situações apresentadas pelo sistema, conforme descrito na seção **13.1 – Situações da solicitação**. 
+
+Quando o Termo de Acesso e o cadastro dos usuários forem validados e os procedimentos necessários à habilitação dos acessos forem concluídos, a solicitação será considerada finalizada. 
+
+Após a conclusão, o responsável poderá gerenciar os usuários cadastrados e, quando necessário, solicitar novos acessos ao ecossistema Compras.
+
 ---
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
