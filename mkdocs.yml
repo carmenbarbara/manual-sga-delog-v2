@@ -1,24 +1,46 @@
-site_name: Manual de Convocação de Remanescentes - Compras.gov.br
+site_name: Manual do Sistema de Gestão de Acesso (SGA)
 
 theme:
   name: readthedocs
 
-markdown_extensions:
-  - md_in_html
-  - admonition
-  - pymdownx.arithmatex:
-      generic: true
-
 nav:
   - Início: index.md
-  - 1. Acessando uma contratação: 01-acessando-contratacao.md
-  - Versão Completa do material: manual-completo.md
+
+  - Manual:
+      - 1. Apresentação: apresentacao.md
+      - 2. Introdução: introducao.md
+      - 3. Lista de Siglas: lista-siglas.md
+      - 4. Glossário: glossario.md
+      - 5. Objetivo: objetivo.md
+      - 6. Enquadramento Institucional e Base Legal: enquadramento-legal.md
+      - 7. Sistema de Gestão de Acesso (SGA): sga.md
+      - 8. Visão Geral do Processo de Adesão: processo-adesao.md
+      - 9. Preenchimento do Formulário: formulario.md
+      - 10. Perfis de Acesso: perfis-acesso.md
+      - 11. Cadastramento de Usuários e Perfis: usuarios.md
+      - 12. Geração e Encaminhamento do Termo de Acesso: termo-acesso.md
+      - 13. Acompanhamento da Solicitação: acompanhamento.md
+      - 14. Solicitação de Novos Acessos: novos-acessos.md
+      - 15. Gestão dos Usuários: gestao-usuarios.md
+      - 16. Acesso ao SGA com Gov.br: login-govbr.md
+      - 17. Perguntas e Respostas: perguntas-respostas.md
+      - 18. Disposições Finais: disposicoes-finais.md
+      - 19. Manual Completo: manual-completo.md
+
+  - Informações Institucionais:
+  
+      - Ficha Institucional: ficha-institucional.md
+      - Ficha Técnica: ficha-tecnica.md
+      - Histórico de Versões: historico-versoes.md
+
 
 extra_css:
   - custom.css
-  - css/extra.css
 
 extra_javascript:
-  - js/custom.js
-  - js/font-size.js
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - js/customs.js
+  - js/fontsize.js
+
+markdown_extensions:
+  - admonition
+  - tables
