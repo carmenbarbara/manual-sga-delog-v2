@@ -124,7 +124,7 @@ III. Preencha as informações solicitadas e anexe os documentos necessários, c
 
 ![Figura 2](Imagens/Figura-2.png)
 
-*Página inicial do Sistema de Gestão de Acesso (SGA).*
+*Figura 2 - Página inicial do Sistema de Gestão de Acesso (SGA).*
 
 Ao selecionar a opção **“Entidades Privadas sem Fins Lucrativos”**, serão disponibilizadas as seguintes seções: 
 
@@ -137,7 +137,7 @@ VI. De acordo.
 
 ![Figura 3](Imagens/Figura-3.png)
 
-*Seções do formulário de adesão.*
+*Figura 3 - Seções do formulário de adesão.*
 
 ## 9.3 Dados da entidade privada sem fins lucrativos e do Órgão concedente 
 
@@ -145,7 +145,7 @@ Nesta etapa, o usuário deverá preencher o formulário com as informações ins
 
 ![Figura 4](Imagens/Figura-4.png)
 
-*Seção “Dados da entidade privada sem fins lucrativos”.*
+*Figura 4 - Seção “Dados da entidade privada sem fins lucrativos”.*
 
 ## 9.4 Dados do Órgão concedente 
 
@@ -153,7 +153,7 @@ Na sequência, é necessário que o usuário preencha os campos “Dados do Órg
 
 ![Figura 5](Imagens/Figura-5.png)
 
-*Seção “Dados do Órgão concedente”.*
+*Figura 5 - Seção “Dados do Órgão concedente”.*
 
 ## 9.5 Dados do Dirigente Concedente e da Entidade Privada 
 
@@ -181,7 +181,7 @@ II. Ato de designação ou Termo de Posse do dirigente máximo ou de seu substit
 
 ![Figura 6](Imagens/Figura-6.png)
 
-*Seção “Dados do Dirigente Concedente”.*
+*Figura 6 - Seção “Dados do Dirigente Concedente”.*
 
 ### 9.5.2 Dados do dirigente da entidade privada sem fins lucrativos
 
@@ -191,7 +191,7 @@ O usuário deverá preencher os campos solicitados pelo sistema e anexar os docu
 
 ![Figura 7](Imagens/Figura-7.png)
 
-*Seção “Dados do Dirigente Entidade sem Fins Lucrativos”.*
+*Figura 7 - Seção “Dados do Dirigente Entidade sem Fins Lucrativos”.*
 
 !!! warning "Atenção"
 
@@ -203,7 +203,7 @@ O responsável pelo cadastro corresponde à pessoa indicada pela autoridade comp
 
 ![Figura 8](Imagens/Figura-8.png)
 
-*Seção “Dados do Responsável” do formulário de adesão do SGA.*
+*Figura 8 - Seção “Dados do Responsável” do formulário de adesão do SGA.*
 
 **Após concluir o preenchimento das informações, o responsável deverá:** 
 
@@ -218,7 +218,7 @@ Para consultar as solicitações no Sistema de Gestão de Acesso (SGA) e, poster
 
 ![Figura 9](Imagens/Figura-9.png)
 
-*Mensagem do SGA.*
+*Figura 9 - Mensagem do SGA.*
 
 Clique no botão **“Avançar”**. 
 
