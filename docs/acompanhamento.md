@@ -132,8 +132,7 @@ Na sequência, realize o download do Termo de Acesso, providencie as assinaturas
 
 *Figura 25 - Assinatura do Termo de Acesso*
 
-Por fim, clique em **“Finalizar”** para encaminhar a solicitação corrigida para nova análise.  
-O sistema exibirá a mensagem **“Termo e usuário SIASG corrigidos”**.
+Por fim, clique em **“Finalizar”** para encaminhar a solicitação corrigida para nova análise.  O sistema exibirá a mensagem **“Termo e usuário SIASG corrigidos”**.
 
 
 ![Figura 26](Imagens/Figura-26.png)
@@ -144,9 +143,9 @@ O sistema exibirá a mensagem **“Termo e usuário SIASG corrigidos”**.
 
 Após o encaminhamento da solicitação, o responsável deverá acompanhar seu andamento no SGA e observar as mensagens e situações apresentadas pelo sistema, conforme descrito na seção **13.1 – Situações da solicitação**. 
 
-Quando o Termo de Acesso e o cadastro dos usuários forem validados e os procedimentos necessários à habilitação dos acessos forem concluídos, a solicitação será considerada finalizada. 
+Quando o Termo de Acesso e o cadastro dos usuários forem validados e os procedimentos necessários à habilitação dos acessos forem concluídos, a solicitação será considerada finalizada.
 
-Após a conclusão, o responsável poderá gerenciar os usuários cadastrados e, quando necessário, solicitar novos acessos ao ecossistema Compras.
+O responsável poderá gerenciar os usuários cadastrados e, quando necessário, solicitar novos acessos ao ecossistema Compras.
 
 ---
 
