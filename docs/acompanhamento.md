@@ -98,8 +98,18 @@ Após realizar as alterações, clique “Salvar” para registrar as modificaç
 
  *Figura 22 - Ícone de salvamento das alterações do usuário.* 
 
-Caso seja necessário remover o cadastro do usuário, clique no ícone **“Excluir”**. O sistema exibirá a mensagem: 
+Caso seja necessário remover o cadastro do usuário, clique no ícone ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAeCAMAAACc/SdfAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACWUExURffZ3PKnvfKnrv////W6v+pPXOpYZO1lbOtZZOlKVu1ld/B0eOxibOxmc+1xeelMWPe3qe54iux4lu+Up/WimvSNgO14jPONh++aufff8fvw8P7iyvCmyPTJ5//+7f7w3veunO2WvPTV+fv9/vjt///31/q2nO2GnvG93f3ZwfSTif/u0fzw8e+av/ba+/OyzO5rcgAAAOegk6sAAAAydFJOU/////////////////////////////////////////////////////////////////8ADVCY7wAAAAlwSFlzAAAXEQAAFxEByibzPwAAAbpJREFUOE99VItS7CAMbUsLEyC1ruNrva518L2j/v/feZLQ7nqdWQIhHMLJ6bNp2q5rT1vjmp4GT4H8IMOi336gb9e0AwXvwwALR9MSB6R1rukCxZTQMYIGQSOLY0jet6g4hBgAR7SEjlgDWSJOkcKkXDikPJasky11HZSLJMISlnwKWg/7CMGIZPI9siBda5ih+5SVT85CWPCi3vsU86iG7fOU88gpM3NiBBG6jCsmy2LeXPTz5dVFO18DYgEZ11i5cEiQnG5ut3fTv/vdw8xgExQCFl3CI5Yfv8puu30qzy+oaWg6O+ICxnncfN6W4srDdKlMkrhyRckRkPn17cm53TtkKQb0SJcehL96vC+l7PadcFX9qy5F4FiSIKvsZyWTfuCqEvII9Xtco1P1xsarLs2A8Wvbzx+bm376wA02qf/rUrA2ufdYY0LWco1KJXjO2Uc4PSCYVDQuOWVQHtGskk1gMy68XyskDJa9+j/PUTNr9sEWXQfYGDSu535xLSWWUVNlPnAxRC++dl3DKhdR9nhYOtRnABJVnEi+Dk+CUZZJHMm+LXWLCBUb/Camk9bjP+Ec3pXTzbkfh90zLP/xR7QAAAAASUVORK5CYII=) **“Excluir”**. O sistema exibirá a mensagem: 
 
+**“O usuário será excluído da solicitação. Deseja prosseguir?”** 
+
+Selecione **“Sim”** para confirmar a exclusão ou **“Não”** para cancelar a operação. 
+
+
+![Figura 22](Imagens/Figura-22.png)
+
+*Figura 23 - Ícone de exclusão do cadastro de usuário* 
+
+---
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
