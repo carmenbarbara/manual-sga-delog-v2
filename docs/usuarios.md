@@ -19,7 +19,7 @@ Para realizar o cadastramento de um usuário, preencha os campos solicitados e s
 *Figura 10 - Cadastramento de usuários e seleção de perfis.*
 
 !!! warning "Atenção"
-    **Atenção:** Para o perfil de **Pregoeiro (Agente de Contratação)**, é obrigatório o anexo do **ato de designação específico** para o exercício da função.   
+    Para o perfil de **Pregoeiro (Agente de Contratação)**, é obrigatório o anexo do **ato de designação específico** para o exercício da função.   
     Para o perfil de **Homologador**, deve ser anexado o **ato de designação ou o termo de posse** que comprove a condição de autoridade competente.
     
 
@@ -29,10 +29,9 @@ Para realizar o cadastramento de um usuário, preencha os campos solicitados e s
 
 
 !!! warning "Atenção"
-    **Atenção:** Após salvar os dados do usuário que utilizará o ecossistema Compras, o SGA permanecerá na mesma tela, permitindo a inclusão de novos usuários, se necessário.  
+    Após salvar os dados do usuário que utilizará o ecossistema Compras, o SGA permanecerá na mesma tela, permitindo a inclusão de novos usuários, se necessário.  
     Para prosseguir para a próxima etapa, é obrigatório o cadastro de **pelo menos um usuário**.  
-    Caso seja necessário editar, excluir ou visualizar os dados inseridos, o sistema disponibiliza, no campo **"Ações"**, as seguintes funcionalidades:   
-    
+    Caso seja necessário editar, excluir ou visualizar os dados inseridos, o sistema disponibiliza, no campo **"Ações"**, as seguintes funcionalidades:    
     <div style="margin: 10px 0; display: flex; flex-direction: column; gap: 8px;">
       <div style="display: flex; align-items: center; gap: 10px;">
         <span style="display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; background-color: #e67e00; border: 1px solid #d9534f; border-radius: 2px; flex-shrink: 0;">
