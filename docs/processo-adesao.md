@@ -50,14 +50,7 @@ VI – **Tratamento de pendências**: caso sejam identificadas inconsistências,
 VII – **Habilitação dos acessos**: após a validação da solicitação, serão realizados os procedimentos necessários para a habilitação dos usuários e respectivos perfis no ecossistema Compras. 
 
 
-## 8.1 Fluxo de Gestão de Acesso ao SIASG (SGA) ## 
-
-O fluxo a seguir apresenta, de forma consolidada, as principais etapas do processo de gestão de acesso no SGA, desde o início da solicitação pela entidade privada sem fins lucrativos até a habilitação dos usuários. 
-
-O fluxo contempla as etapas de verificação da necessidade de acesso, solicitação institucional, cadastramento de usuários e perfis, formalização do Termo de Acesso, análise e validação, tratamento de pendências, quando aplicável e habilitação dos acessos. 
-
-
-## 8.1 Fluxo de Gestão de Acesso ao SIASG (SGA)
+## 8.1 Fluxo de Gestão de Acesso ao SIASG (SGA) ##
 
 O fluxo a seguir apresenta as principais etapas do processo de gestão de acesso no SGA, desde o início da solicitação pela entidade privada sem fins lucrativos até a habilitação dos usuários.
 
