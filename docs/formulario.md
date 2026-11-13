@@ -44,6 +44,7 @@ A documentação exigida pode variar de acordo com o **perfil solicitado** e com
 ### 9.1.1 Acesso ao sistema
 
 ☐  Conta Gov.br ativa para acesso ao SGA.
+
 ☐  Conta Gov.br da pessoa indicada pela entidade para realizar a solicitação.
 
 ### 9.1.2 Informações e documentos da entidade
