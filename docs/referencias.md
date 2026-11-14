@@ -29,6 +29,8 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 ---
 
+# 20. Referências Bibliográficas 
+
 BRASIL. **Decreto nº 1.094, de 23 de março de 1994**. Dispõe sobre o Sistema de Serviços Gerais – SISG dos órgãos civis da Administração Federal direta, das autarquias federais e fundações públicas, e dá outras providências. *Diário Oficial da União: seção 1*, Brasília, DF, 24 mar. 1994.     
 
 BRASIL. Ministério da Economia. Secretaria de Gestão. **Portaria nº 355, de 9 de agosto de 2019**. Institui o Sistema de Gestão de Acesso – SGA ao Sistema Integrado de Administração de Serviços Gerais – SIASG, pelos órgãos e entidades da Administração Pública não integrantes do Sistema de Serviços Gerais – SISG, no âmbito da União, Estados, Distrito Federal e Municípios, serviços sociais autônomos e entidades privadas sem fins lucrativos que recebam recursos públicos provenientes de convênios ou instrumentos congêneres. *Diário Oficial da União*, Brasília, DF, 9 ago. 2019.      
