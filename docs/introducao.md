@@ -41,7 +41,6 @@ O controle de acessos é fundamental para garantir a segurança das informaçõe
 
 Dessa forma, o SGA contribui para garantir que o acesso às soluções que integram o ecossistema Compras ocorra de maneira segura, controlada, rastreável e em conformidade com a legislação e os normativos vigentes. 
 
-
 ---
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
