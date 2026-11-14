@@ -58,8 +58,8 @@ Você pode acessar as seções específicas utilizando o menu lateral ou navegar
 * [14. Solicitação de Novos Acessos](novos-acessos.md)
 * [15. Gestão dos Usuários](gestao-usuarios.md)
 * [16. Acesso ao SGA com Gov.br](login-govbr.md)
-* [17. Perguntas e Respostas](perguntas-respostas.md)
-* [18. Disposições Finais](disposicoes-finais.md)
+* [17. Disposições Finais](disposicoes-finais.md)
+* [18. Perguntas e Respostas](perguntas-respostas.md)
 * [19. Referências Bibliográficas](referencias.md)
 * [20. Manual Completo](manual-completo.md) 
 
