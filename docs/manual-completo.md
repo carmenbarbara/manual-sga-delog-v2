@@ -461,6 +461,9 @@ Para isso, clique na opção **"Ir para o sistema"**.
 
 # 13.Acompanhamento da Solicitação
 
+# 13. Acompanhamento da Solicitação
+
+
 Após o encaminhamento do Termo de Acesso, o responsável poderá acompanhar, no SGA, o andamento da solicitação e verificar eventuais pendências identificadas durante a análise.
 
 ## 13.1 Situações da solicitação
@@ -476,9 +479,9 @@ A tabela a seguir apresenta as principais situações que podem ser exibidas no 
 | Aguardando habilitação do(s) usuário(s) SIASG | Aguardar a conclusão da habilitação dos usuários. |
 | Processo de solicitação de acesso finalizado | O processo foi concluído e o sistema estará disponível para utilização, conforme os acessos habilitados. |
 
-*Tabela 1 – Situações da solicitação e ações do responsável.*
+*Situações da solicitação e ações do responsável.*
 
-!!! warning "IMPORTANTE"
+!!! note "NOTA"
 
     Os prazos e as situações apresentadas no SGA devem ser considerados conforme o andamento efetivo da solicitação no sistema.
 
@@ -494,16 +497,14 @@ Caso o Termo de Acesso seja devolvido por ausência de assinatura, o sistema dir
 
 O responsável deverá:
 
-1. realizar o download do Termo de Acesso;
-2. providenciar a assinatura da autoridade competente ou de seu substituto legal;
-3. anexar o Termo de Acesso devidamente assinado no SGA;
-4. prosseguir com o encaminhamento da solicitação.
+I. Realizar o download do Termo de Acesso.    
+II. Providenciar a assinatura da autoridade competente ou de seu substituto legal.     
+III. Anexar o Termo de Acesso devidamente assinado no SGA.     
+IV. Prosseguir com o encaminhamento da solicitação.  
 
 ![Figura 19](Imagens/Figura-19.png)
 
-*Figura 19 – Tratamento de pendência relacionada ao Termo de Acesso.*
-
----
+*Figura 19 - Tratamento de pendência relacionada ao Termo de Acesso.*
 
 ### 13.2.2 Inconsistências no cadastro de usuários
 
@@ -511,66 +512,70 @@ Caso a solicitação seja devolvida em razão de pendências no cadastro de usu�
 
 ![Figura 20](Imagens/Figura-20.png)
 
-*Figura 20 – Inconsistências identificadas no cadastro de usuários.*
+*Figura 20 - Inconsistências identificadas no cadastro de usuários.*
 
 Na opção **"Comentário"**, o sistema apresentará uma mensagem encaminhada pelo Ministério, contendo a descrição específica de cada pendência identificada.
 
-Para realizar a correção, o respons
+Para realizar a correção, o responsável deverá clicar no ícone de **"Editar"** para alterar o registro do usuário.
+
+![Figura 21](Imagens/Figura-21.png)
+
+*Figura 21 -  Ícone de edição do registro de usuário.*
+
+Após realizar as alterações, clique **“Salvar”** para registrar as modificações.
+
+![Figura 22](Imagens/Figura-22.png)
+
+ *Figura 22 - Ícone de salvamento das alterações do usuário.* 
+
+Caso seja necessário remover o cadastro do usuário, clique no ícone **“Excluir”**. O sistema exibirá a mensagem: 
+
+**“O usuário será excluído da solicitação. Deseja prosseguir?”** 
+
+Selecione **“Sim”** para confirmar a exclusão ou **“Não”** para cancelar a operação. 
 
 
----
+![Figura 23](Imagens/Figura-23.png)
 
-# 14.Solicitação de Novos Acessos
+*Figura 23 - Ícone de exclusão do cadastro de usuário* 
 
-Após o encaminhamento da solicitação, o responsável deverá acompanhar seu andamento no SGA e observar as mensagens e situações apresentadas pelo sistema, conforme descrito na **seção 12.1 – Situações da solicitação**.
+!!! Warning "Atenção"
 
-Quando o Termo de Acesso e o cadastro dos usuários forem validados e os procedimentos necessários para a habilitação dos acessos forem concluídos, a solicitação será considerada finalizada.
+    Caso a pendência apresentada não possa ser solucionada pelas funcionalidades disponíveis no SGA, o responsável deverá entrar em contato com a Central de Atendimento: (https://portaldeservicos.gestao.gov.br/)
 
-Após a conclusão, o responsável poderá realizar o gerenciamento dos usuários cadastrados e, quando necessário, solicitar novos acessos ao ecossistema Compras.
 
-Após a conclusão da solicitação inicial, o responsável pelo cadastro poderá solicitar novos acessos para usuários da entidade.
+## 13.3 Reenvio da solicitação após as correções 
 
-Para iniciar uma nova solicitação, deverá:
+Após realizar as correções, clique em **“Avançar”**. O sistema irá direcionar o usuário para a próxima tela. 
+    
+ 
+![Figura 24](Imagens/Figura-24.png)
 
-1. Acessar a página principal e clicar em **"Solicitar novos usuários"**.
+*Figura 24 - Tela de dados cadastrais de usuários* 
 
-![Figura 27](Imagens/Figura-27.png)
+Na etapa seguinte, clique em **“Gerar Termo de Acesso”**. O sistema exibirá o documento com as correções realizadas. 
 
-*Figura 27 – Solicitação de novos usuários no SIASG.*
+Na sequência, realize o download do Termo de Acesso, providencie as assinaturas e **anexe o Termo de Acesso devidamente assinado no sistema**.
 
----
 
-Para cadastrar um usuário no ecossistema Compras, preencha todos os campos solicitados e selecione o perfil desejado.
+![Figura 25](Imagens/Figura-25.png)
 
-![Figura 28](Imagens/Figura-28.png)
+*Figura 25 - Assinatura do Termo de Acesso*
 
-*Figura 28 – Cadastro de novo usuário e seleção de perfil de acesso.*
+Por fim, clique em **“Finalizar”** para encaminhar a solicitação corrigida para nova análise.  O sistema exibirá a mensagem **“Termo e usuário SIASG corrigidos”**.
 
----
 
-Para os perfis de Pregoeiro ou Agente de Contratação e Homologador, deverá ser anexado o respectivo ato de designação ou documento comprobatório exigido pelo sistema, conforme o perfil selecionado.
+![Figura 26](Imagens/Figura-26.png)
 
-![Figura 29](Imagens/Figura-29.png)
+*Figura 26 - Status da solicitação: “Termo e usuário SIASG corrigidos”
 
-*Figura 29 – Anexação de documento comprobatório para o perfil selecionado.*
+## 13.4  Para acompanhar a solicitação 
 
----
+Após o encaminhamento da solicitação, o responsável deverá acompanhar seu andamento no SGA e observar as mensagens e situações apresentadas pelo sistema, conforme descrito na seção **13.1 – Situações da solicitação**. 
 
-Após o salvamento dos dados, o sistema permanecerá na mesma tela, permitindo a inclusão de novos usuários, se necessário.
+Quando o Termo de Acesso e o cadastro dos usuários forem validados e os procedimentos necessários à habilitação dos acessos forem concluídos, a solicitação será considerada finalizada.
 
-No campo **"Ações"**, o responsável poderá **editar, excluir ou visualizar os registros e os documentos anexados**, conforme as funcionalidades disponibilizadas pelo sistema.
-
-![Figura 30](Imagens/Figura-30.png)
-
-*Figura 30 – Funcionalidades de gerenciamento dos usuários cadastrados.*
-
----
-
-Após a formação da lista de usuários, clique em **"Avançar"** para prosseguir à próxima etapa.
-
-![Figura 31](Imagens/Figura-31.png)
-
-*Figura 31 – Avançar para a próxima etapa após a inclusão dos usuários.*
+O responsável poderá gerenciar os usuários cadastrados e, quando necessário, solicitar novos acessos ao ecossistema Compras.
 
 ---
 
