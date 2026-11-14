@@ -60,7 +60,8 @@ Você pode acessar as seções específicas utilizando o menu lateral ou navegar
 * [16. Acesso ao SGA com Gov.br](login-govbr.md)
 * [17. Perguntas e Respostas](perguntas-respostas.md)
 * [18. Disposições Finais](disposicoes-finais.md)
-* [19. Manual Completo](manual-completo.md)
+* [19. Referências Bibliográficas](referencias.md)
+* [20. Manual Completo](manual-completo.md) 
 
 
 ---
