@@ -21,58 +21,56 @@ A+
 </button>
 
 <button onclick="window.print()"
-style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-
+style="background-color: #0056b3; color: #ffffff; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
 🖨️ Imprimir ou baixar esta página
-
 </button>
 
 </div>
 
-# 9. Preenchimento do Formulário (Como realizar a adesão) 
+# 9. Preenchimento do formulário (como realizar a adesão)
 
-Antes de iniciar a solicitação de adesão ao Sistema de Gestão de Acesso (SGA), a entidade privada sem fins lucrativos deve reunir as informações e os documentos necessários para o preenchimento do formulário. 
+Antes de iniciar a solicitação de adesão ao Sistema de Gestão de Acesso (SGA), a entidade privada sem fins lucrativos deverá reunir as informações e os documentos necessários para o preenchimento do formulário.
 
-A preparação prévia contribui para reduzir a ocorrência de pendências e a necessidade de complementação das informações durante a análise da solicitação. 
+A preparação prévia contribui para reduzir a ocorrência de pendências e a necessidade de complementação de informações durante a análise da solicitação.
 
-## 9.1 Checklist para iniciar a solicitação de Adesão ao SGA
+## 9.1 Checklist para iniciar a solicitação de adesão ao SGA
 
-A documentação exigida pode variar de acordo com o **perfil solicitado** e com as responsabilidades atribuídas à **entidade privada sem fins lucrativos** e ao órgão concedente. Por isso, consulte previamente os requisitos específicos do perfil que será solicitado.
+A documentação exigida pode variar de acordo com o **perfil solicitado** e com as responsabilidades atribuídas à **entidade privada sem fins lucrativos** e ao **órgão concedente**. Por isso, consulte previamente os requisitos específicos do perfil a ser solicitado.
 
 ### 9.1.1 Acesso ao sistema
 
-☐ Conta Gov.br ativa para acesso ao SGA.    
-☐ Conta Gov.br da pessoa indicada pela entidade para realizar a solicitação.     
+☐ Conta Gov.br ativa para acesso ao SGA.  
+☐ Conta Gov.br da pessoa indicada pela entidade para realizar a solicitação.
 
 ### 9.1.2 Informações e documentos da entidade
 
-☐ Dados cadastrais da entidade necessários ao preenchimento da solicitação.    
-☐ Dados cadastrais atualizados e compatíveis com os documentos apresentados.    
-☐ Documentos necessários à comprovação da constituição e da representação da entidade, quando exigidos.   
+☐ Dados cadastrais da entidade necessários ao preenchimento da solicitação.  
+☐ Dados cadastrais atualizados e compatíveis com os documentos apresentados.  
+☐ Documentos necessários à comprovação da constituição e da representação da entidade, quando exigidos.
 
 ### 9.1.3 Documentos do dirigente da entidade
 
-Para o **dirigente máximo da entidade privada sem fins lucrativos** ou seu **substituto legal**, quando aplicável: 
+Para o **dirigente máximo da entidade privada sem fins lucrativos** ou seu **substituto legal**, quando aplicável:
 
-☐ Termo de Posse, ata de eleição, ato de nomeação ou documento equivalente.    
-☐ Documento oficial de identificação.    
-☐ Documento que comprove a condição de substituto legal, quando aplicável.    
+☐ Termo de Posse, ata de eleição, ato de nomeação ou documento equivalente.  
+☐ Documento oficial de identificação.  
+☐ Documento que comprove a condição de substituto legal, quando aplicável.
 
 ### 9.1.4 Documentos do dirigente ou representante do órgão concedente
 
-**Quando houver participação do órgão concedente no processo:**  
+**Quando houver participação do órgão concedente no processo:**
 
-☐ Documento oficial de identificação, quando exigido.   
+☐ Documento oficial de identificação, quando exigido.  
 ☐ Documento que comprove a condição de dirigente ou representante do órgão concedente, quando exigido.  
-☐ Ato de designação ou documento equivalente, quando exigido para o perfil ou para determinada etapa do processo.  
+☐ Ato de designação ou documento equivalente, quando exigido para o perfil ou para determinada etapa do processo.
 
 ### 9.1.5 Atos de designação e documentos comprobatórios
 
-**Para os perfis que exigem designação formal ou comprovação de atribuições:**    
+**Para os perfis que exigem designação formal ou comprovação de atribuições:**
 
 ☐ Ato de designação do responsável, quando aplicável.  
-☐ Documento que comprove a vinculação, a representação ou a condição necessária para o exercício do perfil solicitado, quando aplicável.   
-☐ Outros documentos comprobatórios eventualmente exigidos para o perfil solicitado.    
+☐ Documento que comprove a vinculação, a representação ou a condição necessária para o exercício do perfil solicitado, quando aplicável.  
+☐ Outros documentos comprobatórios eventualmente exigidos para o perfil solicitado.
 
 !!! warning "Atenção"
 
@@ -80,31 +78,31 @@ Para o **dirigente máximo da entidade privada sem fins lucrativos** ou seu **su
 
 ### 9.1.6 Assinaturas
 
-☐ Documentos que exigem assinatura devidamente assinados.   
-☐ Assinaturas realizadas pelo dirigente máximo, pelo substituto legal ou pela pessoa competente, conforme o caso.   
+☐ Documentos que exigem assinatura devidamente assinados.  
+☐ Assinaturas realizadas pelo dirigente máximo, pelo substituto legal ou pela pessoa competente, conforme o caso.
 
 ### 9.1.7 Arquivos para anexação
 
-**Antes de anexar os documentos ao SGA:**   
+**Antes de anexar os documentos ao SGA:**
 
-☐ Documentos completos e legíveis.    
-☐ Arquivos nos formatos aceitos pelo SGA: JPG, JPEG, PNG ou PDF.   
-☐ Arquivos com tamanho máximo de 20 MB cada.   
-☐ Documentos anexados compatíveis com as informações preenchidas no sistema.   
+☐ Documentos completos e legíveis.  
+☐ Arquivos nos formatos aceitos pelo SGA: JPG, JPEG, PNG ou PDF.  
+☐ Arquivos com tamanho máximo de 20 MB cada.  
+☐ Documentos anexados compatíveis com as informações preenchidas no sistema.
 
 ### 9.1.8 Checklist final
 
-**Antes de iniciar a solicitação, confirme:** 
+**Antes de iniciar a solicitação, confirme:**
 
-☐ Conta Gov.br ativa.   
-☐ Dados cadastrais da entidade.   
-☐ Documentos do dirigente da entidade.   
+☐ Conta Gov.br ativa.  
+☐ Dados cadastrais da entidade.  
+☐ Documentos do dirigente da entidade.  
 ☐ Documentos necessários à comprovação da constituição e da representação da entidade, quando aplicável.  
 ☐ Documentos do dirigente ou representante do órgão concedente, quando exigidos.  
 ☐ Atos de designação e demais documentos comprobatórios exigidos para o perfil, quando aplicáveis.  
 ☐ Documentos específicos exigidos para o perfil a ser solicitado.  
 ☐ Documentação completa, legível e devidamente assinada, quando necessário.  
-☐ Arquivos nos formatos e dentro dos limites de tamanho aceitos pelo SGA.   
+☐ Arquivos nos formatos aceitos pelo SGA e dentro dos limites de tamanho estabelecidos.
 
 !!! warning "Atenção"
 
@@ -112,148 +110,132 @@ Para o **dirigente máximo da entidade privada sem fins lucrativos** ou seu **su
 
 ## 9.2 Acesso ao formulário
 
-Para iniciar o processo de adesão, o interessado deverá acessar a página do [**Sistema de Gestão de Acesso (SGA)**](https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/sistema-de-gestao-de-acesso-ao-siasg-sga) no portal Compras.gov.br.
+Para iniciar o processo de adesão, o interessado deverá acessar a página do <a href="https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/sistema-de-gestao-de-acesso-ao-siasg-sga" target="_blank" rel="noopener noreferrer"><strong>Sistema de Gestão de Acesso (SGA)</strong></a> no portal Compras.gov.br.
 
-**Na página do SGA:** 
+**Na página do SGA:**
 
-I. localize, na parte inferior da página, a opção **“Termo de Acesso”**;
+I. localize, na parte inferior da página, a opção **"Termo de acesso"**;
 
 II. selecione a opção correspondente para iniciar o preenchimento do formulário de adesão;
 
 III. preencha as informações solicitadas e anexe os documentos necessários, conforme as orientações apresentadas neste manual.
 
-
-![Figura 2](Imagens/Figura-2.png)
+Imagens/Figura-2.png
 
 *Figura 2 - Página inicial do Sistema de Gestão de Acesso (SGA).*
 
-Ao selecionar a opção **“Entidades Privadas sem Fins Lucrativos”**, serão disponibilizadas as seguintes seções: 
+Ao selecionar a opção **"Entidades privadas sem fins lucrativos"**, serão disponibilizadas as seguintes seções:
 
-I. dados da entidade privada sem fins lucrativos; 
+I. dados da entidade privada sem fins lucrativos;
 
-II. dados do órgão concedente;  
+II. dados do órgão concedente;
 
-III. dados do dirigente concedente;  
+III. dados do dirigente concedente;
 
-IV. dados do dirigente da entidade privada sem fins lucrativos;  
+IV. dados do dirigente da entidade privada sem fins lucrativos;
 
-V. dados do responsável;  
+V. dados do responsável;
 
-VI. de acordo.  
+VI. de acordo.
 
-
-![Figura 3](Imagens/Figura-3.png)
+Imagens/Figura-3.png
 
 *Figura 3 - Seções do formulário de adesão.*
 
+## 9.3 Dados da entidade privada sem fins lucrativos e do órgão concedente
 
-## 9.3 Dados da entidade privada sem fins lucrativos e do Órgão concedente 
+Nesta etapa, o usuário deverá preencher o formulário com as informações institucionais da entidade privada sem fins lucrativos e do órgão concedente, conforme os campos disponibilizados pelo sistema.
 
-Nesta etapa, o usuário deverá preencher o formulário com as informações institucionais para entidade privada e do órgão concedente, conforme os campos disponibilizados.
+Imagens/Figura-4.png
 
+*Figura 4 - Seção "Dados da entidade privada sem fins lucrativos".*
 
-![Figura 4](Imagens/Figura-4.png)
+## 9.4 Dados do órgão concedente
 
-*Figura 4 - Seção “Dados da entidade privada sem fins lucrativos”.*
+Na sequência, o usuário deverá preencher os campos da seção **"Dados do órgão concedente"**.
 
+Imagens/Figura-5.png
 
-## 9.4 Dados do Órgão concedente 
+*Figura 5 - Seção "Dados do órgão concedente".*
 
-Na sequência, é necessário que o usuário preencha os campos “Dados do Órgão concedente”.
+## 9.5 Dados do dirigente do órgão concedente e do dirigente da entidade privada sem fins lucrativos
 
+O formulário solicita informações distintas sobre o dirigente do órgão concedente e o dirigente da entidade privada sem fins lucrativos. As informações devem ser preenchidas conforme os respectivos documentos comprobatórios.
 
-![Figura 5](Imagens/Figura-5.png)
+### 9.5.1 Dados do dirigente do órgão concedente
 
-*Figura 5 - Seção “Dados do Órgão concedente”.*
+Corresponde à autoridade máxima ou ao dirigente máximo do órgão concedente, ou aos seus substitutos legais, quando aplicável.
 
+**O usuário deverá informar:**
 
-## 9.5 Dados do Dirigente Concedente e da Entidade Privada 
+I. telefone válido, com DDD;
 
-O formulário solicita informações distintas sobre o dirigente do órgão concedente e o dirigente da entidade privada sem fins lucrativos. 
+II. endereço de e-mail válido para contato, preferencialmente institucional.
 
-### 9.5.1 Dados do dirigente do órgão concedente 
+**Deverão ser anexados os seguintes documentos:**
 
-Corresponde à autoridade máxima ou ao dirigente máximo, ou aos seus substitutos legais, conforme aplicável. 
+I. documento oficial de identificação com foto do dirigente máximo ou de seu substituto legal;
 
-**O usuário deverá informar:** 
-
-I. Telefone válido, com DDD. 
-
-II. Endereço de e-mail válido para contato, preferencialmente institucional. 
-
-**Deverão ser anexados os seguintes documentos:** 
-
-I. Documento de identificação oficial com foto do dirigente máximo ou de seu substituto legal.
-
-II. Ato de designação ou Termo de Posse do dirigente máximo ou de seu substituto legal.   
+II. ato de designação ou Termo de Posse do dirigente máximo ou de seu substituto legal.
 
 !!! warning "Atenção"
 
-     O processo somente prosseguirá após:   
-    * O preenchimento completo e correto de todos os dados;   
-    * A anexação dos documentos exigidos. 
+    O processo somente prosseguirá após:
     
+    * o preenchimento completo e correto de todos os dados;
+    * a anexação dos documentos exigidos.
 
-![Figura 6](Imagens/Figura-6.png)
+Imagens/Figura-6.png
 
-*Figura 6 - Seção “Dados do Dirigente Concedente”.*
-
+*Figura 6 - Seção "Dados do dirigente concedente".*
 
 ### 9.5.2 Dados do dirigente da entidade privada sem fins lucrativos
 
-Informe os dados do dirigente máximo da entidade privada sem fins lucrativos ou de seu substituto legal, conforme aplicável. 
+Informe os dados do dirigente máximo da entidade privada sem fins lucrativos ou de seu substituto legal, quando aplicável.
 
-O usuário deverá preencher os campos solicitados pelo sistema e anexar os documentos necessários à comprovação da identidade e da condição do dirigente. 
+O usuário deverá preencher os campos solicitados pelo sistema e anexar os documentos necessários à comprovação da identidade e da condição do dirigente.
 
+Imagens/Figura-7.png
 
-![Figura 7](Imagens/Figura-7.png)
-
-*Figura 7 - Seção “Dados do Dirigente Entidade sem Fins Lucrativos”.*
-
+*Figura 7 - Seção "Dados do dirigente da entidade privada sem fins lucrativos".*
 
 !!! warning "Atenção"
 
     Antes de prosseguir, confira se todos os dados foram preenchidos corretamente e se os documentos exigidos foram anexados de acordo com as orientações apresentadas pelo sistema.
 
-## 9.6 Dados do Responsável 
+## 9.6 Dados do responsável
 
-O responsável pelo cadastro corresponde à pessoa indicada pela autoridade competente da entidade privada sem fins lucrativos para realizar a gestão do cadastro do Termo de Acesso e a administração dos perfis dos usuários autorizados a utilizar o sistema. 
+O responsável pelo cadastro corresponde à pessoa indicada pela autoridade competente da entidade privada sem fins lucrativos para realizar a gestão do cadastro do Termo de Acesso e a administração dos perfis dos usuários autorizados a utilizar o sistema.
 
+Imagens/Figura-8.png
 
-![Figura 8](Imagens/Figura-8.png)
+*Figura 8 - Seção "Dados do responsável" do formulário de adesão do SGA.*
 
-*Figura 8 - Seção “Dados do Responsável” do formulário de adesão do SGA.*
+**Após concluir o preenchimento das informações, o responsável deverá:**
 
+I. marcar a opção **"De acordo"**, para confirmar ciência e concordância com os termos;
 
-**Após concluir o preenchimento das informações, o responsável deverá:** 
+II. clicar em **"Enviar"**, para prosseguir para a próxima etapa.
 
-I – Marcar a opção “De Acordo”, para confirmar ciência e concordância com os termos;  
+**Após o envio, a solicitação seguirá o fluxo de análise e validação previsto no SGA.**
 
-II – Clicar em “Enviar”, para prosseguir para a próxima etapa.   
+## 9.7 Orientações para acesso do responsável ao Sistema de Gestão de Acesso (SGA)
 
-**Após o envio, a solicitação seguirá o fluxo de análise e validação previsto no SGA.** 
+Para consultar as solicitações no Sistema de Gestão de Acesso (SGA) e, posteriormente, administrar os perfis de acesso, o responsável pelo cadastro deverá possuir uma conta Gov.br ativa.
 
-## 9.7 Orientações para Acesso do Responsável ao Sistema de Gestão de Acesso (SGA)  
-
-Para consultar as solicitações no Sistema de Gestão de Acesso (SGA) e, posteriormente, administrar os perfis, o Responsável pelo Cadastro deve possuir credenciais de acesso à plataforma Gov.br.
-
-
-![Figura 9](Imagens/Figura-9.png)
+Imagens/Figura-9.png
 
 *Figura 9 - Mensagem do SGA.*
 
-
-Clique no botão **“Avançar”**. 
+Clique no botão **"Avançar"**.
 
 ---
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
 <button onclick="window.print()"
-style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-
+style="background-color: #0056b3; color: #ffffff; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
 🖨️ Imprimir ou baixar esta página
-
 </button>
 
 </div>
