@@ -120,7 +120,7 @@ II. selecione a opção correspondente para iniciar o preenchimento do formulár
 
 III. preencha as informações solicitadas e anexe os documentos necessários, conforme as orientações apresentadas neste manual.
 
-Imagens/Figura-2.png
+![Figura 2](Imagens/Figura-2.png)
 
 *Figura 2 - Página inicial do Sistema de Gestão de Acesso (SGA).*
 
@@ -138,7 +138,7 @@ V. dados do responsável;
 
 VI. de acordo.
 
-Imagens/Figura-3.png
+![Figura 3](Imagens/Figura-3.png)
 
 *Figura 3 - Seções do formulário de adesão.*
 
@@ -146,7 +146,7 @@ Imagens/Figura-3.png
 
 Nesta etapa, o usuário deverá preencher o formulário com as informações institucionais da entidade privada sem fins lucrativos e do órgão concedente, conforme os campos disponibilizados pelo sistema.
 
-Imagens/Figura-4.png
+![Figura 4](Imagens/Figura-4.png)
 
 *Figura 4 - Seção "Dados da entidade privada sem fins lucrativos".*
 
@@ -154,7 +154,7 @@ Imagens/Figura-4.png
 
 Na sequência, o usuário deverá preencher os campos da seção **"Dados do órgão concedente"**.
 
-Imagens/Figura-5.png
+![Figura 5](Imagens/Figura-5.png)
 
 *Figura 5 - Seção "Dados do órgão concedente".*
 
@@ -185,7 +185,7 @@ II. ato de designação ou Termo de Posse do dirigente máximo ou de seu substit
     * o preenchimento completo e correto de todos os dados;
     * a anexação dos documentos exigidos.
 
-Imagens/Figura-6.png
+![Figura 6](Imagens/Figura-6.png)
 
 *Figura 6 - Seção "Dados do dirigente concedente".*
 
@@ -195,7 +195,7 @@ Informe os dados do dirigente máximo da entidade privada sem fins lucrativos ou
 
 O usuário deverá preencher os campos solicitados pelo sistema e anexar os documentos necessários à comprovação da identidade e da condição do dirigente.
 
-Imagens/Figura-7.png
+![Figura 7](Imagens/Figura-7.png)
 
 *Figura 7 - Seção "Dados do dirigente da entidade privada sem fins lucrativos".*
 
@@ -207,7 +207,7 @@ Imagens/Figura-7.png
 
 O responsável pelo cadastro corresponde à pessoa indicada pela autoridade competente da entidade privada sem fins lucrativos para realizar a gestão do cadastro do Termo de Acesso e a administração dos perfis dos usuários autorizados a utilizar o sistema.
 
-Imagens/Figura-8.png
+![Figura 8](Imagens/Figura-8.png)
 
 *Figura 8 - Seção "Dados do responsável" do formulário de adesão do SGA.*
 
@@ -223,7 +223,7 @@ II. clicar em **"Enviar"**, para prosseguir para a próxima etapa.
 
 Para consultar as solicitações no Sistema de Gestão de Acesso (SGA) e, posteriormente, administrar os perfis de acesso, o responsável pelo cadastro deverá possuir uma conta Gov.br ativa.
 
-Imagens/Figura-9.png
+![Figura 9](Imagens/Figura-9.png)
 
 *Figura 9 - Mensagem do SGA.*
 
