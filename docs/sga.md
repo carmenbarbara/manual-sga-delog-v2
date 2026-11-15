@@ -31,11 +31,13 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 # 7. Sistema de Gestão de Acesso (SGA)
 
+## 7.1 O que é o Sistema de Gestão de Acesso 
+
 O **Sistema de Gestão de Acesso (SGA)** é a ferramenta utilizada para solicitar e gerenciar o acesso ao **Sistema Integrado de Administração de Serviços Gerais (SIASG)**. 
 
 No caso das entidades privadas sem fins lucrativos que recebem recursos públicos por meio de convênios ou instrumentos congêneres, o SGA permite solicitar acesso ao SIASG, cadastrar usuários e definir os perfis de acesso necessários à utilização do sistema, conforme as regras vigentes. 
 
-## 7.1 Relação entre SISG, SIASG e SGA
+## 7.2 Relação entre SISG, SIASG e SGA
 
 O **Sistema de Serviços Gerais (SISG)** reúne os órgãos e as entidades da Administração Pública Federal direta, autárquica e fundacional responsáveis pela gestão de serviços e recursos administrativos. 
 
@@ -45,7 +47,7 @@ Já o **Sistema de Gestão de Acesso (SGA)** é a ferramenta usada para solicita
 
 Os órgãos e as entidades que fazem parte do SISG **não precisam solicitar acesso ao SIASG por meio do SGA**, pois já estão habilitados a utilizar a plataforma em razão de sua participação no sistema. 
 
-## 7.2 Quem deve solicitar adesão
+## 7.3 Quem deve solicitar adesão
 
 Para os fins deste manual, devem solicitar adesão por meio do SGA as **entidades privadas sem fins lucrativos que recebem recursos públicos por meio de convênios ou instrumentos congêneres e que necessitam utilizar o SIASG**, observadas as regras e os procedimentos aplicáveis. 
 
