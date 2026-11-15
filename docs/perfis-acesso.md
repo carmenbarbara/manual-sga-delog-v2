@@ -20,41 +20,39 @@ A+
 </button>
 
 <button onclick="window.print()"
-style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-
+style="background-color: #0056b3; color: #ffffff; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
 🖨️ Imprimir ou baixar esta página
-
 </button>
 
 </div>
 
-# 10. Perfis de Acesso
+# 10. Perfis de acesso
 
-Os perfis de acesso no ecossistema Compras correspondem aos diferentes níveis de permissão atribuídos aos usuários das entidades privadas sem fins lucrativos, de acordo com suas responsabilidades e atribuições nos sistemas e serviços que utilizam.
+Os perfis de acesso do ecossistema Compras correspondem aos diferentes níveis de permissão atribuídos aos usuários das entidades privadas sem fins lucrativos, de acordo com as atribuições e responsabilidades exercidas nos sistemas e serviços disponibilizados.
 
 !!! warning "Atenção"
 
-    A definição e a concessão dos perfis de acesso devem estar alinhadas às responsabilidades de cada usuário e aos requisitos específicos de   cada sistema ou serviço, de modo a assegurar a adequada segregação de funções, a segurança das operações, a integridade das informações e a conformidade com os normativos vigentes.
+    A definição e a concessão dos perfis de acesso devem estar alinhadas às atribuições de cada usuário e aos requisitos específicos de cada sistema ou serviço. Essa medida é essencial para assegurar a adequada segregação de funções, a segurança das operações, a integridade das informações e a conformidade com a legislação e os normativos vigentes.
 
 ## 10.1 Perfis disponíveis
 
-Os perfis disponíveis podem variar de acordo com o **sistema ou serviço que a entidade necessita utilizar** e com as funcionalidades disponibilizadas no SGA.
+Os perfis disponíveis podem variar de acordo com o sistema ou serviço que a entidade necessita utilizar e com as funcionalidades disponibilizadas pelo Sistema de Gestão de Acesso (SGA).
 
 ### Pregoeiro (Agente de Contratação)
 
-Agente responsável pela condução dos procedimentos licitatórios eletrônicos, conforme as atribuições e os limites estabelecidos na regulamentação aplicável.
+Agente responsável pela condução dos procedimentos licitatórios eletrônicos, observadas as competências e os limites estabelecidos na legislação e na regulamentação aplicáveis.
 
 ### Presidente da Comissão de Contratação
 
-Responsável pela condução das atividades atribuídas à comissão de contratação, inclusive pelo recebimento, exame e julgamento dos documentos relativos às licitações e aos procedimentos auxiliares, conforme aplicável.
+Responsável pela coordenação e condução das atividades atribuídas à comissão de contratação, incluindo o recebimento, a análise e o julgamento de documentos relativos às licitações e aos procedimentos auxiliares, quando aplicável.
 
 ### Homologador
 
-Autoridade competente responsável pelos atos de adjudicação e homologação do processo de contratação.
+Autoridade competente responsável pela adjudicação e pela homologação dos processos de contratação, nos termos da legislação vigente.
 
 ### Consulta
 
-Permite o acesso para visualização das informações disponíveis, sem permissão para realizar alterações ou executar operações restritas a outros perfis.
+Permite o acesso às informações disponibilizadas no sistema, sem autorização para realizar alterações ou executar operações restritas a outros perfis.
 
 ### Gestão de Atas (Contratos.gov.br)
 
@@ -62,37 +60,39 @@ Permite o acesso às funcionalidades relacionadas à gestão de atas de registro
 
 ### Administrador de Unidade (Contratos.gov.br)
 
-Responsável pela gestão de usuários no âmbito de uma unidade.
+Responsável pela gestão dos usuários e respectivos acessos no âmbito da unidade cadastrada.
 
 ### Administrador do Órgão (Contratos.gov.br)
 
-Responsável pela gestão de usuários e respectivos acessos no âmbito do órgão, conforme as permissões atribuídas ao perfil.
+Responsável pela administração dos usuários e dos respectivos níveis de acesso no âmbito do órgão, conforme as permissões atribuídas ao perfil.
 
 ### Dispensa Eletrônica (Compra Direta)
 
-Permite a atuação nas funcionalidades relacionadas aos processos de contratação direta por dispensa eletrônica, conforme as permissões atribuídas ao perfil.
+Permite a atuação nas funcionalidades relacionadas aos processos de contratação direta por dispensa eletrônica, de acordo com as permissões atribuídas ao perfil.
 
 ### SICAF
 
-Permite acesso às funcionalidades de cadastro e consulta de fornecedores, conforme as permissões atribuídas ao perfil.
+Permite o acesso às funcionalidades de cadastramento, atualização e consulta de fornecedores, conforme as permissões atribuídas ao perfil.
 
 ### Autorizador do Órgão Comprador (Contrata+Brasil)
 
-Autoridade competente responsável por autorizar a publicação da contratação e confirmar a escolha do fornecedor, conforme as funcionalidades e regras aplicáveis ao sistema.
+Autoridade competente responsável por autorizar a publicação da contratação e confirmar a seleção do fornecedor, observadas as regras e funcionalidades do sistema.
 
 ### Demandante do Órgão Comprador (Contrata+Brasil)
 
-Agente responsável pelo preenchimento do formulário de cadastro da oportunidade e pela seleção do fornecedor vencedor, conforme as funcionalidades e regras aplicáveis ao sistema.
+Agente responsável pelo preenchimento do formulário de cadastro da oportunidade, pelo acompanhamento do processo e pela seleção do fornecedor vencedor, observadas as regras e funcionalidades do sistema.
+
+!!! Warning "Atenção"
+
+    Os perfis disponibilizados no SGA poderão ser alterados, ampliados ou descontinuados conforme a evolução dos sistemas e serviços que integram o ecossistema Compras.
 
 ---
 
 <div style="display: flex; justify-content: flex-end; margin: 20px 0;">
 
 <button onclick="window.print()"
-style="background-color: #0056b3; color: white; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
-
+style="background-color: #0056b3; color: #ffffff; padding: 6px 16px; border: none; border-radius: 5px; font-size: 14px; cursor: pointer; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
 🖨️ Imprimir ou baixar esta página
-
 </button>
 
 </div>
