@@ -51,9 +51,9 @@ VII. **habilitação dos acessos**: após a validação da solicitação, serão
 
 ## 8.1 Fluxo de Gestão de Acesso ao SIASG (SGA) ##
 
-O fluxo a seguir apresenta as principais etapas do processo de gestão de acesso no SGA, desde o início da solicitação pela entidade privada sem fins lucrativos até a habilitação dos usuários.
+A imagem a seguir mostra as principais etapas do processo de gestão de acesso no SGA, desde o início da solicitação pela entidade privada sem fins lucrativos até a habilitação dos usuários.
 
-O fluxo contempla as etapas de **verificação da necessidade de acesso, solicitação institucional, cadastramento de usuários e perfis, formalização do Termo de Acesso, análise e validação, tratamento de pendências e habilitação dos acessos**.
+O fluxo apresenta as etapas de **verificação da necessidade de acesso, solicitação institucional, cadastramento de usuários e perfis, formalização do Termo de Acesso, análise e validação, tratamento de pendências e habilitação dos acessos**.
 
 
 ![Figura 1](Imagens/Figura-1.png)
