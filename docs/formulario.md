@@ -116,9 +116,12 @@ Para iniciar o processo de adesão, o interessado deverá acessar a página do [
 
 **Na página do SGA:** 
 
-I. Localize, na parte inferior da página, a opção **“Termo de Acesso”**.  
-II. Selecione a opção correspondente para iniciar o preenchimento do formulário de adesão.   
-III. Preencha as informações solicitadas e anexe os documentos necessários, conforme as orientações apresentadas neste manual.   
+I. Localize, na parte inferior da página, a opção **“Termo de Acesso”**.
+
+II. Selecione a opção correspondente para iniciar o preenchimento do formulário de adesão.
+
+III. Preencha as informações solicitadas e anexe os documentos necessários, conforme as orientações apresentadas neste manual.
+
 
 ![Figura 2](Imagens/Figura-2.png)
 
