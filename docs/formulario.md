@@ -37,8 +37,6 @@ A preparação prévia contribui para reduzir a ocorrência de pendências e a n
 
 ## 9.1 Checklist para iniciar a solicitação de Adesão ao SGA
 
-Antes de iniciar a solicitação de adesão ao **Sistema de Gestão de Acesso (SGA)**, reúna as informações e os documentos que poderão ser necessários durante o processo. 
-
 A documentação exigida pode variar de acordo com o **perfil solicitado** e com as responsabilidades atribuídas à **entidade privada sem fins lucrativos** e ao órgão concedente. Por isso, consulte previamente os requisitos específicos do perfil que será solicitado.
 
 ### 9.1.1 Acesso ao sistema
@@ -62,7 +60,7 @@ Para o **dirigente máximo da entidade privada sem fins lucrativos** ou seu **su
 
 ### 9.1.4 Documentos do dirigente ou representante do órgão concedente
 
-Quando houver participação do órgão concedente no processo:  
+**Quando houver participação do órgão concedente no processo:**  
 
 ☐ Documento oficial de identificação, quando exigido.   
 ☐ Documento que comprove a condição de dirigente ou representante do órgão concedente, quando exigido.  
@@ -70,7 +68,7 @@ Quando houver participação do órgão concedente no processo:
 
 ### 9.1.5 Atos de designação e documentos comprobatórios
 
-Para os perfis que exigem designação formal ou comprovação de atribuições:    
+**Para os perfis que exigem designação formal ou comprovação de atribuições:**    
 
 ☐ Ato de designação do responsável, quando aplicável.  
 ☐ Documento que comprove a vinculação, a representação ou a condição necessária para o exercício do perfil solicitado, quando aplicável.   
@@ -87,7 +85,7 @@ Para os perfis que exigem designação formal ou comprovação de atribuições:
 
 ### 9.1.7 Arquivos para anexação
 
-Antes de anexar os documentos ao SGA:   
+**Antes de anexar os documentos ao SGA:**   
 
 ☐ Documentos completos e legíveis.    
 ☐ Arquivos nos formatos aceitos pelo SGA: JPG, JPEG, PNG ou PDF.   
@@ -96,7 +94,7 @@ Antes de anexar os documentos ao SGA:
 
 ### 9.1.8 Checklist final
 
-Antes de iniciar a solicitação, confirme: 
+**Antes de iniciar a solicitação, confirme:** 
 
 ☐ Conta Gov.br ativa.   
 ☐ Dados cadastrais da entidade.   
@@ -165,19 +163,21 @@ Corresponde à autoridade máxima ou ao dirigente máximo, ou aos seus substitut
 
 **O usuário deverá informar:** 
 
-I. Telefone válido, com DDD.   
+I. Telefone válido, com DDD. 
+
 II. Endereço de e-mail válido para contato, preferencialmente institucional. 
 
 **Deverão ser anexados os seguintes documentos:** 
 
-I. Documento de identificação oficial com foto do dirigente máximo ou de seu substituto legal.   
+I. Documento de identificação oficial com foto do dirigente máximo ou de seu substituto legal.
+
 II. Ato de designação ou Termo de Posse do dirigente máximo ou de seu substituto legal.   
 
 !!! warning "Atenção"
 
-     O processo somente prosseguirá após:
-    * O preenchimento completo e correto de todos os dados;
-    * A anexação dos documentos exigidos.
+     O processo somente prosseguirá após:   
+    * O preenchimento completo e correto de todos os dados;   
+    * A anexação dos documentos exigidos.  
 
 ![Figura 6](Imagens/Figura-6.png)
 
@@ -208,7 +208,8 @@ O responsável pelo cadastro corresponde à pessoa indicada pela autoridade comp
 **Após concluir o preenchimento das informações, o responsável deverá:** 
 
 I – Marcar a opção “De Acordo”, para confirmar ciência e concordância com os termos;  
-II – Clicar em “Enviar”, para prosseguir para a próxima etapa. 
+
+II – Clicar em “Enviar”, para prosseguir para a próxima etapa.   
 
 **Após o envio, a solicitação seguirá o fluxo de análise e validação previsto no SGA.** 
 
