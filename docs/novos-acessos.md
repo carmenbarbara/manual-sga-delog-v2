@@ -42,7 +42,7 @@ Para cadastrar um usuário no ecossistema Compras, preencha todos os campos soli
 
 *Figura 28 – Cadastro de novo usuário e seleção de perfil de acesso.*
 
-Para os perfis de Pregoeiro ou Agente de Contratação e Homologador, deverá ser anexado o respectivo ato de designação ou documento comprobatório exigido pelo sistema, conforme o perfil selecionado.
+Para os perfis de pregoeiro ou agente de contratação e homologador, deverá ser anexado o respectivo ato de designação ou documento comprobatório exigido pelo sistema, conforme o perfil selecionado.
 
 ![Figura 29](Imagens/Figura-29.png)
 
@@ -64,15 +64,15 @@ Após a formação da lista de usuários, clique em **"Salvar"** para prosseguir
 
 ## 14.1 Geração e Encaminhamento de Ofício
 
-O responsável pelo cadastro deverá clicar em **"Ofício dos Novos Usuários SIASG"**. O sistema realizará o download do arquivo.
+O responsável pelo cadastro deverá clicar em **"Ofício dos novos usuários SIASG"**. O sistema realizará o download do arquivo.
 
 ![Figura 32](Imagens/Figura-32.png)
 
-*Figura 32 – Geração de Ofício de Novos Usuários SIASG.*
+*Figura 32 – Geração de ofício de novos usuários SIASG.*
 
 ![Figura 33](Imagens/Figura-33.png)
 
-*Figura 33 – Anexação do Ofício de Novos Usuários SIASG.*
+*Figura 33 – Anexação do ofício de novos usuários SIASG.*
 
 Em seguida, o ofício deverá ser assinado pela autoridade competente da entidade privada sem fins lucrativos, anexado ao sistema SGA e encaminhado para análise pelo Ministério.
 
@@ -96,13 +96,13 @@ Para concluir a solicitação de acesso, o responsável deverá clicar em **"Ava
 | Solicitação de novos usuários aprovada | Aguardar a conclusão da habilitação pelo MGI |
 | Usuários habilitados | O sistema estará apto a receber novas solicitações| 
 
-## 14.2 Pendências na Solicitação de Novos Usuários  
+## 14.2 Pendências na solicitação de novos usuários  
 
-Quando houver pendência relacionada à solicitação de novos usuários, o sistema exibirá mensagem: **“Rever Solicitação de Usuários SIASG”**. 
+Quando houver pendência relacionada à solicitação de novos usuários, o sistema exibirá mensagem: **“Rever solicitação de usuários SIASG”**. 
 
 ![Figura 36](Imagens/Figura-36.png)
 
-*Figura 36 -  Mensagem de Pendência na Solicitação de Novos Usuários*
+*Figura 36 -  Mensagem de pendência na solicitação de novos usuários*
 
 Ao selecionar a opção **“Rever solicitação de Usuários SIASG”**, o responsável poderá visualizar os comentários inseridos pelo Ministério e identificar as providências necessárias para regularização.
 
@@ -110,13 +110,14 @@ Ao selecionar a opção **“Rever solicitação de Usuários SIASG”**, o resp
 
 *Figura 37 - Comentário e ações disponíveis na solicitação de usuários SIASG*
 
-Para visualizar as informações enviadas pelo Ministério, clique no ícone de **“Comentários”**. 
+Para visualizar as informações enviadas pelo Ministério, clique no ícone 💬 **"Comentários"**.
 
 ![Figura 38](Imagens/Figura-38.png)
 
-*Figura 38 -  Visualização de comentários do Ministério da Gestão* 
+*Figura 38 -  Visualização de comentários do Ministério da Gestão e Inovação em Serviços Públicos* 
 
-Para corrigir uma pendência, clique no ícone correspondente à edição do registro.  O sistema permitirá atualizar os dados cadastrados ou, quando aplicável, anexar a nomeação do pregoeiro ou o ato designação do homologador. 
+Para corrigir uma pendência, clique no ícone ✏️ **"Editar"** correspondente ao registro.
+O sistema permitirá atualizar os dados cadastrados ou, quando aplicável, anexar a nomeação do pregoeiro ou o ato designação do homologador. 
 
 Clique em **“Salvar”** para efetivar a alteração.
 
