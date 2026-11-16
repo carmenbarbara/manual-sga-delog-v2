@@ -130,13 +130,13 @@ O sistema exibirá uma mensagem **“Deseja realmente excluir este usuário?”*
 
 ![Figura 40](Imagens/Figura-40.png)
 
-*Figura 40 -  Confirmação de exclusão de usuário*
+*Figura 40 - Confirmação de exclusão de usuário*
 
 Após realizar as correções necessárias, clique em **“Próxima etapa”** para dar continuidade ao processo.
 
 ![Figura 41](Imagens/Figura-41.png)
 
-*Figura 41 - Ação **“Próxima etapa”** no sistema*   
+*Figura 41 - Botão **“Próxima etapa”** no sistema*   
 
 Na etapa seguinte, selecione a opção **“Gerar ofício dos novos usuários SIASG”** para gerar o documento atualizado. 
 
