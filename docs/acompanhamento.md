@@ -136,7 +136,7 @@ Após o envio, o sistema exibirá a situação **"Termo e usuário SIASG corrigi
 
 ## 13.4 Acompanhamento da solicitação
 
-Após o encaminhamento da solicitação, o responsável deverá acompanhar seu andamento no SGA e observar as mensagens e situações apresentadas pelo sistema, conforme descrito na seção **13.1 - Situações da solicitação**.
+Após o encaminhamento da solicitação, o responsável deverá acompanhar seu andamento no SGA e observar as mensagens e situações apresentadas pelo sistema, conforme descrito na seção **"13.1 - Situações da solicitação"**.
 
 Quando o termo de acesso e o cadastro dos usuários forem validados, e os procedimentos necessários à habilitação dos acessos forem concluídos, a solicitação será considerada finalizada.
 
