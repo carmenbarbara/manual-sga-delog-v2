@@ -180,8 +180,7 @@ II. ato de designação ou Termo de Posse do dirigente máximo ou de seu substit
 
 !!! warning "Atenção"
 
-    O processo somente prosseguirá após:
-    
+    O processo somente prosseguirá após:   
     * o preenchimento completo e correto de todos os dados;
     * a anexação dos documentos exigidos.
 
