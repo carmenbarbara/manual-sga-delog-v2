@@ -28,7 +28,6 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-
 # 15. Gestão dos usuários cadastrados
 
 Para acessar a funcionalidade de gerenciamento dos usuários, clique no ícone ☰ **"Menu"**, localizado no canto superior esquerdo da tela.
