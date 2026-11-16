@@ -90,9 +90,9 @@ Dessa forma, o SGA contribui para garantir que o acesso às soluções que integ
 ---
 
 # 5.Objetivo
-Este manual foi elaborado com a finalidade de orientar as entidades privadas sem fins lucrativos que recebem recursos públicos por meio de parcerias com a Administração Pública quanto aos procedimentos necessários para utilização do Sistema de Gestão de Acesso (SGA), incluindo: 
+Este manual foi elaborado com a finalidade de orientar as entidades privadas sem fins lucrativos que recebem recursos públicos por meio de parcerias com a administração pública quanto aos procedimentos necessários para utilização do Sistema de Gestão de Acesso (SGA), incluindo: 
 
-I. o preenchimento do formulário de adesão e a geração do Termo de Acesso;
+I. o preenchimento do formulário de adesão e a geração do termo de acesso;
 
 II. o cadastramento e a gestão de usuários;
 
@@ -103,7 +103,15 @@ IV. as orientações relacionadas à gestão dos acessos no ecossistema Compras.
 ---
 
 # 6.Enquadramento Institucional e Base Legal
+A utilização do Sistema de Gestão de Acesso (SGA) no ecossistema Compras.gov.br deve observar os normativos e as diretrizes aplicáveis às compras governamentais e à gestão de usuários.
 
+O SGA é destinado, entre outros públicos, às entidades privadas sem fins lucrativos que recebem recursos públicos por meio de convênios ou instrumentos congêneres, conforme disposto na Portaria nº 355, de 9 de agosto de 2019.
+
+Os principais normativos relacionados ao tema são:
+
+I. o <a href="https://www.planalto.gov.br/ccivil_03/decreto/antigos/d1094.htm" target="_blank" rel="noopener noreferrer">Decreto nº 1.094, de 23 de março de 1994</a>, que dispõe sobre o Sistema de Serviços Gerais (SISG) e o Sistema Integrado de Administração de Serviços Gerais (SIASG);
+
+II. a <a href="https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias/portaria-no-355-de-09-de-agosto-de-2019" target="_blank" rel="noopener noreferrer">Portaria nº 355, de 9 de agosto de 2019</a>, da Secretaria de Gestão do então Ministério da Economia, que institui o Sistema de Gestão de Acesso (SGA) ao SIASG e estabelece as diretrizes e condições para sua utilização, inclusive por entidades privadas sem fins lucrativos que recebem recursos públicos por meio de convênios ou instrumentos congêneres.
 
 ---
 
