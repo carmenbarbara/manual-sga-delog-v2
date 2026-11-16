@@ -136,23 +136,23 @@ Após realizar as correções necessárias, clique em **“Próxima etapa”** p
 
 ![Figura 41](Imagens/Figura-41.png)
 
-*Figura 41 - Botão **“Próxima etapa”** no sistema*   
+*Figura 41 - Botão "Próxima etapa" no sistema.*
 
-Na etapa seguinte, selecione a opção **“Gerar ofício dos novos usuários SIASG”** para gerar o documento atualizado. 
+Na etapa seguinte, selecione a opção **"Gerar ofício dos novos usuários SIASG"** para gerar o documento atualizado.
 
-O responsável deverá: 
+O responsável deverá:
 
-Providenciar a assinatura da autoridade competente da entidade privada sem fins lucrativos    
-Anexar o ofício assinado    
-Após o upload, clicar em **“Avançar”**    
- 
+- providenciar a assinatura da autoridade competente da entidade privada sem fins lucrativos;
+- anexar o ofício devidamente assinado;
+- após o envio do arquivo, clicar em **"Avançar"**.
+
 ![Figura 42](Imagens/Figura-42.png)
 
- *Figura 42 - Ação **“Avançar”** na etapa de envio do ofício.*  
+*Figura 42 - Ação "Avançar" na etapa de envio do ofício.*
 
- !!! Warning "Atenção"  
- 
-    Após o reencaminhamento das informações e documentos corrigidos, a solicitação retornará para análise do Ministério. O responsável deverá acompanhar o andamento da solicitação no SGA. 
+!!! warning "Atenção"
+
+    Após o reencaminhamento das informações e dos documentos corrigidos, a solicitação retornará para análise do Ministério. O responsável deverá acompanhar o andamento da solicitação no SGA. 
 
 ---
 
