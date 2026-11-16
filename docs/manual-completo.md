@@ -139,7 +139,32 @@ A partir do próximo capítulo, são apresentados os procedimentos necessários 
 ---
 
 # 8.Visão Geral do Processo de Adesão
+O processo de adesão ao Sistema de Gestão de Acesso (SGA) compreende etapas que envolvem a verificação da necessidade de acesso, a solicitação institucional, o cadastramento de usuários e perfis de acesso, a formalização do Termo de Acesso, a análise e validação da solicitação, e a habilitação dos acessos, incluindo, quando aplicável, o tratamento de pendências. 
 
+De forma geral, o processo segue as seguintes etapas: 
+
+I. **verificação da necessidade de acesso**: a entidade privada sem fins lucrativos deve verificar se atende aos requisitos aplicáveis ao serviço ou sistema que pretende utilizar no ecossistema Compras;  
+
+II. **solicitação de acesso institucional**: preenchimento dos dados da entidade, do Órgão concedente, dos dirigentes e do responsável pelo cadastro, bem como anexação dos documentos exigidos;  
+
+III.  **cadastramento de usuários e perfis**: inclusão dos usuários que utilizarão o ecossistema Compras e indicação dos respectivos perfis de acesso, observados os requisitos aplicáveis;   
+
+IV. **formalização do Termo de Acesso**: geração, assinatura e encaminhamento do Termo de Acesso pelo SGA;  
+
+V.  **análise e validação**: análise da solicitação pelo Ministério da Gestão e da Inovação em Serviços Públicos (MGI), com verificação das informações e documentos apresentados;  
+
+VI. **tratamento de pendências**: caso sejam identificadas inconsistências, o responsável pelo cadastro deverá realizar as correções solicitadas e encaminhar novamente a solicitação para análise;  
+
+VII. **habilitação dos acessos**: após a validação da solicitação, serão realizados os procedimentos necessários para a habilitação dos usuários e respectivos perfis no ecossistema Compras.   
+
+## 8.1 Fluxo de Gestão de Acesso ao SIASG (SGA) ##
+A imagem a seguir mostra as principais etapas do processo de gestão de acesso no SGA, desde o início da solicitação pela entidade privada sem fins lucrativos até a habilitação dos usuários.
+
+O fluxo apresenta as etapas de **verificação da necessidade de acesso, solicitação institucional, cadastramento de usuários e perfis, formalização do Termo de Acesso, análise e validação, tratamento de pendências e habilitação dos acessos**.
+
+![Figura 1](Imagens/Figura-1.png)
+
+*Figura 1 - Fluxo de Gestão de Acesso ao SIASG (SGA).*
 
 ---
 
