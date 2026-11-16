@@ -30,7 +30,6 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 # 17. Disposições Finais
 
-
 O Sistema de Gestão de Acesso (SGA) constitui instrumento estratégico para o fortalecimento da governança, da segurança e da padronização do acesso ao ecossistema Compras do Governo Federal.
 
 Este manual consolida orientações técnicas e procedimentais destinadas a apoiar as entidades privadas sem fins lucrativos na correta utilização do sistema, contribuindo para o aprimoramento da eficiência administrativa, da transparência e da conformidade com os normativos vigentes.
