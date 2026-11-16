@@ -27,7 +27,6 @@ style="background-color: #0056b3; color: #ffffff; padding: 6px 16px; border: non
 </div>
 
 # 11. Cadastramento de usuários e perfis
-
 Para realizar o cadastramento de um usuário, preencha os campos solicitados e selecione o perfil de acesso correspondente às atividades que serão exercidas por ele.
 
 ![Figura 10](Imagens/Figura-10.png)
@@ -58,7 +57,6 @@ Para realizar o cadastramento de um usuário, preencha os campos solicitados e s
 
 🔎 **Visualizar** os documentos anexados ao sistema.
     
-
 ![Figura 12](Imagens/Figura-12.png)
 
 *Figura 12 - Funcionalidades de edição, exclusão e visualização de usuários cadastrados.*
