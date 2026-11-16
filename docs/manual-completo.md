@@ -35,7 +35,11 @@ PÚBLICO-ALVO: ENTIDADES PRIVADAS SEM FINS LUCRATIVOS
 
 
 # 1.Apresentação
+Este manual tem como objetivo orientar as entidades privadas sem fins lucrativos que recebem recursos públicos por meio de parcerias com a Administração Pública na utilização do Sistema de Gestão de Acesso (SGA) e no acesso ao ecossistema Compras do Governo Federal. 
 
+O documento apresenta, de forma prática e objetiva, as orientações necessárias para solicitar a adesão ao sistema, realizar cadastros, gerenciar usuários, definir perfis de acesso, formalizar o Termo de Acesso e acompanhar as solicitações no SGA. 
+
+As orientações foram organizadas de maneira sequencial para apoiar o usuário em todas as etapas do processo, desde a solicitação de adesão até a administração dos acessos da entidade no ecossistema Compras. 
 
 ---
 
