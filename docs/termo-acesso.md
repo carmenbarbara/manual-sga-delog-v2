@@ -27,7 +27,6 @@ style="background-color: #0056b3; color: #ffffff; padding: 6px 16px; border: non
 </div>
 
 # 12. Geração e encaminhamento do termo de acesso
-
 Após concluir o cadastramento dos usuários e a atribuição dos respectivos perfis de acesso, o responsável pelo cadastro deverá gerar o termo de acesso no Sistema de Gestão de Acesso (SGA).
 
 Para isso:
