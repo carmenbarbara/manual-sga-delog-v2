@@ -42,10 +42,8 @@ Em seguida, clique em **"Usuários SIASG"** e selecione a opção **"Gerenciar u
 
 *Figura 44 - Ícones de ações do gerenciamento de usuários SIASG*
 
-## Significado das Ações
-
-### Editar dados do usuário
-
+## Significado das Ações  
+### Editar dados do usuário  
 #### Editar cadastro de usuário 
 
 Para editar um usuário já cadastrado, localize o registro desejado e selecione a opção ✏️ **"Editar"**. O responsável pelo cadastro poderá alterar apenas os seguintes dados:
@@ -69,11 +67,7 @@ O sistema exibirá a relação de perfis disponíveis, permitindo selecionar um 
 
 #### Excluir usuário
 
-Para excluir um registro, clique no ícone ❌ **"Excluir"**
-
-O sistema exibirá uma mensagem de confirmação.
-
-Clique em **"Não"** para cancelar o procedimento ou em **"Sim"** para confirmar a exclusão.
+Para excluir um registro, clique no ícone ❌ **"Excluir"**. O sistema exibirá uma mensagem de confirmação, você deverá clicar em **"Não"** para cancelar o procedimento ou em **"Sim"** para confirmar a exclusão.
 
 !!! warning "Atenção"
 
