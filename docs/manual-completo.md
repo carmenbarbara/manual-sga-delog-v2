@@ -698,7 +698,7 @@ A partir desse momento, o responsável poderá gerenciar os usuários cadastrado
 
 ---
 
-# 14.1 Geração e Encaminhamento de Ofício
+# 14.Solicitação de novos acessos ao ecossistema Compras.gov.br
 
 
 # 15.Gestão dos Usuários
