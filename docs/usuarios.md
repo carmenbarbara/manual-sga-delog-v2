@@ -35,8 +35,7 @@ Para realizar o cadastramento de um usuário, preencha os campos solicitados e s
 
 !!! warning "Atenção"
 
-    Para o perfil de **Pregoeiro (agente de contratação)**, é obrigatório anexar o **ato de designação específico** para o exercício da função.
-
+    Para o perfil de **Pregoeiro (agente de contratação)**, é obrigatório anexar o **ato de designação específico** para o exercício da função.    
     Para o perfil de **Homologador**, deverá ser anexado o **ato de designação** ou o **termo de posse** que comprove a condição de autoridade competente.
 
 ![Figura 11](Imagens/Figura-11.png)
@@ -45,17 +44,12 @@ Para realizar o cadastramento de um usuário, preencha os campos solicitados e s
 
 !!! warning "Atenção"
 
-    Após salvar os dados do usuário que utilizará o ecossistema Compras, o SGA permanecerá na mesma tela, permitindo a inclusão de novos usuários, se necessário.
-
-    Para passar à próxima etapa, é obrigatório cadastrar **pelo menos um usuário**.
-
+    Após salvar os dados do usuário que utilizará o ecossistema Compras, o SGA permanecerá na mesma tela, permitindo a inclusão de novos usuários, se necessário.   
+    Para passar à próxima etapa, é obrigatório cadastrar pelo menos um usuário.    
     Caso seja necessário editar, excluir ou visualizar os dados inseridos, o sistema disponibiliza, no campo **"Ações"**, as seguintes funcionalidades:
-
-✏️ **Editar** os dados cadastrados no sistema.
-
-❌ **Excluir** os dados cadastrados no sistema.
-
-🔎 **Visualizar** os documentos anexados ao sistema.
+    ✏️ **Editar** os dados cadastrados no sistema;     
+    ❌ **Excluir** os dados cadastrados no sistema;  
+    🔎 **Visualizar** os documentos anexados ao sistema.  
     
 ![Figura 12](Imagens/Figura-12.png)
 
