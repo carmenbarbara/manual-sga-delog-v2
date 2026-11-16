@@ -42,7 +42,7 @@ Pode ser cadastrada como responsável pelo SGA a pessoa indicada pela entidade p
 
 Sim. O sistema permite o cadastramento de mais de um responsável. Antes de excluir o último responsável cadastrado, a entidade deverá cadastrar outro responsável, de modo a evitar que fique sem responsável para realizar a gestão dos usuários e dos respectivos acessos.
 
-## 4. Quem deve assinar o Termo de Acesso?
+## 4. Quem deve assinar o termo de acesso?
 
 O Termo de Acesso deverá ser assinado pelo dirigente máximo da entidade privada sem fins lucrativos ou por seu substituto legal, conforme os requisitos aplicáveis ao procedimento.
 
@@ -54,7 +54,7 @@ Sim. O responsável pelo SGA deve possuir uma conta ativa na plataforma Gov.br p
 
 Sim. O preenchimento correto dos dados e a anexação dos documentos exigidos são necessários para o prosseguimento da solicitação.
 
-## 7. O que acontece se o Termo de Acesso for devolvido com pendências?
+## 7. O que acontece se o termo de acesso for devolvido com pendências?
 
 O sistema apresentará a situação correspondente à pendência e permitirá ao responsável consultar os comentários, corrigir as informações ou documentos necessários e encaminhar a solicitação para nova análise.
 
