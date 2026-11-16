@@ -505,10 +505,49 @@ Agente responsável pelo preenchimento do formulário de cadastro da oportunidad
 
 ---
 
-# 11.Cadastramento de Usuários e Perfis
+# 11.Cadastramento de Usuários e Perfis  
+Para realizar o cadastramento de um usuário, preencha os campos solicitados e selecione o perfil de acesso correspondente às atividades que serão exercidas por ele.
 
+![Figura 10](Imagens/Figura-10.png)
+
+*Figura 10 - Cadastramento de usuários e seleção de perfis.*
+
+!!! warning "Atenção"
+
+    Para o perfil de **Pregoeiro (agente de contratação)**, é obrigatório anexar o **ato de designação específico** para o exercício da função.
+
+    Para o perfil de **Homologador**, deverá ser anexado o **ato de designação** ou o **termo de posse** que comprove a condição de autoridade competente.
+
+![Figura 11](Imagens/Figura-11.png)
+
+*Figura 11 - Seleção do perfil de acesso do usuário.*
+
+!!! warning "Atenção"
+
+    Após salvar os dados do usuário que utilizará o ecossistema Compras, o SGA permanecerá na mesma tela, permitindo a inclusão de novos usuários, se necessário.
+
+    Para passar à próxima etapa, é obrigatório cadastrar **pelo menos um usuário**.
+
+    Caso seja necessário editar, excluir ou visualizar os dados inseridos, o sistema disponibiliza, no campo **"Ações"**, as seguintes funcionalidades:
+
+✏️ **Editar** os dados cadastrados no sistema.
+
+❌ **Excluir** os dados cadastrados no sistema.
+
+🔎 **Visualizar** os documentos anexados ao sistema.  
+
+![Figura 12](Imagens/Figura-12.png)
+
+*Figura 12 - Funcionalidades de edição, exclusão e visualização de usuários cadastrados.*
+
+Após concluir o cadastramento dos usuários, clique em **"Avançar"** para acessar a próxima etapa.
+
+![Figura 13](Imagens/Figura-13.png)
+
+*Figura 13 - Avanço para a próxima etapa após o cadastramento dos usuários.*
 
 ---
+
 # 12.Geração e Encaminhamento do Termo de Acesso
 
 ---
