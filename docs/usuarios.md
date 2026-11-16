@@ -46,7 +46,7 @@ Para realizar o cadastramento de um usuário, preencha os campos solicitados e s
 
     Após salvar os dados do usuário que utilizará o ecossistema Compras, o SGA permanecerá na mesma tela, permitindo a inclusão de novos usuários, se necessário.   
     Para passar à próxima etapa, é obrigatório cadastrar pelo menos um usuário.    
-    Caso seja necessário editar, excluir ou visualizar os dados inseridos, o sistema disponibiliza, no campo **"Ações"**, as seguintes funcionalidades:
+    Caso seja necessário editar, excluir ou visualizar os dados inseridos, o sistema disponibiliza, no campo **"Ações"**, as seguintes funcionalidades:     
     ✏️ **Editar** os dados cadastrados no sistema;     
     ❌ **Excluir** os dados cadastrados no sistema;  
     🔎 **Visualizar** os documentos anexados ao sistema.  
