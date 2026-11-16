@@ -28,8 +28,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-# 14. Solicitação de Novos Acessos
-
+# 14. Solicitação de novos acessos ao ecossistema Compras.gov.br   
 Após a conclusão do cadastro inicial, o responsável poderá solicitar novos acessos para usuários da entidade. Para iniciar o procedimento, deve acessar a página principal e clicar em **"Solicitar novos usuários"**.
 
 ![Figura 27](Imagens/Figura-27.png)
