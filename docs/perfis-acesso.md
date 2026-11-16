@@ -26,60 +26,47 @@ style="background-color: #0056b3; color: #ffffff; padding: 6px 16px; border: non
 
 </div>
 
-# 10. Perfis de acesso
-
+# 10. Perfis de acesso   
 Os perfis de acesso do ecossistema Compras correspondem aos diferentes níveis de permissão atribuídos aos usuários das entidades privadas sem fins lucrativos, de acordo com as atribuições e responsabilidades exercidas nos sistemas e serviços disponibilizados.
 
 !!! warning "Atenção"
 
     A definição e a concessão dos perfis de acesso devem estar alinhadas às atribuições de cada usuário e aos requisitos específicos de cada sistema ou serviço. Essa medida é essencial para assegurar a adequada segregação de funções, a segurança das operações, a integridade das informações e a conformidade com a legislação e os normativos vigentes.
 
-## 10.1 Perfis disponíveis
-
+## 10.1 Perfis disponíveis   
 Os perfis disponíveis podem variar de acordo com o sistema ou serviço que a entidade necessita utilizar e com as funcionalidades disponibilizadas pelo Sistema de Gestão de Acesso (SGA).
 
-### Pregoeiro (agente de contratação)
-
+### Pregoeiro (agente de contratação)   
 Agente responsável pela condução dos procedimentos licitatórios eletrônicos, observadas as competências e os limites estabelecidos na legislação e na regulamentação aplicáveis.
 
-### Presidente da comissão de contratação
-
+### Presidente da comissão de contratação   
 Responsável pela coordenação e condução das atividades atribuídas à comissão de contratação, incluindo o recebimento, a análise e o julgamento de documentos relativos às licitações e aos procedimentos auxiliares, quando aplicável.
 
-### Homologador
-
+### Homologador   
 Autoridade competente responsável pela adjudicação e pela homologação dos processos de contratação, nos termos da legislação vigente.
 
-### Consulta
-
+### Consulta   
 Permite o acesso às informações disponibilizadas no sistema, sem autorização para realizar alterações ou executar operações restritas a outros perfis.
 
-### Gestão de atas (contratos.gov.br)
-
+### Gestão de atas (contratos.gov.br)   
 Permite o acesso às funcionalidades relacionadas à gestão de atas de registro de preços, conforme as permissões atribuídas ao perfil.
 
-### Administrador de unidade (contratos.gov.br)
-
+### Administrador de unidade (contratos.gov.br)   
 Responsável pela gestão dos usuários e respectivos acessos no âmbito da unidade cadastrada.
 
-### Administrador do órgão (contratos.gov.br)
-
+### Administrador do órgão (contratos.gov.br)  
 Responsável pela administração dos usuários e dos respectivos níveis de acesso no âmbito do órgão, conforme as permissões atribuídas ao perfil.
 
-### Dispensa eletrônica (compra direta)
-
+### Dispensa eletrônica (compra direta)   
 Permite a atuação nas funcionalidades relacionadas aos processos de contratação direta por dispensa eletrônica, de acordo com as permissões atribuídas ao perfil.
 
-### SICAF
-
+### SICAF   
 Permite o acesso às funcionalidades de cadastramento, atualização e consulta de fornecedores, conforme as permissões atribuídas ao perfil.
 
-### Autorizador do órgão comprador (contrata+Brasil)
-
+### Autorizador do órgão comprador (contrata+Brasil)   
 Autoridade competente responsável por autorizar a publicação da contratação e confirmar a seleção do fornecedor, observadas as regras e funcionalidades do sistema.
 
-### Demandante do órgão comprador (contrata+Brasil)
-
+### Demandante do órgão comprador (contrata+Brasil)   
 Agente responsável pelo preenchimento do formulário de cadastro da oportunidade, pelo acompanhamento do processo e pela seleção do fornecedor vencedor, observadas as regras e funcionalidades do sistema.
 
 !!! Warning "Atenção"
