@@ -38,11 +38,11 @@ Os perfis de acesso do ecossistema Compras correspondem aos diferentes níveis d
 
 Os perfis disponíveis podem variar de acordo com o sistema ou serviço que a entidade necessita utilizar e com as funcionalidades disponibilizadas pelo Sistema de Gestão de Acesso (SGA).
 
-### Pregoeiro (Agente de Contratação)
+### Pregoeiro (agente de contratação)
 
 Agente responsável pela condução dos procedimentos licitatórios eletrônicos, observadas as competências e os limites estabelecidos na legislação e na regulamentação aplicáveis.
 
-### Presidente da Comissão de Contratação
+### Presidente da comissão de contratação
 
 Responsável pela coordenação e condução das atividades atribuídas à comissão de contratação, incluindo o recebimento, a análise e o julgamento de documentos relativos às licitações e aos procedimentos auxiliares, quando aplicável.
 
@@ -54,19 +54,19 @@ Autoridade competente responsável pela adjudicação e pela homologação dos p
 
 Permite o acesso às informações disponibilizadas no sistema, sem autorização para realizar alterações ou executar operações restritas a outros perfis.
 
-### Gestão de Atas (Contratos.gov.br)
+### Gestão de atas (contratos.gov.br)
 
 Permite o acesso às funcionalidades relacionadas à gestão de atas de registro de preços, conforme as permissões atribuídas ao perfil.
 
-### Administrador de Unidade (Contratos.gov.br)
+### Administrador de unidade (contratos.gov.br)
 
 Responsável pela gestão dos usuários e respectivos acessos no âmbito da unidade cadastrada.
 
-### Administrador do Órgão (Contratos.gov.br)
+### Administrador do órgão (contratos.gov.br)
 
 Responsável pela administração dos usuários e dos respectivos níveis de acesso no âmbito do órgão, conforme as permissões atribuídas ao perfil.
 
-### Dispensa Eletrônica (Compra Direta)
+### Dispensa eletrônica (compra direta)
 
 Permite a atuação nas funcionalidades relacionadas aos processos de contratação direta por dispensa eletrônica, de acordo com as permissões atribuídas ao perfil.
 
@@ -74,11 +74,11 @@ Permite a atuação nas funcionalidades relacionadas aos processos de contrataç
 
 Permite o acesso às funcionalidades de cadastramento, atualização e consulta de fornecedores, conforme as permissões atribuídas ao perfil.
 
-### Autorizador do Órgão Comprador (Contrata+Brasil)
+### Autorizador do órgão comprador (contrata+Brasil)
 
 Autoridade competente responsável por autorizar a publicação da contratação e confirmar a seleção do fornecedor, observadas as regras e funcionalidades do sistema.
 
-### Demandante do Órgão Comprador (Contrata+Brasil)
+### Demandante do órgão comprador (contrata+Brasil)
 
 Agente responsável pelo preenchimento do formulário de cadastro da oportunidade, pelo acompanhamento do processo e pela seleção do fornecedor vencedor, observadas as regras e funcionalidades do sistema.
 
