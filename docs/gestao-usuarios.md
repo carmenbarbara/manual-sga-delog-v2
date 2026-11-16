@@ -61,9 +61,9 @@ Para alterar o perfil de um usuário, localize o registro desejado e selecione a
 
 O sistema exibirá a relação de perfis disponíveis, permitindo selecionar um novo perfil ou modificar o perfil atualmente atribuído ao usuário. Após a seleção, confirme a alteração para que ela seja registrada no sistema. 
 
-![Figura 46](Imagens/Figura-46.png)
+![Figura 45](Imagens/Figura-45.png)
 
-*Figura 46 - Seleção e alteração de perfis no gerenciamento de usuários SIASG*  
+*Figura 45 - Seleção e alteração de perfis no gerenciamento de usuários SIASG*  
 
 #### Excluir usuário
 
@@ -85,9 +85,9 @@ Se for necessário incluir novos responsáveis, o sistema disponibiliza o ícone
 
 Logo depois, clique em **“Usuários SIASG”** e selecione a opção **“Gerenciar usuários responsáveis”**.
 
-![Figura 47](Imagens/Figura-47.png)
+![Figura 46](Imagens/Figura-46.png)
 
-*Figura 47 - Acesso ao menu “Usuários SIASG” para gerenciamento de responsáveis*
+*Figura 46 - Acesso ao menu “Usuários SIASG” para gerenciamento de responsáveis*
 
 !!! warning "Atenção"
 
@@ -102,33 +102,33 @@ Clique na opção **“Cadastrar”**. Serão exibidos os campos necessários pa
 **Data de Nascimento**     
 **E-mail**     
 
-![Figura 48](Imagens/Figura-48.png)  
+![Figura 47](Imagens/Figura-47.png)  
 
 *Figura 48 - Tela de cadastro de usuários SIASG*
 
 Para finalizar o procedimento, clique em **“Salvar”**. 
 
-![Figura 49](Imagens/Figura-49.png)  
+![Figura 48](Imagens/Figura-48.png)  
 
-*Figura 49 - Ação **“Salvar”** no cadastro de responsável*
+*Figura 48 - Ação **“Salvar”** no cadastro de responsável*
 
 # 15.1.2 Alterar ou excluir responsável 
 
 Para alterar ou excluir um responsável, clique no ícone de menu (três barras), localizado no canto superior esquerdo da tela. Em seguida, clique em **“Usuários SIASG”** e selecione a opção: **“Gerenciar usuários responsáveis”**.
 
-![Figura 51](Imagens/Figura-51.png)
+![Figura 49](Imagens/Figura-49.png)
 
-*Figura 51 - Acesso ao gerenciamento de usuários responsáveis SIASG*
+*Figura 49 - Acesso ao gerenciamento de usuários responsáveis SIASG*
 
 Para alterar os dados do responsável, acesse a coluna **“Ações”** e clique no ícone ✏️ **"Editar"** para fazer as alterações.
 
-![Figura 52](Imagens/Figura-52.png)
+![Figura 50](Imagens/Figura-50.png)
 
-*Figura 52 - Ícone de edição na coluna de ações*
+*Figura 50 - Ícone de edição na coluna de ações*
 
 Realize as alterações necessárias e clique em **“Salvar”**. 
 
-![Figura 53](Imagens/Figura-53.png)
+![Figura 51](Imagens/Figura-51.png)
 
 *Figura 53 - Ação **“Salvar”** no sistema*
 
@@ -136,9 +136,9 @@ Para excluir um responsável, acesse a coluna **“Ações”** e clique em ❌ 
 
 O sistema exibirá a mensagem de confirmação: **“Deseja realmente excluir este responsável?** **“Não e Sim”**. 
 
-![Figura 54](Imagens/Figura-54.png)
+![Figura 52](Imagens/Figura-52.png)
 
-*Figura 54 - Confirmação de exclusão de responsável* 
+*Figura 52 - Confirmação de exclusão de responsável* 
 
 !!! warning "Atenção"
    
