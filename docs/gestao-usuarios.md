@@ -81,13 +81,13 @@ Para as entidades privadas sem fins lucrativos, a criação e a vinculação da 
 
 ### 15.1.1 Cadastrar novo responsável  
 
-Se for necessário incluir novos responsáveis, o sistema disponibiliza o ícone de menu (três barras), localizado no canto superior esquerdo. 
+Se for necessário incluir novos responsáveis, o sistema disponibiliza o ícone ☰ **"menu"**, localizado no canto superior esquerdo. 
 
 Logo depois, clique em **“Usuários SIASG”** e selecione a opção **“Gerenciar usuários responsáveis”**.
 
-![Figura 48](Imagens/Figura-48.png)
+![Figura 47](Imagens/Figura-47.png)
 
-*Figura 48 - Acesso ao menu “Usuários SIASG” para gerenciamento de responsáveis*
+*Figura 47 - Acesso ao menu “Usuários SIASG” para gerenciamento de responsáveis*
 
 !!! warning "Atenção"
 
@@ -102,27 +102,25 @@ Clique na opção **“Cadastrar”**. Serão exibidos os campos necessários pa
 **Data de Nascimento**     
 **E-mail**     
 
-![Figura 49](Imagens/Figura-49.png)
+![Figura 48](Imagens/Figura-48.png)  
 
-*Figura 49 - Tela de cadastro de usuários SIASG*
+*Figura 48 - Tela de cadastro de usuários SIASG*
 
 Para finalizar o procedimento, clique em **“Salvar”**. 
 
-![Figura 50](Imagens/Figura-50.png)
+![Figura 49](Imagens/Figura-49.png)  
 
-*Figura 50 - Ação **“Salvar”** no cadastro de responsável*
+*Figura 49 - Ação **“Salvar”** no cadastro de responsável*
 
 # 15.1.2 Alterar ou excluir responsável 
 
-Para alterar ou excluir um responsável, clique no ícone de menu (três barras), localizado no canto superior esquerdo da tela. 
-
-Em seguida, clique em **“Usuários SIASG”** e selecione a opção: **“Gerenciar usuários responsáveis”**.
+Para alterar ou excluir um responsável, clique no ícone de menu (três barras), localizado no canto superior esquerdo da tela. Em seguida, clique em **“Usuários SIASG”** e selecione a opção: **“Gerenciar usuários responsáveis”**.
 
 ![Figura 51](Imagens/Figura-51.png)
 
 *Figura 51 - Acesso ao gerenciamento de usuários responsáveis SIASG*
 
-Para alterar os dados do responsável, acesse a coluna **“Ações”** e clique no ícone ✏️ para editar.
+Para alterar os dados do responsável, acesse a coluna **“Ações”** e clique no ícone ✏️ **"Editar"** para fazer as alterações.
 
 ![Figura 52](Imagens/Figura-52.png)
 
