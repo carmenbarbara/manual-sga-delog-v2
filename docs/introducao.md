@@ -29,9 +29,7 @@ style="background-color: #0056b3; color: white; padding: 6px 16px; border: none;
 
 </div>
 
-
 # 2. Introdução
-
 
 O Sistema de Gestão de Acesso (SGA) é a ferramenta responsável pelo gerenciamento e controle dos acessos de usuários das entidades privadas sem fins lucrativos ao ecossistema Compras do Governo Federal. 
 
