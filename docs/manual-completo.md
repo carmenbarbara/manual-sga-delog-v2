@@ -942,7 +942,24 @@ O sistema exibirá a mensagem de confirmação: **“Deseja realmente excluir es
 ---
 
 # 16.Acesso ao SGA com Gov.br
+Para acessar o Sistema de Gestão de Acesso (SGA), o responsável pelo cadastro deverá utilizar sua conta Gov.br.
 
+I. Acesse a página do Sistema de Gestão de Acesso (SGA) no Portal Compras.   
+II. Na parte inferior da página, clique em **"Acesse o SGA"**.
+
+<a href="https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/sistema-de-gestao-de-acesso-ao-siasg-sga" target="_blank" rel="noopener noreferrer">Acessar a página do SGA no Portal Compras</a>
+
+![Figura 55](Imagens/Figura-55.png)
+
+*Figura 55 – Acesso ao Sistema de Gestão de Acesso no Portal Compras.*
+
+![Figura 56](Imagens/Figura-56.png)
+
+*Figura 56 – Autenticação na plataforma Gov.br.*
+
+!!! note "NOTA!"
+
+    Para realizar a gestão dos usuários e acompanhar ou gerenciar as solicitações no Sistema de Gestão de Acesso (SGA), é necessário que o responsável pelo cadastro possua uma conta ativa na plataforma Gov.br.
 
 ---
 
