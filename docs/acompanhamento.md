@@ -80,7 +80,7 @@ Caso a solicitação seja devolvida em razão de pendências no cadastro de usu�
 
 *Figura 20 - Inconsistências identificadas no cadastro de usuários.*
 
-Na opção **"Comentário"**, o sistema apresentará uma mensagem contendo a descrição específica de cada pendência identificada.
+Na opção 💬 **"Comentário"**, o sistema apresentará uma mensagem contendo a descrição específica de cada pendência identificada.
 
 Para realizar a correção, o responsável deverá clicar no ícone ✏️ **"Editar"** para alterar o registro do usuário.
 
